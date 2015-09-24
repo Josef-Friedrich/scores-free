@@ -4600,9 +4600,19 @@ Paris Vendredi 1835</text>
         <HairPin id="37">
           <subtype>1</subtype>
           </HairPin>
+        <Slur id="38">
+          <track>0</track>
+          <track2>1</track2>
+          <SlurSegment no="0">
+            <o1 x="-0.404795" y="-3.06488"/>
+            <o2 x="-4.39492" y="-0.80959"/>
+            <o3 x="6.0141" y="-0.693934"/>
+            </SlurSegment>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
+          <Slur type="start" id="38"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -5069,6 +5079,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>75</Beam>
+          <Slur type="stop" id="38"/>
           <Note>
             <track>1</track>
             <pitch>78</pitch>
@@ -5086,7 +5097,7 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="38">
+        <Slur id="39">
           <track>0</track>
           </Slur>
         <Beam id="76">
@@ -5095,7 +5106,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>76</Beam>
-          <Slur type="start" id="38"/>
+          <Slur type="start" id="39"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -5119,7 +5130,7 @@ Paris Vendredi 1835</text>
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <HairPin id="39">
+        <HairPin id="40">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -5238,12 +5249,12 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <endSpanner id="39"/>
+        <endSpanner id="40"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>79</Beam>
-          <Slur type="stop" id="38"/>
+          <Slur type="stop" id="39"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -5257,10 +5268,10 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="40">
+        <Slur id="41">
           <track>0</track>
           </Slur>
-        <HairPin id="41">
+        <HairPin id="42">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -5274,7 +5285,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>80</Beam>
-          <Slur type="start" id="40"/>
+          <Slur type="start" id="41"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -5409,12 +5420,12 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <endSpanner id="41"/>
+        <endSpanner id="42"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>83</Beam>
-          <Slur type="stop" id="40"/>
+          <Slur type="stop" id="41"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -5425,7 +5436,7 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="42">
+        <Slur id="43">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-1.71766" y="-1.20236"/>
@@ -5433,7 +5444,7 @@ Paris Vendredi 1835</text>
             <pos x="-1.13564" y="-2.48422"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="43">
+        <HairPin id="44">
           <subtype>0</subtype>
           </HairPin>
         <Beam id="84">
@@ -5442,7 +5453,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>84</Beam>
-          <Slur type="start" id="42"/>
+          <Slur type="start" id="43"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -5504,7 +5515,7 @@ Paris Vendredi 1835</text>
             <tpc>23</tpc>
             </Note>
           </Chord>
-        <Ottava id="44">
+        <Ottava id="45">
           <subtype>8va</subtype>
           </Ottava>
         <Beam id="86">
@@ -5545,7 +5556,7 @@ Paris Vendredi 1835</text>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <endSpanner id="43"/>
+        <endSpanner id="44"/>
         <Beam id="87">
           </Beam>
         <Chord>
@@ -5589,7 +5600,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <endSpanner id="44"/>
+        <endSpanner id="45"/>
         <Beam id="88">
           </Beam>
         <Chord>
@@ -5689,7 +5700,7 @@ Paris Vendredi 1835</text>
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <HairPin id="45">
+        <HairPin id="46">
           <subtype>1</subtype>
           </HairPin>
         <Chord>
@@ -5745,7 +5756,7 @@ Paris Vendredi 1835</text>
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <endSpanner id="45"/>
+        <endSpanner id="46"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
@@ -5753,9 +5764,9 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             </Articulation>
           <Beam>91</Beam>
-          <Slur type="stop" id="42"/>
+          <Slur type="stop" id="43"/>
           <Note>
-            <Tie id="46">
+            <Tie id="47">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -5770,19 +5781,19 @@ Paris Vendredi 1835</text>
           <durationType>16th</durationType>
           <Beam>92</Beam>
           <Note>
-            <endSpanner id="46"/>
+            <endSpanner id="47"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Slur id="47">
+        <Slur id="48">
           <track>0</track>
           </Slur>
         <Chord>
           <BeamMode>mid</BeamMode>
           <durationType>16th</durationType>
           <Beam>92</Beam>
-          <Slur type="start" id="47"/>
+          <Slur type="start" id="48"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -5847,7 +5858,7 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <HairPin id="48">
+        <HairPin id="49">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -5884,7 +5895,7 @@ Paris Vendredi 1835</text>
             <tpc>23</tpc>
             </Note>
           </Chord>
-        <endSpanner id="48"/>
+        <endSpanner id="49"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
@@ -5930,7 +5941,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>95</Beam>
-          <Slur type="stop" id="47"/>
+          <Slur type="stop" id="48"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -5941,10 +5952,10 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <Slur id="49">
+        <Slur id="50">
           <track>0</track>
           </Slur>
-        <HairPin id="50">
+        <HairPin id="51">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -5958,7 +5969,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>96</Beam>
-          <Slur type="start" id="49"/>
+          <Slur type="start" id="50"/>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -5982,7 +5993,7 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <endSpanner id="50"/>
+        <endSpanner id="51"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
@@ -6033,7 +6044,7 @@ Paris Vendredi 1835</text>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <HairPin id="51">
+        <HairPin id="52">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -6073,7 +6084,7 @@ Paris Vendredi 1835</text>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <endSpanner id="51"/>
+        <endSpanner id="52"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
@@ -6119,7 +6130,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>99</Beam>
-          <Slur type="stop" id="49"/>
+          <Slur type="stop" id="50"/>
           <Note>
             <pitch>85</pitch>
             <tpc>21</tpc>
@@ -6130,10 +6141,10 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="52">
+        <Slur id="53">
           <track>0</track>
           </Slur>
-        <HairPin id="53">
+        <HairPin id="54">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -6147,7 +6158,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>100</Beam>
-          <Slur type="start" id="52"/>
+          <Slur type="start" id="53"/>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -6289,7 +6300,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>103</Beam>
-          <Slur type="stop" id="52"/>
+          <Slur type="stop" id="53"/>
           <Note>
             <pitch>85</pitch>
             <tpc>21</tpc>
@@ -6300,7 +6311,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <Slur id="54">
+        <Slur id="55">
           <track>0</track>
           </Slur>
         <Beam id="104">
@@ -6309,7 +6320,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>104</Beam>
-          <Slur type="start" id="54"/>
+          <Slur type="start" id="55"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -6444,7 +6455,7 @@ Paris Vendredi 1835</text>
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <endSpanner id="53"/>
+        <endSpanner id="54"/>
         <Chord>
           <BeamMode>mid</BeamMode>
           <durationType>16th</durationType>
@@ -6461,7 +6472,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>107</Beam>
-          <Slur type="stop" id="54"/>
+          <Slur type="stop" id="55"/>
           <Note>
             <pitch>87</pitch>
             <tpc>23</tpc>
@@ -6476,14 +6487,14 @@ Paris Vendredi 1835</text>
           <yoffset>7.2</yoffset>
           <family>Times New Roman</family>
           </Dynamic>
-        <Slur id="55">
+        <Slur id="56">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="0.772946" y="-2.66237"/>
             <o3 x="0.772946" y="-2.66237"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="56">
+        <HairPin id="57">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -6491,17 +6502,17 @@ Paris Vendredi 1835</text>
             <pos x="14.5713" y="6.29764"/>
             </Segment>
           </HairPin>
-        <HairPin id="57">
+        <HairPin id="58">
           <subtype>1</subtype>
           </HairPin>
-        <endSpanner id="57"/>
+        <endSpanner id="58"/>
         <Beam id="108">
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>108</Beam>
-          <Slur type="start" id="55"/>
+          <Slur type="start" id="56"/>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -6525,7 +6536,7 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <endSpanner id="56"/>
+        <endSpanner id="57"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
@@ -6546,7 +6557,7 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <HairPin id="58">
+        <HairPin id="59">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -6672,7 +6683,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>111</Beam>
-          <Slur type="stop" id="55"/>
+          <Slur type="stop" id="56"/>
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
@@ -6683,7 +6694,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>page</subtype>
           </LayoutBreak>
-        <Slur id="59">
+        <Slur id="60">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-0.257649" y="-2.31884"/>
@@ -6696,7 +6707,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>112</Beam>
-          <Slur type="start" id="59"/>
+          <Slur type="start" id="60"/>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -6818,7 +6829,7 @@ Paris Vendredi 1835</text>
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <endSpanner id="58"/>
+        <endSpanner id="59"/>
         <Beam id="115">
           </Beam>
         <Chord>
@@ -6859,7 +6870,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>115</Beam>
-          <Slur type="stop" id="59"/>
+          <Slur type="stop" id="60"/>
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
@@ -6882,7 +6893,7 @@ Paris Vendredi 1835</text>
           <yoffset>6.2</yoffset>
           <family>Times New Roman</family>
           </Dynamic>
-        <Slur id="60">
+        <Slur id="61">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-14.686" y="-1.80354"/>
@@ -6894,7 +6905,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>116</Beam>
-          <Slur type="start" id="60"/>
+          <Slur type="start" id="61"/>
           <Note>
             <pitch>92</pitch>
             <tpc>22</tpc>
@@ -7217,7 +7228,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>123</Beam>
-          <Slur type="stop" id="60"/>
+          <Slur type="stop" id="61"/>
           <Note>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -7235,7 +7246,7 @@ Paris Vendredi 1835</text>
           <yoffset>6.1</yoffset>
           <family>Times New Roman</family>
           </Dynamic>
-        <Slur id="61">
+        <Slur id="62">
           <track>0</track>
           <SlurSegment no="0">
             <o1 x="1.54589" y="-0.257649"/>
@@ -7244,7 +7255,7 @@ Paris Vendredi 1835</text>
             <o4 x="-0.257649" y="-0.772946"/>
             </SlurSegment>
           </Slur>
-        <Ottava id="62">
+        <Ottava id="63">
           <subtype>8va</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -7261,7 +7272,7 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             </Articulation>
           <Beam>124</Beam>
-          <Slur type="start" id="61"/>
+          <Slur type="start" id="62"/>
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
@@ -7381,7 +7392,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <endSpanner id="62"/>
+        <endSpanner id="63"/>
         <Beam id="127">
           </Beam>
         <Chord>
@@ -7849,7 +7860,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>138</Beam>
-          <Slur type="stop" id="61"/>
+          <Slur type="stop" id="62"/>
           <Note>
             <Accidental>
               <bracket>1</bracket>
@@ -7919,7 +7930,7 @@ Paris Vendredi 1835</text>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <HairPin id="63">
+        <HairPin id="64">
           <subtype>0</subtype>
           </HairPin>
         <Beam id="139">
@@ -7965,8 +7976,8 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="44">
-        <endSpanner id="63"/>
-        <Slur id="64">
+        <endSpanner id="64"/>
+        <Slur id="65">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-0.171766" y="-3.26355"/>
@@ -7976,7 +7987,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="start" id="64"/>
+          <Slur type="start" id="65"/>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -8051,13 +8062,13 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="stop" id="64"/>
+          <Slur type="stop" id="65"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <Slur id="65">
+        <Slur id="66">
           <track>0</track>
           <SlurSegment no="0">
             <pos x="0.520451" y="-1.33004"/>
@@ -8073,9 +8084,9 @@ Paris Vendredi 1835</text>
           <Articulation>
             <subtype>sforzato</subtype>
             </Articulation>
-          <Slur type="start" id="65"/>
+          <Slur type="start" id="66"/>
           <Note>
-            <Tie id="66">
+            <Tie id="67">
               </Tie>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -8087,7 +8098,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="66"/>
+            <endSpanner id="67"/>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -8151,7 +8162,7 @@ Paris Vendredi 1835</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="65"/>
+          <Slur type="stop" id="66"/>
           <Note>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -8250,7 +8261,7 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="51">
-        <Slur id="67">
+        <Slur id="68">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-0.944712" y="-1.71766"/>
@@ -8264,7 +8275,7 @@ Paris Vendredi 1835</text>
           <Articulation>
             <subtype>sforzato</subtype>
             </Articulation>
-          <Slur type="start" id="67"/>
+          <Slur type="start" id="68"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
@@ -8387,13 +8398,13 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="stop" id="67"/>
+          <Slur type="stop" id="68"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <Slur id="68">
+        <Slur id="69">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="1.54589" y="-3.34943"/>
@@ -8411,9 +8422,9 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             <pos x="0.8275" y="-0.688823"/>
             </Articulation>
-          <Slur type="start" id="68"/>
+          <Slur type="start" id="69"/>
           <Note>
-            <Tie id="69">
+            <Tie id="70">
               </Tie>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -8424,14 +8435,14 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <HairPin id="70">
+        <HairPin id="71">
           <subtype>0</subtype>
           </HairPin>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="69"/>
+            <endSpanner id="70"/>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -8472,7 +8483,7 @@ Paris Vendredi 1835</text>
             <tpc>11</tpc>
             </Note>
           </Chord>
-        <endSpanner id="70"/>
+        <endSpanner id="71"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
@@ -8520,13 +8531,13 @@ Paris Vendredi 1835</text>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="68"/>
+          <Slur type="stop" id="69"/>
           <Note>
             <pitch>73</pitch>
             <tpc>9</tpc>
             </Note>
           </Chord>
-        <Slur id="71">
+        <Slur id="72">
           <track>0</track>
           </Slur>
         <Beam id="145">
@@ -8535,7 +8546,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>32nd</durationType>
           <Beam>145</Beam>
-          <Slur type="start" id="71"/>
+          <Slur type="start" id="72"/>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
@@ -8598,7 +8609,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="71"/>
+          <Slur type="stop" id="72"/>
           <Note>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -8610,15 +8621,15 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <Slur id="72">
+        <Slur id="73">
           <track>0</track>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="start" id="72"/>
+          <Slur type="start" id="73"/>
           <Note>
-            <Tie id="73">
+            <Tie id="74">
               </Tie>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -8628,7 +8639,7 @@ Paris Vendredi 1835</text>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="73"/>
+            <endSpanner id="74"/>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -8641,7 +8652,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="72"/>
+          <Slur type="stop" id="73"/>
           <Note>
             <pitch>73</pitch>
             <tpc>9</tpc>
@@ -8650,13 +8661,13 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="74">
+        <Slur id="75">
           <track>0</track>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
-          <Slur type="start" id="74"/>
+          <Slur type="start" id="75"/>
           <Note>
             <pitch>80</pitch>
             <tpc>10</tpc>
@@ -8667,7 +8678,7 @@ Paris Vendredi 1835</text>
         <stretch>0.9</stretch>
         <Chord>
           <durationType>half</durationType>
-          <Slur type="stop" id="74"/>
+          <Slur type="stop" id="75"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
@@ -8695,13 +8706,13 @@ Paris Vendredi 1835</text>
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <Slur id="75">
+        <Slur id="76">
           <track>0</track>
           </Slur>
         <Chord>
           <durationType>16th</durationType>
           <Beam>146</Beam>
-          <Slur type="start" id="75"/>
+          <Slur type="start" id="76"/>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
@@ -8714,19 +8725,19 @@ Paris Vendredi 1835</text>
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Beam>146</Beam>
-          <Slur type="stop" id="75"/>
+          <Slur type="stop" id="76"/>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <Slur id="76">
+        <Slur id="77">
           <track>0</track>
           </Slur>
         <Chord>
           <durationType>16th</durationType>
           <Beam>146</Beam>
-          <Slur type="start" id="76"/>
+          <Slur type="start" id="77"/>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -8738,7 +8749,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="76"/>
+          <Slur type="stop" id="77"/>
           <Note>
             <Accidental>
               <role>1</role>
@@ -8758,7 +8769,7 @@ Paris Vendredi 1835</text>
           <yoffset>6.6</yoffset>
           <family>Times New Roman</family>
           </Dynamic>
-        <Slur id="77">
+        <Slur id="78">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="1.11648" y="-1.54589"/>
@@ -8772,9 +8783,9 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             <pos x="0.558156" y="-3.91913"/>
             </Articulation>
-          <Slur type="start" id="77"/>
+          <Slur type="start" id="78"/>
           <Note>
-            <Tie id="78">
+            <Tie id="79">
               </Tie>
             <pitch>84</pitch>
             <tpc>14</tpc>
@@ -8797,7 +8808,7 @@ Paris Vendredi 1835</text>
           <durationType>16th</durationType>
           <Beam>147</Beam>
           <Note>
-            <endSpanner id="78"/>
+            <endSpanner id="79"/>
             <pitch>84</pitch>
             <tpc>14</tpc>
             </Note>
@@ -8880,13 +8891,13 @@ Paris Vendredi 1835</text>
           <Articulation>
             <subtype>sforzato</subtype>
             </Articulation>
-          <Slur type="stop" id="77"/>
+          <Slur type="stop" id="78"/>
           <Note>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
           </Chord>
-        <Slur id="79">
+        <Slur id="80">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-0.171766" y="-1.63178"/>
@@ -8909,7 +8920,7 @@ Paris Vendredi 1835</text>
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Beam>148</Beam>
-          <Slur type="start" id="79"/>
+          <Slur type="start" id="80"/>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -8955,7 +8966,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="79"/>
+          <Slur type="stop" id="80"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
@@ -8964,13 +8975,13 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <Slur id="80">
+        <Slur id="81">
           <track>0</track>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="80"/>
+          <Slur type="start" id="81"/>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -9013,7 +9024,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>149</Beam>
-          <Slur type="stop" id="80"/>
+          <Slur type="stop" id="81"/>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -9021,13 +9032,13 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="63">
-        <Slur id="81">
+        <Slur id="82">
           <track>0</track>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="start" id="81"/>
+          <Slur type="start" id="82"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
@@ -9080,13 +9091,13 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="stop" id="81"/>
+          <Slur type="stop" id="82"/>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Slur id="82">
+        <Slur id="83">
           <track>0</track>
           <SlurSegment no="1">
             <o2 x="-0.257649" y="-1.54589"/>
@@ -9101,7 +9112,7 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             <pos x="0.655734" y="-2.76845"/>
             </Articulation>
-          <Slur type="start" id="82"/>
+          <Slur type="start" id="83"/>
           <Note>
             <pitch>80</pitch>
             <tpc>10</tpc>
@@ -9191,7 +9202,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="stop" id="82"/>
+          <Slur type="stop" id="83"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
@@ -9204,7 +9215,7 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             </Articulation>
           <Note>
-            <Tie id="83">
+            <Tie id="84">
               </Tie>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -9219,12 +9230,12 @@ Paris Vendredi 1835</text>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="83"/>
+            <endSpanner id="84"/>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <HairPin id="84">
+        <HairPin id="85">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -9232,7 +9243,7 @@ Paris Vendredi 1835</text>
             <pos x="91.6138" y="8.27295"/>
             </Segment>
           </HairPin>
-        <Slur id="85">
+        <Slur id="86">
           <track>0</track>
           </Slur>
         <Beam id="152">
@@ -9245,7 +9256,7 @@ Paris Vendredi 1835</text>
             <subtype>trill</subtype>
             </Articulation>
           <Beam>152</Beam>
-          <Slur type="start" id="85"/>
+          <Slur type="start" id="86"/>
           <Note>
             <Accidental>
               <subtype>flat</subtype>
@@ -9276,7 +9287,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>152</Beam>
-          <Slur type="stop" id="85"/>
+          <Slur type="stop" id="86"/>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -9285,13 +9296,13 @@ Paris Vendredi 1835</text>
         </Measure>
       <Measure number="68">
         <stretch>0.9</stretch>
-        <endSpanner id="84"/>
-        <Slur id="86">
+        <endSpanner id="85"/>
+        <Slur id="87">
           <track>0</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="start" id="86"/>
+          <Slur type="start" id="87"/>
           <Note>
             <pitch>78</pitch>
             <tpc>8</tpc>
@@ -9317,7 +9328,7 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             <pos x="0.789062" y="-1.69551"/>
             </Articulation>
-          <Slur type="stop" id="86"/>
+          <Slur type="stop" id="87"/>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -9334,7 +9345,7 @@ Paris Vendredi 1835</text>
             <tpc>9</tpc>
             </Note>
           </Chord>
-        <Slur id="87">
+        <Slur id="88">
           <track>0</track>
           <SlurSegment no="0">
             <o1 x="-0.171766" y="-0.0858829"/>
@@ -9344,7 +9355,7 @@ Paris Vendredi 1835</text>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="87"/>
+          <Slur type="start" id="88"/>
           <appoggiatura/>
           <Note>
             <Accidental>
@@ -9382,7 +9393,7 @@ Paris Vendredi 1835</text>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="87"/>
+          <Slur type="stop" id="88"/>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -9406,7 +9417,7 @@ Paris Vendredi 1835</text>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <Tie id="88">
+            <Tie id="89">
               </Tie>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -9416,7 +9427,7 @@ Paris Vendredi 1835</text>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="88"/>
+            <endSpanner id="89"/>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -9432,13 +9443,13 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="89">
+        <Slur id="90">
           <track>0</track>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
-          <Slur type="start" id="89"/>
+          <Slur type="start" id="90"/>
           <Note>
             <pitch>80</pitch>
             <tpc>10</tpc>
@@ -9449,7 +9460,7 @@ Paris Vendredi 1835</text>
         <stretch>0.8</stretch>
         <Chord>
           <durationType>half</durationType>
-          <Slur type="stop" id="89"/>
+          <Slur type="stop" id="90"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
@@ -9515,7 +9526,7 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <Slur id="90">
+        <Slur id="91">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="0.171766" y="-0.687063"/>
@@ -9529,9 +9540,9 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             <pos x="0.789062" y="-3.69551"/>
             </Articulation>
-          <Slur type="start" id="90"/>
+          <Slur type="start" id="91"/>
           <Note>
-            <Tie id="91">
+            <Tie id="92">
               </Tie>
             <pitch>84</pitch>
             <tpc>14</tpc>
@@ -9554,7 +9565,7 @@ Paris Vendredi 1835</text>
           <durationType>16th</durationType>
           <Beam>154</Beam>
           <Note>
-            <endSpanner id="91"/>
+            <endSpanner id="92"/>
             <pitch>84</pitch>
             <tpc>14</tpc>
             </Note>
@@ -9620,7 +9631,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>154</Beam>
-          <Slur type="stop" id="90"/>
+          <Slur type="stop" id="91"/>
           <Note>
             <pitch>80</pitch>
             <tpc>10</tpc>
@@ -9685,14 +9696,14 @@ Paris Vendredi 1835</text>
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <Slur id="92">
+        <Slur id="93">
           <track>0</track>
           </Slur>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>155</Beam>
-          <Slur type="start" id="92"/>
+          <Slur type="start" id="93"/>
           <Note>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -9703,7 +9714,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="92"/>
+          <Slur type="stop" id="93"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
@@ -9720,7 +9731,7 @@ Paris Vendredi 1835</text>
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <Slur id="93">
+        <Slur id="94">
           <track>0</track>
           </Slur>
         <Beam id="156">
@@ -9740,7 +9751,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>156</Beam>
-          <Slur type="start" id="93"/>
+          <Slur type="start" id="94"/>
           <Note>
             <pitch>73</pitch>
             <tpc>9</tpc>
@@ -9761,7 +9772,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>156</Beam>
-          <Slur type="stop" id="93"/>
+          <Slur type="stop" id="94"/>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -9769,7 +9780,7 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="75">
-        <Slur id="94">
+        <Slur id="95">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-0.429415" y="-2.06119"/>
@@ -9779,7 +9790,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="start" id="94"/>
+          <Slur type="start" id="95"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
@@ -9835,13 +9846,13 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="stop" id="94"/>
+          <Slur type="stop" id="95"/>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Slur id="95">
+        <Slur id="96">
           <track>0</track>
           <SlurSegment no="1">
             <o2 x="-0.858829" y="-1.20236"/>
@@ -9855,7 +9866,7 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             <pos x="0.483968" y="-2.51081"/>
             </Articulation>
-          <Slur type="start" id="95"/>
+          <Slur type="start" id="96"/>
           <Note>
             <pitch>80</pitch>
             <tpc>10</tpc>
@@ -9945,13 +9956,13 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="stop" id="95"/>
+          <Slur type="stop" id="96"/>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <Slur id="96">
+        <Slur id="97">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="0.60118" y="-3.0059"/>
@@ -9969,9 +9980,9 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             <pos x="0.8275" y="-0.395508"/>
             </Articulation>
-          <Slur type="start" id="96"/>
+          <Slur type="start" id="97"/>
           <Note>
-            <Tie id="97">
+            <Tie id="98">
               </Tie>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -9982,14 +9993,14 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <HairPin id="98">
+        <HairPin id="99">
           <subtype>0</subtype>
           </HairPin>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="97"/>
+            <endSpanner id="98"/>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -10043,7 +10054,7 @@ Paris Vendredi 1835</text>
         </Measure>
       <Measure number="80">
         <stretch>0.9</stretch>
-        <endSpanner id="98"/>
+        <endSpanner id="99"/>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -10083,13 +10094,13 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="stop" id="96"/>
+          <Slur type="stop" id="97"/>
           <Note>
             <pitch>73</pitch>
             <tpc>9</tpc>
             </Note>
           </Chord>
-        <Slur id="99">
+        <Slur id="100">
           <track>0</track>
           <SlurSegment no="0">
             <o4 x="3.77885" y="0.0858829"/>
@@ -10135,7 +10146,7 @@ Paris Vendredi 1835</text>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
-          <Slur type="start" id="99"/>
+          <Slur type="start" id="100"/>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -10144,7 +10155,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="99"/>
+          <Slur type="stop" id="100"/>
           <Note>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -10182,10 +10193,10 @@ Paris Vendredi 1835</text>
           <pos x="-0.3" y="-4.4"/>
           <text>(Allegro agitato)</text>
           </Tempo>
-        <HairPin id="100">
+        <HairPin id="101">
           <subtype>0</subtype>
           </HairPin>
-        <Slur id="101">
+        <Slur id="102">
           <track>0</track>
           </Slur>
         <Beam id="160">
@@ -10194,7 +10205,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>160</Beam>
-          <Slur type="start" id="101"/>
+          <Slur type="start" id="102"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -10333,7 +10344,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>163</Beam>
-          <Slur type="stop" id="101"/>
+          <Slur type="stop" id="102"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -10344,11 +10355,11 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <endSpanner id="100"/>
+        <endSpanner id="101"/>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="102">
+        <Slur id="103">
           <track>0</track>
           </Slur>
         <Beam id="164">
@@ -10357,7 +10368,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>164</Beam>
-          <Slur type="start" id="102"/>
+          <Slur type="start" id="103"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -10381,7 +10392,7 @@ Paris Vendredi 1835</text>
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <HairPin id="103">
+        <HairPin id="104">
           <subtype>0</subtype>
           </HairPin>
         <Beam id="165">
@@ -10499,7 +10510,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>167</Beam>
-          <Slur type="stop" id="102"/>
+          <Slur type="stop" id="103"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -10507,11 +10518,11 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="85">
-        <endSpanner id="103"/>
+        <endSpanner id="104"/>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="104">
+        <Slur id="105">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-6.70455" y="-4.96063"/>
@@ -10519,7 +10530,7 @@ Paris Vendredi 1835</text>
             <o4 x="-0.12705" y="-0.0702654"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="105">
+        <HairPin id="106">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -10537,7 +10548,7 @@ Paris Vendredi 1835</text>
             <pos x="0.789062" y="-0.595508"/>
             </Articulation>
           <Beam>168</Beam>
-          <Slur type="start" id="104"/>
+          <Slur type="start" id="105"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -10599,7 +10610,7 @@ Paris Vendredi 1835</text>
             <tpc>23</tpc>
             </Note>
           </Chord>
-        <Ottava id="106">
+        <Ottava id="107">
           <subtype>8va</subtype>
           </Ottava>
         <Beam id="170">
@@ -10640,7 +10651,7 @@ Paris Vendredi 1835</text>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <endSpanner id="105"/>
+        <endSpanner id="106"/>
         <Beam id="171">
           </Beam>
         <Chord>
@@ -10684,7 +10695,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <endSpanner id="106"/>
+        <endSpanner id="107"/>
         <Beam id="172">
           </Beam>
         <Chord>
@@ -10844,9 +10855,9 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             </Articulation>
           <Beam>175</Beam>
-          <Slur type="stop" id="104"/>
+          <Slur type="stop" id="105"/>
           <Note>
-            <Tie id="107">
+            <Tie id="108">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -10861,15 +10872,15 @@ Paris Vendredi 1835</text>
           <durationType>16th</durationType>
           <Beam>176</Beam>
           <Note>
-            <endSpanner id="107"/>
+            <endSpanner id="108"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Slur id="108">
+        <Slur id="109">
           <track>0</track>
           </Slur>
-        <HairPin id="109">
+        <HairPin id="110">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -10881,7 +10892,7 @@ Paris Vendredi 1835</text>
           <BeamMode>mid</BeamMode>
           <durationType>16th</durationType>
           <Beam>176</Beam>
-          <Slur type="start" id="108"/>
+          <Slur type="start" id="109"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -11020,7 +11031,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>179</Beam>
-          <Slur type="stop" id="108"/>
+          <Slur type="stop" id="109"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -11031,14 +11042,14 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <endSpanner id="109"/>
+        <endSpanner id="110"/>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="110">
+        <Slur id="111">
           <track>0</track>
           </Slur>
-        <HairPin id="111">
+        <HairPin id="112">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -11052,7 +11063,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>180</Beam>
-          <Slur type="start" id="110"/>
+          <Slur type="start" id="111"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -11190,12 +11201,12 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <endSpanner id="111"/>
+        <endSpanner id="112"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>183</Beam>
-          <Slur type="stop" id="110"/>
+          <Slur type="stop" id="111"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -11203,14 +11214,14 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="89">
-        <Slur id="112">
+        <Slur id="113">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-2.40472" y="-2.84194"/>
             <o3 x="-2.40472" y="-2.84194"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="113">
+        <HairPin id="114">
           <subtype>0</subtype>
           </HairPin>
         <Beam id="184">
@@ -11219,7 +11230,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>184</Beam>
-          <Slur type="start" id="112"/>
+          <Slur type="start" id="113"/>
           <Note>
             <pitch>75</pitch>
             <tpc>23</tpc>
@@ -11380,7 +11391,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <endSpanner id="113"/>
+        <endSpanner id="114"/>
         <Beam id="188">
           </Beam>
         <Chord>
@@ -11555,7 +11566,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>191</Beam>
-          <Slur type="stop" id="112"/>
+          <Slur type="stop" id="113"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -11563,7 +11574,7 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="91">
-        <Slur id="114">
+        <Slur id="115">
           <track>0</track>
           <track2>1</track2>
           <SlurSegment no="0">
@@ -11573,7 +11584,7 @@ Paris Vendredi 1835</text>
             <pos x="0.171766" y="-1.54589"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="115">
+        <HairPin id="116">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -11584,13 +11595,13 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="114"/>
+          <Slur type="start" id="115"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <endSpanner id="115"/>
+        <endSpanner id="116"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -11824,7 +11835,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>page</subtype>
           </LayoutBreak>
-        <HairPin id="116">
+        <HairPin id="117">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -12051,7 +12062,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>199</Beam>
-          <Slur type="stop" id="114"/>
+          <Slur type="stop" id="115"/>
           <Note>
             <track>1</track>
             <pitch>76</pitch>
@@ -12060,8 +12071,8 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="93">
-        <endSpanner id="116"/>
-        <HairPin id="117">
+        <endSpanner id="117"/>
+        <HairPin id="118">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -12095,7 +12106,7 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <endSpanner id="117"/>
+        <endSpanner id="118"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -12119,7 +12130,7 @@ Paris Vendredi 1835</text>
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <Slur id="118">
+        <Slur id="119">
           <track>1</track>
           <SlurSegment no="0">
             <o1 x="-1.71766" y="0.171766"/>
@@ -12134,7 +12145,7 @@ Paris Vendredi 1835</text>
           <BeamMode>mid</BeamMode>
           <durationType>16th</durationType>
           <Beam>200</Beam>
-          <Slur type="start" id="118"/>
+          <Slur type="start" id="119"/>
           <Note>
             <track>1</track>
             <pitch>80</pitch>
@@ -12322,7 +12333,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <HairPin id="119">
+        <HairPin id="120">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -12355,7 +12366,7 @@ Paris Vendredi 1835</text>
             </Note>
           </Chord>
         <tick>179760</tick>
-        <HairPin id="120">
+        <HairPin id="121">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -12364,7 +12375,7 @@ Paris Vendredi 1835</text>
             </Segment>
           </HairPin>
         <tick>180000</tick>
-        <endSpanner id="119"/>
+        <endSpanner id="120"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -12572,7 +12583,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>207</Beam>
-          <Slur type="stop" id="118"/>
+          <Slur type="stop" id="119"/>
           <Note>
             <track>1</track>
             <pitch>76</pitch>
@@ -12581,8 +12592,8 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="95">
-        <endSpanner id="120"/>
-        <Slur id="121">
+        <endSpanner id="121"/>
+        <Slur id="122">
           <track>0</track>
           <track2>1</track2>
           <SlurSegment no="0">
@@ -12594,7 +12605,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="121"/>
+          <Slur type="start" id="122"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -12836,7 +12847,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <HairPin id="122">
+        <HairPin id="123">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -13063,7 +13074,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>215</Beam>
-          <Slur type="stop" id="121"/>
+          <Slur type="stop" id="122"/>
           <Note>
             <track>1</track>
             <pitch>76</pitch>
@@ -13072,8 +13083,8 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="97">
-        <endSpanner id="122"/>
-        <Slur id="123">
+        <endSpanner id="123"/>
+        <Slur id="124">
           <track>0</track>
           <track2>1</track2>
           <SlurSegment no="0">
@@ -13084,13 +13095,13 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="123"/>
+          <Slur type="start" id="124"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <Slur id="124">
+        <Slur id="125">
           <track>0</track>
           <track2>1</track2>
           <SlurSegment no="0">
@@ -13102,13 +13113,13 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="124"/>
+          <Slur type="start" id="125"/>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <HairPin id="125">
+        <HairPin id="126">
           <subtype>1</subtype>
           </HairPin>
         <Chord>
@@ -13119,7 +13130,7 @@ Paris Vendredi 1835</text>
             <tpc>23</tpc>
             </Note>
           </Chord>
-        <endSpanner id="125"/>
+        <endSpanner id="126"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -13174,7 +13185,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>216</Beam>
-          <Slur type="stop" id="123"/>
+          <Slur type="stop" id="124"/>
           <Note>
             <track>1</track>
             <pitch>73</pitch>
@@ -13327,7 +13338,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <HairPin id="126">
+        <HairPin id="127">
           <subtype>1</subtype>
           </HairPin>
         <Chord>
@@ -13338,7 +13349,7 @@ Paris Vendredi 1835</text>
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <endSpanner id="126"/>
+        <endSpanner id="127"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -13555,7 +13566,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>223</Beam>
-          <Slur type="stop" id="124"/>
+          <Slur type="stop" id="125"/>
           <Note>
             <track>1</track>
             <pitch>78</pitch>
@@ -13564,7 +13575,7 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="99">
-        <Slur id="127">
+        <Slur id="128">
           <track>0</track>
           <track2>1</track2>
           <SlurSegment no="0">
@@ -13572,7 +13583,7 @@ Paris Vendredi 1835</text>
             <pos x="-0.429415" y="-4.0365"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="128">
+        <HairPin id="129">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -13583,13 +13594,13 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="127"/>
+          <Slur type="start" id="128"/>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <endSpanner id="128"/>
+        <endSpanner id="129"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -13598,26 +13609,26 @@ Paris Vendredi 1835</text>
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <Slur id="129">
+        <Slur id="130">
           <track>0</track>
           <track2>1</track2>
           <SlurSegment no="0">
             <o1 x="0.0858829" y="-3.0059"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="130">
+        <HairPin id="131">
           <subtype>1</subtype>
           </HairPin>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="129"/>
+          <Slur type="start" id="130"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <endSpanner id="130"/>
+        <endSpanner id="131"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -13724,7 +13735,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>225</Beam>
-          <Slur type="stop" id="127"/>
+          <Slur type="stop" id="128"/>
           <Note>
             <track>1</track>
             <pitch>78</pitch>
@@ -13828,7 +13839,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>227</Beam>
-          <Slur type="stop" id="129"/>
+          <Slur type="stop" id="130"/>
           <Note>
             <track>1</track>
             <pitch>78</pitch>
@@ -13840,7 +13851,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <Slur id="131">
+        <Slur id="132">
           <track>0</track>
           <track2>1</track2>
           <SlurSegment no="0">
@@ -13849,19 +13860,19 @@ Paris Vendredi 1835</text>
             <o3 x="-5.23886" y="-1.88942"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="132">
+        <HairPin id="133">
           <subtype>1</subtype>
           </HairPin>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="131"/>
+          <Slur type="start" id="132"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <endSpanner id="132"/>
+        <endSpanner id="133"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -14085,7 +14096,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>231</Beam>
-          <Slur type="stop" id="131"/>
+          <Slur type="stop" id="132"/>
           <Note>
             <track>1</track>
             <pitch>78</pitch>
@@ -14094,7 +14105,7 @@ Paris Vendredi 1835</text>
           </Chord>
         </Measure>
       <Measure number="101">
-        <Slur id="133">
+        <Slur id="134">
           <track>0</track>
           <track2>1</track2>
           <SlurSegment no="0">
@@ -14102,19 +14113,19 @@ Paris Vendredi 1835</text>
             <pos x="-0.687063" y="-0.858829"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="134">
+        <HairPin id="135">
           <subtype>1</subtype>
           </HairPin>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="133"/>
+          <Slur type="start" id="134"/>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <endSpanner id="134"/>
+        <endSpanner id="135"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -14123,7 +14134,7 @@ Paris Vendredi 1835</text>
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <Slur id="135">
+        <Slur id="136">
           <track>0</track>
           <track2>1</track2>
           <SlurSegment no="0">
@@ -14133,19 +14144,19 @@ Paris Vendredi 1835</text>
             <o4 x="0.171766" y="-0.858829"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="136">
+        <HairPin id="137">
           <subtype>1</subtype>
           </HairPin>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="135"/>
+          <Slur type="start" id="136"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <endSpanner id="136"/>
+        <endSpanner id="137"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -14252,7 +14263,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>233</Beam>
-          <Slur type="stop" id="133"/>
+          <Slur type="stop" id="134"/>
           <Note>
             <track>1</track>
             <pitch>78</pitch>
@@ -14606,7 +14617,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>239</Beam>
-          <Slur type="stop" id="135"/>
+          <Slur type="stop" id="136"/>
           <Note>
             <track>1</track>
             <pitch>78</pitch>
@@ -14623,7 +14634,7 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="137">
+        <Slur id="138">
           <track>0</track>
           </Slur>
         <Beam id="240">
@@ -14632,7 +14643,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>240</Beam>
-          <Slur type="start" id="137"/>
+          <Slur type="start" id="138"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -14656,7 +14667,7 @@ Paris Vendredi 1835</text>
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <HairPin id="138">
+        <HairPin id="139">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -14775,12 +14786,12 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <endSpanner id="138"/>
+        <endSpanner id="139"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>243</Beam>
-          <Slur type="stop" id="137"/>
+          <Slur type="stop" id="138"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -14794,10 +14805,10 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="139">
+        <Slur id="140">
           <track>0</track>
           </Slur>
-        <HairPin id="140">
+        <HairPin id="141">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -14811,7 +14822,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>244</Beam>
-          <Slur type="start" id="139"/>
+          <Slur type="start" id="140"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -14946,12 +14957,12 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <endSpanner id="140"/>
+        <endSpanner id="141"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>247</Beam>
-          <Slur type="stop" id="139"/>
+          <Slur type="stop" id="140"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -14962,7 +14973,7 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="141">
+        <Slur id="142">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-1.71766" y="-1.20236"/>
@@ -14970,7 +14981,7 @@ Paris Vendredi 1835</text>
             <pos x="-1.13564" y="-2.48422"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="142">
+        <HairPin id="143">
           <subtype>0</subtype>
           </HairPin>
         <Beam id="248">
@@ -14979,7 +14990,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>248</Beam>
-          <Slur type="start" id="141"/>
+          <Slur type="start" id="142"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -15041,7 +15052,7 @@ Paris Vendredi 1835</text>
             <tpc>23</tpc>
             </Note>
           </Chord>
-        <Ottava id="143">
+        <Ottava id="144">
           <subtype>8va</subtype>
           </Ottava>
         <Beam id="250">
@@ -15082,7 +15093,7 @@ Paris Vendredi 1835</text>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <endSpanner id="142"/>
+        <endSpanner id="143"/>
         <Beam id="251">
           </Beam>
         <Chord>
@@ -15126,7 +15137,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <endSpanner id="143"/>
+        <endSpanner id="144"/>
         <Beam id="252">
           </Beam>
         <Chord>
@@ -15226,7 +15237,7 @@ Paris Vendredi 1835</text>
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <HairPin id="144">
+        <HairPin id="145">
           <subtype>1</subtype>
           </HairPin>
         <Chord>
@@ -15282,7 +15293,7 @@ Paris Vendredi 1835</text>
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <endSpanner id="144"/>
+        <endSpanner id="145"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
@@ -15290,9 +15301,9 @@ Paris Vendredi 1835</text>
             <subtype>sforzato</subtype>
             </Articulation>
           <Beam>255</Beam>
-          <Slur type="stop" id="141"/>
+          <Slur type="stop" id="142"/>
           <Note>
-            <Tie id="145">
+            <Tie id="146">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -15307,19 +15318,19 @@ Paris Vendredi 1835</text>
           <durationType>16th</durationType>
           <Beam>256</Beam>
           <Note>
-            <endSpanner id="145"/>
+            <endSpanner id="146"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Slur id="146">
+        <Slur id="147">
           <track>0</track>
           </Slur>
         <Chord>
           <BeamMode>mid</BeamMode>
           <durationType>16th</durationType>
           <Beam>256</Beam>
-          <Slur type="start" id="146"/>
+          <Slur type="start" id="147"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -15384,7 +15395,7 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <HairPin id="147">
+        <HairPin id="148">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -15421,7 +15432,7 @@ Paris Vendredi 1835</text>
             <tpc>23</tpc>
             </Note>
           </Chord>
-        <endSpanner id="147"/>
+        <endSpanner id="148"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
@@ -15467,7 +15478,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>259</Beam>
-          <Slur type="stop" id="146"/>
+          <Slur type="stop" id="147"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -15478,10 +15489,10 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <Slur id="148">
+        <Slur id="149">
           <track>0</track>
           </Slur>
-        <HairPin id="149">
+        <HairPin id="150">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -15495,7 +15506,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>260</Beam>
-          <Slur type="start" id="148"/>
+          <Slur type="start" id="149"/>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -15519,7 +15530,7 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <endSpanner id="149"/>
+        <endSpanner id="150"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
@@ -15570,7 +15581,7 @@ Paris Vendredi 1835</text>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <HairPin id="150">
+        <HairPin id="151">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -15610,7 +15621,7 @@ Paris Vendredi 1835</text>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <endSpanner id="150"/>
+        <endSpanner id="151"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
@@ -15656,7 +15667,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>263</Beam>
-          <Slur type="stop" id="148"/>
+          <Slur type="stop" id="149"/>
           <Note>
             <Accidental>
               <role>1</role>
@@ -15671,10 +15682,10 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="151">
+        <Slur id="152">
           <track>0</track>
           </Slur>
-        <HairPin id="152">
+        <HairPin id="153">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -15688,7 +15699,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>264</Beam>
-          <Slur type="start" id="151"/>
+          <Slur type="start" id="152"/>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -15830,7 +15841,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>267</Beam>
-          <Slur type="stop" id="151"/>
+          <Slur type="stop" id="152"/>
           <Note>
             <pitch>85</pitch>
             <tpc>21</tpc>
@@ -15841,7 +15852,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <Slur id="153">
+        <Slur id="154">
           <track>0</track>
           </Slur>
         <Beam id="268">
@@ -15850,7 +15861,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>268</Beam>
-          <Slur type="start" id="153"/>
+          <Slur type="start" id="154"/>
           <Note>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -15985,7 +15996,7 @@ Paris Vendredi 1835</text>
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <endSpanner id="152"/>
+        <endSpanner id="153"/>
         <Chord>
           <BeamMode>mid</BeamMode>
           <durationType>16th</durationType>
@@ -16002,7 +16013,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>271</Beam>
-          <Slur type="stop" id="153"/>
+          <Slur type="stop" id="154"/>
           <Note>
             <pitch>87</pitch>
             <tpc>23</tpc>
@@ -16017,18 +16028,18 @@ Paris Vendredi 1835</text>
           <yoffset>7.2</yoffset>
           <family>Times New Roman</family>
           </Dynamic>
-        <Slur id="154">
+        <Slur id="155">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="0.772946" y="-2.66237"/>
             <o3 x="0.772946" y="-2.66237"/>
             </SlurSegment>
           </Slur>
-        <HairPin id="155">
+        <HairPin id="156">
           <subtype>1</subtype>
           </HairPin>
-        <endSpanner id="155"/>
-        <HairPin id="156">
+        <endSpanner id="156"/>
+        <HairPin id="157">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -16042,7 +16053,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>272</Beam>
-          <Slur type="start" id="154"/>
+          <Slur type="start" id="155"/>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -16066,7 +16077,7 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <endSpanner id="156"/>
+        <endSpanner id="157"/>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
@@ -16087,7 +16098,7 @@ Paris Vendredi 1835</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <HairPin id="157">
+        <HairPin id="158">
           <subtype>0</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -16213,7 +16224,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>275</Beam>
-          <Slur type="stop" id="154"/>
+          <Slur type="stop" id="155"/>
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
@@ -16224,7 +16235,7 @@ Paris Vendredi 1835</text>
         <LayoutBreak>
           <subtype>page</subtype>
           </LayoutBreak>
-        <Slur id="158">
+        <Slur id="159">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-0.257649" y="-2.31884"/>
@@ -16237,7 +16248,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>276</Beam>
-          <Slur type="start" id="158"/>
+          <Slur type="start" id="159"/>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -16359,7 +16370,7 @@ Paris Vendredi 1835</text>
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <endSpanner id="157"/>
+        <endSpanner id="158"/>
         <Beam id="279">
           </Beam>
         <Chord>
@@ -16400,7 +16411,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>279</Beam>
-          <Slur type="stop" id="158"/>
+          <Slur type="stop" id="159"/>
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
@@ -16423,7 +16434,7 @@ Paris Vendredi 1835</text>
           <yoffset>6.2</yoffset>
           <family>Times New Roman</family>
           </Dynamic>
-        <Slur id="159">
+        <Slur id="160">
           <track>0</track>
           <SlurSegment no="0">
             <o1 x="-0.307337" y="-0.512228"/>
@@ -16433,7 +16444,7 @@ Paris Vendredi 1835</text>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
-          <Slur type="start" id="159"/>
+          <Slur type="start" id="160"/>
           <Note>
             <pitch>92</pitch>
             <tpc>22</tpc>
@@ -16749,7 +16760,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>285</Beam>
-          <Slur type="stop" id="159"/>
+          <Slur type="stop" id="160"/>
           <Note>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -16768,7 +16779,7 @@ Paris Vendredi 1835</text>
           <yoffset>6.1</yoffset>
           <family>Times New Roman</family>
           </Dynamic>
-        <Ottava id="160">
+        <Ottava id="161">
           <subtype>8va</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -16776,7 +16787,7 @@ Paris Vendredi 1835</text>
             <pos x="15.8254" y="-5.2538"/>
             </Segment>
           </Ottava>
-        <Slur id="161">
+        <Slur id="162">
           <track>0</track>
           <SlurSegment no="0">
             <o2 x="-2.85775" y="-4.4581"/>
@@ -16793,7 +16804,7 @@ Paris Vendredi 1835</text>
             <pos x="0.584171" y="-2.61018"/>
             </Articulation>
           <Beam>286</Beam>
-          <Slur type="start" id="161"/>
+          <Slur type="start" id="162"/>
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
@@ -16911,7 +16922,7 @@ Paris Vendredi 1835</text>
         </Measure>
       <Measure number="116">
         <stretch>0.9</stretch>
-        <endSpanner id="160"/>
+        <endSpanner id="161"/>
         <Beam id="289">
           </Beam>
         <Chord>
@@ -17380,7 +17391,7 @@ Paris Vendredi 1835</text>
           <BeamMode>end</BeamMode>
           <durationType>16th</durationType>
           <Beam>300</Beam>
-          <Slur type="stop" id="161"/>
+          <Slur type="stop" id="162"/>
           <Note>
             <Accidental>
               <bracket>1</bracket>
@@ -17411,7 +17422,7 @@ Paris Vendredi 1835</text>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
-        <Slur id="162">
+        <Slur id="163">
           <track>0</track>
           <SlurSegment no="1">
             <pos x="-0.0858829" y="-2.83414"/>
@@ -17449,7 +17460,7 @@ Paris Vendredi 1835</text>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>301</Beam>
-          <Slur type="start" id="162"/>
+          <Slur type="start" id="163"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -20255,7 +20266,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
-          <Slur type="stop" id="162"/>
+          <Slur type="stop" id="163"/>
           <Note>
             <pitch>63</pitch>
             <tpc>23</tpc>
@@ -20310,7 +20321,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <yoffset>-2.5</yoffset>
           <family>Times New Roman</family>
           </Dynamic>
-        <HairPin id="163">
+        <HairPin id="164">
           <subtype>1</subtype>
           <Segment>
             <subtype>0</subtype>
@@ -20322,13 +20333,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <Tie id="164">
+            <Tie id="165">
               </Tie>
             <pitch>44</pitch>
             <tpc>22</tpc>
             </Note>
           <Note>
-            <Tie id="165">
+            <Tie id="166">
               </Tie>
             <pitch>56</pitch>
             <tpc>22</tpc>
@@ -20336,11 +20347,11 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Chord>
         </Measure>
       <Measure number="2">
-        <endSpanner id="163"/>
-        <Slur id="166">
+        <endSpanner id="164"/>
+        <Slur id="167">
           <track>4</track>
           </Slur>
-        <Slur id="167">
+        <Slur id="168">
           <track>4</track>
           <SlurSegment no="0">
             <o4 x="-1.88942" y="3.09179"/>
@@ -20349,15 +20360,15 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
-          <Slur type="start" id="166"/>
           <Slur type="start" id="167"/>
+          <Slur type="start" id="168"/>
           <Note>
-            <endSpanner id="164"/>
+            <endSpanner id="165"/>
             <pitch>44</pitch>
             <tpc>22</tpc>
             </Note>
           <Note>
-            <endSpanner id="165"/>
+            <endSpanner id="166"/>
             <pitch>56</pitch>
             <tpc>22</tpc>
             </Note>
@@ -20375,7 +20386,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <Tuplet>5</Tuplet>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="167"/>
+          <Slur type="stop" id="168"/>
           <Note>
             <pitch>49</pitch>
             <tpc>21</tpc>
@@ -20433,13 +20444,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <Tuplet>6</Tuplet>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="168"/>
+          <Slur type="stop" id="169"/>
           <Note>
             <pitch>56</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <Slur id="169">
+        <Slur id="170">
           <track>4</track>
           <SlurSegment no="0">
             <pos x="0" y="-2.18611"/>
@@ -20461,7 +20472,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>372</Beam>
-          <Slur type="start" id="169"/>
+          <Slur type="start" id="170"/>
           <Note>
             <pitch>49</pitch>
             <tpc>21</tpc>
@@ -20519,14 +20530,14 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>372</Beam>
-          <Slur type="stop" id="169"/>
+          <Slur type="stop" id="170"/>
           <Note>
             <pitch>56</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
         <tick>3840</tick>
-        <Slur id="168">
+        <Slur id="169">
           <track>5</track>
           <track2>4</track2>
           <SlurSegment no="0">
@@ -20541,7 +20552,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="start" id="168"/>
+          <Slur type="start" id="169"/>
           <Note>
             <track>5</track>
             <pitch>37</pitch>
@@ -20560,7 +20571,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Rest>
         </Measure>
       <Measure number="4">
-        <Slur id="170">
+        <Slur id="171">
           <track>4</track>
           <SlurSegment no="0">
             <pos x="0.390377" y="-2.02996"/>
@@ -20580,7 +20591,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>373</Beam>
-          <Slur type="start" id="170"/>
+          <Slur type="start" id="171"/>
           <Note>
             <pitch>49</pitch>
             <tpc>21</tpc>
@@ -20638,13 +20649,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>373</Beam>
-          <Slur type="stop" id="170"/>
+          <Slur type="stop" id="171"/>
           <Note>
             <pitch>56</pitch>
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <Slur id="171">
+        <Slur id="172">
           <track>4</track>
           <SlurSegment no="0">
             <pos x="0" y="-2.18611"/>
@@ -20664,7 +20675,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>374</Beam>
-          <Slur type="start" id="171"/>
+          <Slur type="start" id="172"/>
           <Note>
             <pitch>49</pitch>
             <tpc>21</tpc>
@@ -20722,7 +20733,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>374</Beam>
-          <Slur type="stop" id="171"/>
+          <Slur type="stop" id="172"/>
           <Note>
             <pitch>56</pitch>
             <tpc>22</tpc>
@@ -21230,7 +21241,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Chord>
         </Measure>
       <Measure number="8">
-        <Slur id="172">
+        <Slur id="173">
           <track>4</track>
           <SlurSegment no="0">
             <o2 x="-0.772946" y="-4.89533"/>
@@ -21251,7 +21262,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>381</Beam>
-          <Slur type="start" id="172"/>
+          <Slur type="start" id="173"/>
           <Note>
             <pitch>44</pitch>
             <tpc>22</tpc>
@@ -21388,7 +21399,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>382</Beam>
-          <Slur type="stop" id="172"/>
+          <Slur type="stop" id="173"/>
           <Note>
             <pitch>51</pitch>
             <tpc>23</tpc>
@@ -25545,19 +25556,19 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <Accidental>
               <subtype>double sharp</subtype>
               </Accidental>
-            <Tie id="173">
+            <Tie id="174">
               </Tie>
             <pitch>55</pitch>
             <tpc>27</tpc>
             </Note>
           <Note>
-            <Tie id="174">
+            <Tie id="175">
               </Tie>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <Tie id="175">
+            <Tie id="176">
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -25567,7 +25578,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
               <role>1</role>
               <subtype>natural</subtype>
               </Accidental>
-            <Tie id="176">
+            <Tie id="177">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -25579,22 +25590,22 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="173"/>
+            <endSpanner id="174"/>
             <pitch>55</pitch>
             <tpc>27</tpc>
             </Note>
           <Note>
-            <endSpanner id="174"/>
+            <endSpanner id="175"/>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <endSpanner id="175"/>
+            <endSpanner id="176"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <endSpanner id="176"/>
+            <endSpanner id="177"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -25605,18 +25616,18 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <Slur id="177">
+        <Slur id="178">
           <track>4</track>
           </Slur>
-        <Slur id="178">
+        <Slur id="179">
           <track>4</track>
           <up>2</up>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="177"/>
           <Slur type="start" id="178"/>
+          <Slur type="start" id="179"/>
           <Note>
             <Accidental>
               <subtype>double sharp</subtype>
@@ -25625,13 +25636,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>27</tpc>
             </Note>
           <Note>
-            <Tie id="179">
+            <Tie id="180">
               </Tie>
             <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <Tie id="180">
+            <Tie id="181">
               </Tie>
             <pitch>52</pitch>
             <tpc>18</tpc>
@@ -25649,19 +25660,19 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
-          <Slur type="stop" id="177"/>
           <Slur type="stop" id="178"/>
+          <Slur type="stop" id="179"/>
           <Note>
             <pitch>44</pitch>
             <tpc>22</tpc>
             </Note>
           <Note>
-            <endSpanner id="179"/>
+            <endSpanner id="180"/>
             <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <endSpanner id="180"/>
+            <endSpanner id="181"/>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -25674,7 +25685,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
-        <Slur id="181">
+        <Slur id="182">
           <track>4</track>
           <SlurSegment no="0">
             <o1 x="1.0306" y="-0.0858829"/>
@@ -25686,7 +25697,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <Articulation>
             <subtype>sforzato</subtype>
             </Articulation>
-          <Slur type="start" id="181"/>
+          <Slur type="start" id="182"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -25717,7 +25728,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <Articulation>
             <subtype>sforzato</subtype>
             </Articulation>
-          <Slur type="stop" id="181"/>
+          <Slur type="stop" id="182"/>
           <Note>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -25807,14 +25818,14 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <Slur id="182">
+        <Slur id="183">
           <track>4</track>
           <up>2</up>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="182"/>
+          <Slur type="start" id="183"/>
           <Note>
             <pitch>32</pitch>
             <tpc>22</tpc>
@@ -25883,7 +25894,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="182"/>
+          <Slur type="stop" id="183"/>
           <Note>
             <pitch>32</pitch>
             <tpc>22</tpc>
@@ -25899,7 +25910,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <KeySig>
           <accidental>-5</accidental>
           </KeySig>
-        <Slur id="183">
+        <Slur id="184">
           <track>4</track>
           <SlurSegment no="0">
             <o2 x="0.0858829" y="-1.88942"/>
@@ -25921,7 +25932,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>433</Beam>
-          <Slur type="start" id="183"/>
+          <Slur type="start" id="184"/>
           <Note>
             <pitch>37</pitch>
             <tpc>9</tpc>
@@ -26018,7 +26029,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <Slur id="184">
+        <Slur id="185">
           <track>4</track>
           <SlurSegment no="0">
             <o4 x="-0.257649" y="0.858829"/>
@@ -26028,7 +26039,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <Tuplet>132</Tuplet>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="start" id="184"/>
+          <Slur type="start" id="185"/>
           <Note>
             <pitch>53</pitch>
             <tpc>13</tpc>
@@ -26051,8 +26062,8 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>436</Beam>
-          <Slur type="stop" id="183"/>
           <Slur type="stop" id="184"/>
+          <Slur type="stop" id="185"/>
           <Note>
             <pitch>44</pitch>
             <tpc>10</tpc>
@@ -26060,7 +26071,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Chord>
         </Measure>
       <Measure number="42">
-        <Slur id="185">
+        <Slur id="186">
           <track>4</track>
           <SlurSegment no="0">
             <o1 x="-0.429415" y="1.11648"/>
@@ -26083,7 +26094,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>437</Beam>
-          <Slur type="start" id="185"/>
+          <Slur type="start" id="186"/>
           <Note>
             <pitch>37</pitch>
             <tpc>9</tpc>
@@ -26180,14 +26191,14 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <Slur id="186">
+        <Slur id="187">
           <track>4</track>
           </Slur>
         <Chord>
           <Tuplet>134</Tuplet>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <Slur type="start" id="186"/>
+          <Slur type="start" id="187"/>
           <Note>
             <pitch>53</pitch>
             <tpc>13</tpc>
@@ -26210,14 +26221,14 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>440</Beam>
-          <Slur type="stop" id="185"/>
           <Slur type="stop" id="186"/>
+          <Slur type="stop" id="187"/>
           <Note>
             <pitch>44</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <Slur id="187">
+        <Slur id="188">
           <track>4</track>
           <SlurSegment no="0">
             <o1 x="-0.578279" y="-4.22143"/>
@@ -26232,7 +26243,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Slur>
         </Measure>
       <Measure number="43">
-        <Slur id="187">
+        <Slur id="188">
           <track>4</track>
           <SlurSegment no="0">
             <o1 x="-0.578279" y="-4.22143"/>
@@ -26259,7 +26270,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>441</Beam>
-          <Slur type="start" id="187"/>
+          <Slur type="start" id="188"/>
           <Note>
             <pitch>37</pitch>
             <tpc>9</tpc>
@@ -26450,13 +26461,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>443</Beam>
-          <Slur type="stop" id="187"/>
+          <Slur type="stop" id="188"/>
           <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <Slur id="188">
+        <Slur id="189">
           <track>4</track>
           <SlurSegment no="0">
             <o1 x="0.171766" y="-1.63178"/>
@@ -26479,7 +26490,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>444</Beam>
-          <Slur type="start" id="188"/>
+          <Slur type="start" id="189"/>
           <Note>
             <pitch>49</pitch>
             <tpc>9</tpc>
@@ -26533,7 +26544,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>444</Beam>
-          <Slur type="stop" id="188"/>
+          <Slur type="stop" id="189"/>
           <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
@@ -26882,7 +26893,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <HairPin id="189">
+        <HairPin id="190">
           <subtype>0</subtype>
           </HairPin>
         <Chord>
@@ -26959,7 +26970,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Chord>
         </Measure>
       <Measure number="48">
-        <endSpanner id="189"/>
+        <endSpanner id="190"/>
         <Tuplet id="145">
           <numberType>2</numberType>
           <bracketType>2</bracketType>
@@ -28495,7 +28506,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <Slur id="190">
+        <Slur id="191">
           <track>4</track>
           <SlurSegment no="0">
             <o2 x="-0.257649" y="-2.74825"/>
@@ -28516,7 +28527,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>473</Beam>
-          <Slur type="start" id="190"/>
+          <Slur type="start" id="191"/>
           <Note>
             <pitch>49</pitch>
             <tpc>9</tpc>
@@ -28567,7 +28578,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>473</Beam>
-          <Slur type="stop" id="190"/>
+          <Slur type="stop" id="191"/>
           <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
@@ -32575,7 +32586,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Chord>
         </Measure>
       <Measure number="86">
-        <Slur id="191">
+        <Slur id="192">
           <track>4</track>
           <SlurSegment no="0">
             <o2 x="-0.772946" y="-4.89533"/>
@@ -32596,7 +32607,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>526</Beam>
-          <Slur type="start" id="191"/>
+          <Slur type="start" id="192"/>
           <Note>
             <pitch>44</pitch>
             <tpc>22</tpc>
@@ -32733,7 +32744,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>527</Beam>
-          <Slur type="stop" id="191"/>
+          <Slur type="stop" id="192"/>
           <Note>
             <pitch>51</pitch>
             <tpc>23</tpc>
@@ -36909,19 +36920,19 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <Accidental>
               <subtype>double sharp</subtype>
               </Accidental>
-            <Tie id="192">
+            <Tie id="193">
               </Tie>
             <pitch>55</pitch>
             <tpc>27</tpc>
             </Note>
           <Note>
-            <Tie id="193">
+            <Tie id="194">
               </Tie>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <Tie id="194">
+            <Tie id="195">
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -36931,7 +36942,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
               <role>1</role>
               <subtype>natural</subtype>
               </Accidental>
-            <Tie id="195">
+            <Tie id="196">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -36943,22 +36954,22 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="192"/>
+            <endSpanner id="193"/>
             <pitch>55</pitch>
             <tpc>27</tpc>
             </Note>
           <Note>
-            <endSpanner id="193"/>
+            <endSpanner id="194"/>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <endSpanner id="194"/>
+            <endSpanner id="195"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <endSpanner id="195"/>
+            <endSpanner id="196"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -36969,18 +36980,18 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <Slur id="196">
+        <Slur id="197">
           <track>4</track>
           </Slur>
-        <Slur id="197">
+        <Slur id="198">
           <track>4</track>
           <up>2</up>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="196"/>
           <Slur type="start" id="197"/>
+          <Slur type="start" id="198"/>
           <Note>
             <Accidental>
               <subtype>double sharp</subtype>
@@ -36989,13 +37000,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>27</tpc>
             </Note>
           <Note>
-            <Tie id="198">
+            <Tie id="199">
               </Tie>
             <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <Tie id="199">
+            <Tie id="200">
               </Tie>
             <pitch>52</pitch>
             <tpc>18</tpc>
@@ -37014,19 +37025,19 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
-          <Slur type="stop" id="196"/>
           <Slur type="stop" id="197"/>
+          <Slur type="stop" id="198"/>
           <Note>
             <pitch>44</pitch>
             <tpc>22</tpc>
             </Note>
           <Note>
-            <endSpanner id="198"/>
+            <endSpanner id="199"/>
             <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <endSpanner id="199"/>
+            <endSpanner id="200"/>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -37039,7 +37050,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
-        <Slur id="200">
+        <Slur id="201">
           <track>4</track>
           </Slur>
         <Chord>
@@ -37049,7 +37060,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <subtype>sforzato</subtype>
             <pos x="0.481726" y="-2.51996"/>
             </Articulation>
-          <Slur type="start" id="200"/>
+          <Slur type="start" id="201"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -37080,7 +37091,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <Articulation>
             <subtype>sforzato</subtype>
             </Articulation>
-          <Slur type="stop" id="200"/>
+          <Slur type="stop" id="201"/>
           <Note>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -37170,13 +37181,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <Slur id="201">
+        <Slur id="202">
           <track>4</track>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="201"/>
+          <Slur type="start" id="202"/>
           <Note>
             <pitch>32</pitch>
             <tpc>22</tpc>
@@ -37245,7 +37256,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="201"/>
+          <Slur type="stop" id="202"/>
           <Note>
             <pitch>32</pitch>
             <tpc>22</tpc>
@@ -38542,7 +38553,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <style>Dynamics</style>
           <text>sotto voce</text>
           </StaffText>
-        <Slur id="202">
+        <Slur id="203">
           <track>4</track>
           <SlurSegment no="0">
             <pos x="0.102446" y="-1.53668"/>
@@ -38551,7 +38562,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="202"/>
+          <Slur type="start" id="203"/>
           <Note>
             <Accidental>
               <subtype>sharp</subtype>
@@ -38579,7 +38590,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="202"/>
+          <Slur type="stop" id="203"/>
           <Note>
             <pitch>51</pitch>
             <tpc>23</tpc>
@@ -38613,13 +38624,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Chord>
         </Measure>
       <Measure number="133">
-        <Slur id="203">
+        <Slur id="204">
           <track>4</track>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="start" id="203"/>
+          <Slur type="start" id="204"/>
           <Note>
             <pitch>54</pitch>
             <tpc>20</tpc>
@@ -38660,7 +38671,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="203"/>
+          <Slur type="stop" id="204"/>
           <Note>
             <pitch>49</pitch>
             <tpc>21</tpc>
@@ -38673,7 +38684,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <Tie id="204">
+            <Tie id="205">
               <up>1</up>
               </Tie>
             <pitch>44</pitch>
@@ -38690,7 +38701,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>22</tpc>
             </Note>
           <Note>
-            <endSpanner id="204"/>
+            <endSpanner id="205"/>
             <pitch>44</pitch>
             <tpc>22</tpc>
             </Note>
@@ -38717,7 +38728,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>20</tpc>
             </Note>
           <Note>
-            <Tie id="205">
+            <Tie id="206">
               </Tie>
             <pitch>56</pitch>
             <tpc>22</tpc>
@@ -38759,7 +38770,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>25</tpc>
             </Note>
           <Note>
-            <endSpanner id="205"/>
+            <endSpanner id="206"/>
             <pitch>56</pitch>
             <tpc>22</tpc>
             </Note>
