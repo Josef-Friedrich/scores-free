@@ -12629,18 +12629,10 @@
       <Measure number="10">
         <Rest>
           <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ve</text>
-            </Lyrics>
           </Rest>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>ro.</text>
-            </Lyrics>
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
@@ -17841,18 +17833,10 @@
       <Measure number="10">
         <Rest>
           <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ve</text>
-            </Lyrics>
           </Rest>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>ro.</text>
-            </Lyrics>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
