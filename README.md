@@ -1,4 +1,6 @@
-Collection of music scores
+# A collection of free music scores.
+
+All scores were created using the free software [MuseScore](https://musescore.org).
 
 # Scores
 
