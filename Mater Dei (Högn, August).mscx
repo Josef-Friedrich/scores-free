@@ -546,6 +546,8 @@
       <Page>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -1107,11 +1109,11 @@
           </Text>
         <Text>
           <style>Title</style>
-          <text>Mater Dei</text>
+          <text>Missa festiva „Mater Dei“ F-Dur op. 16</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>August Högn</text>
+          <text>August Högn (1878-1961)</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -16444,6 +16446,16 @@
           <span>5</span>
           </BarLine>
         </Measure>
+      <VBox>
+        <height>11.1915</height>
+        <Text>
+          <style>Frame</style>
+          <text><font size="7"/>Version: 2015-09-26
+Autograph: http://imslp.org/wiki/File:PMLP73692-August_H%C3%B6gn_-_Mater-Dei-Messe.pdf
+MuseScore:
+IMSLP:</text>
+          </Text>
+        </VBox>
       </Staff>
     <Staff id="2">
       <Measure number="1">
