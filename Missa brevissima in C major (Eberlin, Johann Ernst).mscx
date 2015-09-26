@@ -280,6 +280,10 @@
         <System>
           </System>
         </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -4322,6 +4326,16 @@
           <span>1</span>
           </BarLine>
         </Measure>
+      <VBox>
+        <height>17.0095</height>
+        <Text>
+          <style>Frame</style>
+          <text>Edited by Josef Friedrich sen. and Josef Friedrich jun. 2015
+Version: 2015-09-26
+MuseScore: https://musescore.com/user/1601631/scores/1235531
+IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</text>
+          </Text>
+        </VBox>
       </Staff>
     <Staff id="2">
       <Measure number="1">
@@ -74109,9 +74123,7 @@
         </Measure>
       <Measure number="18">
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-1.9</yoffset>
-          <text><font size="10.2313"></font><font face="Times New Roman"></font>Tutti</text>
+          <text>Tutti</text>
           </StaffText>
         <Chord>
           <BeamMode>begin</BeamMode>
