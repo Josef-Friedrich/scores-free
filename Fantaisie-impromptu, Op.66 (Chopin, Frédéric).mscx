@@ -415,6 +415,7 @@
     <metaTag name="poet"></metaTag>
     <metaTag name="source">https://musescore.com/score/1172271</metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="version">2015-09-27</metaTag>
     <metaTag name="workNumber">op. 66</metaTag>
     <metaTag name="workTitle"></metaTag>
     <PageList>
@@ -19945,7 +19946,7 @@ Paris Vendredi 1835</text>
         <StaffText>
           <pos x="-8.4906" y="17.2705"/>
           <style>System</style>
-          <text><font size="8"/>Version: 2015-09-24
+          <text><font size="8"></font>Version: 2015-09-24
 edited by Josef Friedrich, 2015
 
 https://github.com/Josef-Friedrich/scores
@@ -26241,6 +26242,15 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <o3 x="0.115656" y="-1.4457"/>
             </SlurSegment>
           </Slur>
+        <Slur id="189">
+          <track>4</track>
+          <SlurSegment no="0">
+            <o1 x="-0.578279" y="-4.22143"/>
+            <o2 x="-3.06488" y="-2.25529"/>
+            <o3 x="0.520451" y="-2.13963"/>
+            <o4 x="-1.09873" y="-6.47672"/>
+            </SlurSegment>
+          </Slur>
         </Measure>
       <Measure number="43">
         <Slur id="188">
@@ -26254,6 +26264,15 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <SlurSegment no="1">
             <o2 x="0.115656" y="-1.4457"/>
             <o3 x="0.115656" y="-1.4457"/>
+            </SlurSegment>
+          </Slur>
+        <Slur id="189">
+          <track>4</track>
+          <SlurSegment no="0">
+            <o1 x="-0.578279" y="-4.22143"/>
+            <o2 x="-3.06488" y="-2.25529"/>
+            <o3 x="0.520451" y="-2.13963"/>
+            <o4 x="-1.09873" y="-6.47672"/>
             </SlurSegment>
           </Slur>
         <Beam id="441">
@@ -26271,6 +26290,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <durationType>eighth</durationType>
           <Beam>441</Beam>
           <Slur type="start" id="188"/>
+          <Slur type="start" id="189"/>
           <Note>
             <pitch>37</pitch>
             <tpc>9</tpc>
@@ -26467,7 +26487,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <Slur id="189">
+        <Slur id="190">
           <track>4</track>
           <SlurSegment no="0">
             <o1 x="0.171766" y="-1.63178"/>
@@ -26490,7 +26510,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>444</Beam>
-          <Slur type="start" id="189"/>
+          <Slur type="start" id="190"/>
           <Note>
             <pitch>49</pitch>
             <tpc>9</tpc>
@@ -26544,7 +26564,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>444</Beam>
-          <Slur type="stop" id="189"/>
+          <Slur type="stop" id="190"/>
           <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
@@ -26893,7 +26913,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <HairPin id="190">
+        <HairPin id="191">
           <subtype>0</subtype>
           </HairPin>
         <Chord>
@@ -26970,7 +26990,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Chord>
         </Measure>
       <Measure number="48">
-        <endSpanner id="190"/>
+        <endSpanner id="191"/>
         <Tuplet id="145">
           <numberType>2</numberType>
           <bracketType>2</bracketType>
@@ -28506,7 +28526,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>10</tpc>
             </Note>
           </Chord>
-        <Slur id="191">
+        <Slur id="192">
           <track>4</track>
           <SlurSegment no="0">
             <o2 x="-0.257649" y="-2.74825"/>
@@ -28527,7 +28547,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>473</Beam>
-          <Slur type="start" id="191"/>
+          <Slur type="start" id="192"/>
           <Note>
             <pitch>49</pitch>
             <tpc>9</tpc>
@@ -28578,7 +28598,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>473</Beam>
-          <Slur type="stop" id="191"/>
+          <Slur type="stop" id="192"/>
           <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
@@ -32586,7 +32606,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Chord>
         </Measure>
       <Measure number="86">
-        <Slur id="192">
+        <Slur id="193">
           <track>4</track>
           <SlurSegment no="0">
             <o2 x="-0.772946" y="-4.89533"/>
@@ -32607,7 +32627,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Beam>526</Beam>
-          <Slur type="start" id="192"/>
+          <Slur type="start" id="193"/>
           <Note>
             <pitch>44</pitch>
             <tpc>22</tpc>
@@ -32744,7 +32764,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>527</Beam>
-          <Slur type="stop" id="192"/>
+          <Slur type="stop" id="193"/>
           <Note>
             <pitch>51</pitch>
             <tpc>23</tpc>
@@ -36920,19 +36940,19 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <Accidental>
               <subtype>double sharp</subtype>
               </Accidental>
-            <Tie id="193">
+            <Tie id="194">
               </Tie>
             <pitch>55</pitch>
             <tpc>27</tpc>
             </Note>
           <Note>
-            <Tie id="194">
+            <Tie id="195">
               </Tie>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <Tie id="195">
+            <Tie id="196">
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -36942,7 +36962,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
               <role>1</role>
               <subtype>natural</subtype>
               </Accidental>
-            <Tie id="196">
+            <Tie id="197">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -36954,22 +36974,22 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="193"/>
+            <endSpanner id="194"/>
             <pitch>55</pitch>
             <tpc>27</tpc>
             </Note>
           <Note>
-            <endSpanner id="194"/>
+            <endSpanner id="195"/>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <endSpanner id="195"/>
+            <endSpanner id="196"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <endSpanner id="196"/>
+            <endSpanner id="197"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -36980,18 +37000,18 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <Slur id="197">
+        <Slur id="198">
           <track>4</track>
           </Slur>
-        <Slur id="198">
+        <Slur id="199">
           <track>4</track>
           <up>2</up>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="197"/>
           <Slur type="start" id="198"/>
+          <Slur type="start" id="199"/>
           <Note>
             <Accidental>
               <subtype>double sharp</subtype>
@@ -37000,13 +37020,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>27</tpc>
             </Note>
           <Note>
-            <Tie id="199">
+            <Tie id="200">
               </Tie>
             <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <Tie id="200">
+            <Tie id="201">
               </Tie>
             <pitch>52</pitch>
             <tpc>18</tpc>
@@ -37025,19 +37045,19 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
-          <Slur type="stop" id="197"/>
           <Slur type="stop" id="198"/>
+          <Slur type="stop" id="199"/>
           <Note>
             <pitch>44</pitch>
             <tpc>22</tpc>
             </Note>
           <Note>
-            <endSpanner id="199"/>
+            <endSpanner id="200"/>
             <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
           <Note>
-            <endSpanner id="200"/>
+            <endSpanner id="201"/>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -37050,7 +37070,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
-        <Slur id="201">
+        <Slur id="202">
           <track>4</track>
           </Slur>
         <Chord>
@@ -37060,7 +37080,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <subtype>sforzato</subtype>
             <pos x="0.481726" y="-2.51996"/>
             </Articulation>
-          <Slur type="start" id="201"/>
+          <Slur type="start" id="202"/>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -37091,7 +37111,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <Articulation>
             <subtype>sforzato</subtype>
             </Articulation>
-          <Slur type="stop" id="201"/>
+          <Slur type="stop" id="202"/>
           <Note>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -37181,13 +37201,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <Slur id="202">
+        <Slur id="203">
           <track>4</track>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="202"/>
+          <Slur type="start" id="203"/>
           <Note>
             <pitch>32</pitch>
             <tpc>22</tpc>
@@ -37256,7 +37276,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="202"/>
+          <Slur type="stop" id="203"/>
           <Note>
             <pitch>32</pitch>
             <tpc>22</tpc>
@@ -38553,7 +38573,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <style>Dynamics</style>
           <text>sotto voce</text>
           </StaffText>
-        <Slur id="203">
+        <Slur id="204">
           <track>4</track>
           <SlurSegment no="0">
             <pos x="0.102446" y="-1.53668"/>
@@ -38562,7 +38582,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="203"/>
+          <Slur type="start" id="204"/>
           <Note>
             <Accidental>
               <subtype>sharp</subtype>
@@ -38590,7 +38610,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="203"/>
+          <Slur type="stop" id="204"/>
           <Note>
             <pitch>51</pitch>
             <tpc>23</tpc>
@@ -38624,13 +38644,13 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           </Chord>
         </Measure>
       <Measure number="133">
-        <Slur id="204">
+        <Slur id="205">
           <track>4</track>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Slur type="start" id="204"/>
+          <Slur type="start" id="205"/>
           <Note>
             <pitch>54</pitch>
             <tpc>20</tpc>
@@ -38671,7 +38691,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="204"/>
+          <Slur type="stop" id="205"/>
           <Note>
             <pitch>49</pitch>
             <tpc>21</tpc>
@@ -38684,7 +38704,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <Tie id="205">
+            <Tie id="206">
               <up>1</up>
               </Tie>
             <pitch>44</pitch>
@@ -38701,7 +38721,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>22</tpc>
             </Note>
           <Note>
-            <endSpanner id="205"/>
+            <endSpanner id="206"/>
             <pitch>44</pitch>
             <tpc>22</tpc>
             </Note>
@@ -38728,7 +38748,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>20</tpc>
             </Note>
           <Note>
-            <Tie id="206">
+            <Tie id="207">
               </Tie>
             <pitch>56</pitch>
             <tpc>22</tpc>
@@ -38770,7 +38790,7 @@ http://imslp.org/wiki/File:PMLP02259-Fantaisie_Impromptu.pdf</text>
             <tpc>25</tpc>
             </Note>
           <Note>
-            <endSpanner id="206"/>
+            <endSpanner id="207"/>
             <pitch>56</pitch>
             <tpc>22</tpc>
             </Note>
