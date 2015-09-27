@@ -12,7 +12,7 @@
       <minSystemDistance>8.2</minSystemDistance>
       <hideEmptyStaves>1</hideEmptyStaves>
       <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
-      <evenFooterR>$m $M</evenFooterR>
+      <evenFooterR>$M $m</evenFooterR>
       <TextStyle>
         <halign>center</halign>
         <valign>baseline</valign>
@@ -69,8 +69,6 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
     <metaTag name="workTitle">Un poquito cantas</metaTag>
     <PageList>
       <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -201,9 +199,9 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6.40601</height>
+        <height>14.8713</height>
         <Text>
-          <pos x="-0.103265" y="-4.29709e-15"/>
+          <pos x="0" y="-2"/>
           <style>Composer</style>
           <text>Arr. Josef Friedrich, 21.8.2005</text>
           </Text>
@@ -212,6 +210,9 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <text>Un poquito cantas</text>
           </Text>
         </VBox>
+      <HBox>
+        <width>7.0653</width>
+        </HBox>
       <Measure number="1">
         <Clef>
           <concertClefType>G</concertClefType>
@@ -275,9 +276,6 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Rest>
         </Measure>
       <Measure number="8">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="2"/>
@@ -698,9 +696,6 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="16">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2597,10 +2592,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Note>
           </Chord>
         <Rest>
-          <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
@@ -2682,10 +2677,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Note>
           </Chord>
         <Rest>
-          <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
@@ -2764,10 +2759,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Note>
           </Chord>
         <Rest>
-          <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
@@ -2846,10 +2841,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Note>
           </Chord>
         <Rest>
-          <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
@@ -2928,10 +2923,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Note>
           </Chord>
         <Rest>
-          <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
@@ -3013,10 +3008,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Note>
           </Chord>
         <Rest>
-          <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
@@ -3095,10 +3090,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Note>
           </Chord>
         <Rest>
-          <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
@@ -3164,6 +3159,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
       </Staff>
     <Staff id="3">
       <Measure number="1">
+        <vspacerUp>1.5</vspacerUp>
         <Clef>
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
