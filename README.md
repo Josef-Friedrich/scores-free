@@ -13,4 +13,5 @@ All scores were created using the free software [MuseScore](https://musescore.or
   [MuseScore](https://musescore.com/user/1601631/scores/1235531)
 * Un poquito cantas
   [MuseScore](https://musescore.com/user/1601631/scores/1246306)
-
+* When Israel was in Egypt's land
+  [MuseScore](https://musescore.com/user/1601631/scores/1248151)
