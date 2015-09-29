@@ -56046,6 +56046,11 @@ IMSLP:</text>
           </Rest>
         </Measure>
       <Measure number="11">
+        <Dynamic>
+          <subtype>f</subtype>
+          <velocity>96</velocity>
+          <pos x="-1.8683" y="7.78296"/>
+          </Dynamic>
         <Slur id="279">
           <track>20</track>
           </Slur>
@@ -56193,6 +56198,9 @@ IMSLP:</text>
       <Measure number="16">
         <Slur id="281">
           <track>20</track>
+          <SlurSegment no="0">
+            <pos x="0.103265" y="-1.85877"/>
+            </SlurSegment>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -69900,6 +69908,7 @@ IMSLP:</text>
       <Measure number="16">
         <Slur id="382">
           <track>24</track>
+          <up>1</up>
           </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
