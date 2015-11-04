@@ -1,4 +1,5 @@
 *.mscz
+*.msxz,
 *.mscx,
 *.pdf
 *.DS_Store
