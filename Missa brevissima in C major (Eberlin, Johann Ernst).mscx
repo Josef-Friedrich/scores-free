@@ -78563,6 +78563,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>4</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -78571,8 +78578,24 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <tick>195360</tick>
+        <FiguredBass>
+          <onNote>0</onNote>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>3</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         </Measure>
       <Measure number="4">
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -78589,6 +78612,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>7</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -78597,6 +78627,15 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <tick>197280</tick>
+        <FiguredBass>
+          <onNote>0</onNote>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         </Measure>
       <Measure number="5">
         <Chord>
@@ -78657,6 +78696,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
           </Chord>
         </Measure>
       <Measure number="6">
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>4</digit>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>2</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -78665,6 +78715,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>5</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -78713,6 +78770,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
           </Chord>
         </Measure>
       <Measure number="7">
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -78729,6 +78793,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>720</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>7</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -78738,6 +78809,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -78748,6 +78826,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
           </Chord>
         </Measure>
       <Measure number="8">
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>5</digit>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>3</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -78759,6 +78848,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
         <StaffText>
           <text>Soli</text>
           </StaffText>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <continuationLine>1</continuationLine>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <continuationLine>1</continuationLine>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>mid</BeamMode>
           <durationType>eighth</durationType>
@@ -78767,6 +78867,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>4</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>mid</BeamMode>
           <durationType>eighth</durationType>
@@ -78775,6 +78886,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>5</digit>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>3</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
@@ -78783,6 +78905,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>4</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -78791,6 +78924,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <continuationLine>1</continuationLine>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <continuationLine>1</continuationLine>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>mid</BeamMode>
           <durationType>eighth</durationType>
@@ -78799,6 +78943,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>4</digit>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>2</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>mid</BeamMode>
           <durationType>eighth</durationType>
@@ -78807,6 +78962,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <continuationLine>1</continuationLine>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <continuationLine>1</continuationLine>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
@@ -78942,6 +79108,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
         <StaffText>
           <text>Tutti</text>
           </StaffText>
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>1</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -78950,6 +79123,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>1</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -78958,6 +79138,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>1</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
@@ -78966,6 +79153,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>1</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -78974,6 +79168,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>1</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
@@ -78984,6 +79185,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
           </Chord>
         </Measure>
       <Measure number="12">
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>1</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -78992,6 +79200,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>1</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
@@ -79003,6 +79218,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>1</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -79011,6 +79233,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>1</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -79019,6 +79248,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>120</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>2</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>mid</BeamMode>
           <durationType>16th</durationType>
@@ -79035,6 +79271,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>3</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -79043,6 +79286,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
@@ -79053,6 +79303,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
           </Chord>
         </Measure>
       <Measure number="13">
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>4</digit>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>2</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -79061,6 +79322,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -79069,6 +79337,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>7</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -79077,6 +79352,15 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <tick>214560</tick>
+        <FiguredBass>
+          <onNote>0</onNote>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         </Measure>
       <Measure number="14">
         <Chord>
@@ -79091,6 +79375,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
           <pos x="-0.598449" y="-3.62597"/>
           <text>(Vc.)</text>
           </StaffText>
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -79099,6 +79390,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>7</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -79107,8 +79405,24 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <tick>216480</tick>
+        <FiguredBass>
+          <onNote>0</onNote>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         </Measure>
       <Measure number="15">
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>7</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -79129,6 +79443,17 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>5</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -79145,12 +79470,19 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -79163,6 +79495,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
           </Chord>
         </Measure>
       <Measure number="16">
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>7</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>begin</BeamMode>
           <durationType>eighth</durationType>
@@ -79179,6 +79518,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>240</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>6</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>mid</BeamMode>
           <durationType>eighth</durationType>
@@ -79195,6 +79541,13 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <FiguredBass>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>4</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -79203,6 +79556,15 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <tick>220320</tick>
+        <FiguredBass>
+          <onNote>0</onNote>
+          <ticks>480</ticks>
+          <FiguredBassItem>
+            <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
+            <digit>3</digit>
+            </FiguredBassItem>
+          </FiguredBass>
         </Measure>
       <Measure number="17">
         <Chord>
