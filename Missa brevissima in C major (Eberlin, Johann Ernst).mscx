@@ -63,7 +63,7 @@
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://musescore.com/score/1374041</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Missa in C (brevissima)</metaTag>
@@ -4336,8 +4336,8 @@
         <height>10.2412</height>
         <Text>
           <style>Frame</style>
-          <text><font size="8"></font>Edited by Josef Friedrich sen. and Josef Friedrich jun. 2015
-Version: 2015-09-26
+          <text><font size="8"/>Edited by Josef Friedrich sen. and Josef Friedrich jun. 2015
+Version: 2015-11-05
 MuseScore: https://musescore.com/user/1601631/scores/1235531
 IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</text>
           </Text>
@@ -57153,9 +57153,6 @@ IMSLP: http://imslp.org/wiki/File:PMLP637981-Missa_in_C_%28brevissima%29.pdf</te
       </Staff>
     <Staff id="10">
       <Measure number="1">
-        <KeySig>
-          <accidental>0</accidental>
-          </KeySig>
         <TimeSig>
           <subtype>1</subtype>
           <sigN>4</sigN>
