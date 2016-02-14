@@ -3283,6 +3283,10 @@
           <Beam>59</Beam>
           <Slur type="start" id="2"/>
           <Note>
+            <Fingering>
+              <pos x="1.05906" y="-5.69515"/>
+              <text>2</text>
+              </Fingering>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -3291,6 +3295,10 @@
           <durationType>16th</durationType>
           <Beam>59</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05906" y="-5.19515"/>
+              <text>1</text>
+              </Fingering>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -3317,6 +3325,10 @@
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="1.05906" y="-5.44515"/>
+              <text>2</text>
+              </Fingering>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
@@ -3336,6 +3348,10 @@
           <durationType>16th</durationType>
           <Beam>60</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05906" y="-4.44515"/>
+              <text>4</text>
+              </Fingering>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -3345,12 +3361,19 @@
           <Beam>60</Beam>
           <Slur type="stop" id="3"/>
           <Note>
+            <Fingering>
+              <pos x="1.05906" y="-4.94515"/>
+              <text>2</text>
+              </Fingering>
             <pitch>70</pitch>
             <tpc>24</tpc>
             </Note>
           </Chord>
         <Slur id="4">
           <track>0</track>
+          <SlurSegment no="0">
+            <pos x="-0.371348" y="-1.57823"/>
+            </SlurSegment>
           </Slur>
         <Beam id="61">
           </Beam>
@@ -3359,6 +3382,10 @@
           <Beam>61</Beam>
           <Slur type="start" id="4"/>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>5</text>
+              </Fingering>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -3367,6 +3394,10 @@
           <durationType>16th</durationType>
           <Beam>61</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>2</text>
+              </Fingering>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
@@ -3375,6 +3406,10 @@
           <durationType>16th</durationType>
           <Beam>61</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>1</text>
+              </Fingering>
             <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
@@ -3390,6 +3425,9 @@
           </Chord>
         <Slur id="5">
           <track>0</track>
+          <SlurSegment no="0">
+            <pos x="0" y="-1.29972"/>
+            </SlurSegment>
           </Slur>
         <Beam id="62">
           </Beam>
@@ -3401,6 +3439,10 @@
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>2</text>
+              </Fingering>
             <pitch>75</pitch>
             <tpc>23</tpc>
             </Note>
@@ -3412,6 +3454,10 @@
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>1</text>
+              </Fingering>
             <pitch>77</pitch>
             <tpc>25</tpc>
             </Note>
@@ -3420,6 +3466,10 @@
           <durationType>16th</durationType>
           <Beam>62</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>3</text>
+              </Fingering>
             <pitch>78</pitch>
             <tpc>20</tpc>
             </Note>
@@ -3439,6 +3489,7 @@
           <track>0</track>
           <SlurSegment no="0">
             <o4 x="-0.102446" y="-0.92201"/>
+            <pos x="0" y="-1.62184"/>
             </SlurSegment>
           </Slur>
         <Beam id="63">
@@ -3448,6 +3499,10 @@
           <Beam>63</Beam>
           <Slur type="start" id="6"/>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>5</text>
+              </Fingering>
             <pitch>83</pitch>
             <tpc>19</tpc>
             </Note>
@@ -3459,6 +3514,10 @@
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>3</text>
+              </Fingering>
             <pitch>80</pitch>
             <tpc>22</tpc>
             </Note>
@@ -3467,6 +3526,10 @@
           <durationType>16th</durationType>
           <Beam>63</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>4</text>
+              </Fingering>
             <pitch>81</pitch>
             <tpc>17</tpc>
             </Note>
@@ -3476,12 +3539,19 @@
           <Beam>63</Beam>
           <Slur type="stop" id="6"/>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>1</text>
+              </Fingering>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
         <Slur id="7">
           <track>0</track>
+          <SlurSegment no="0">
+            <pos x="0.0737202" y="-1.6587"/>
+            </SlurSegment>
           </Slur>
         <Beam id="64">
           </Beam>
@@ -3490,6 +3560,10 @@
           <Beam>64</Beam>
           <Slur type="start" id="7"/>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>2</text>
+              </Fingering>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
@@ -3501,6 +3575,10 @@
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>3</text>
+              </Fingering>
             <pitch>75</pitch>
             <tpc>23</tpc>
             </Note>
@@ -3514,6 +3592,10 @@
               <role>1</role>
               <subtype>natural</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>4</text>
+              </Fingering>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -3522,6 +3604,10 @@
           <durationType>16th</durationType>
           <Beam>64</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>2</text>
+              </Fingering>
             <pitch>75</pitch>
             <tpc>23</tpc>
             </Note>
@@ -3578,6 +3664,10 @@
           <Beam>66</Beam>
           <Slur type="start" id="9"/>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>2</text>
+              </Fingering>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -3586,6 +3676,10 @@
           <durationType>16th</durationType>
           <Beam>66</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>3</text>
+              </Fingering>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
@@ -3597,6 +3691,10 @@
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>4</text>
+              </Fingering>
             <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
@@ -3606,6 +3704,10 @@
           <Beam>66</Beam>
           <Slur type="stop" id="9"/>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>2</text>
+              </Fingering>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
@@ -3618,6 +3720,10 @@
           <durationType>16th</durationType>
           <Beam>67</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>5</text>
+              </Fingering>
             <pitch>79</pitch>
             <tpc>15</tpc>
             </Note>
@@ -4104,6 +4210,10 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.259062" y="4.94515"/>
+              <text>2</text>
+              </Fingering>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -4114,6 +4224,10 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.259062" y="4.94515"/>
+              <text>3</text>
+              </Fingering>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -4124,6 +4238,10 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.259062" y="4.94515"/>
+              <text>1</text>
+              </Fingering>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -4136,6 +4254,10 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="1.50297"/>
+              <text>2</text>
+              </Fingering>
             <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
@@ -4149,6 +4271,10 @@
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.659062" y="1.50297"/>
+              <text>4</text>
+              </Fingering>
             <pitch>46</pitch>
             <tpc>24</tpc>
             </Note>
@@ -4159,6 +4285,10 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="1.50297"/>
+              <text>1</text>
+              </Fingering>
             <pitch>47</pitch>
             <tpc>19</tpc>
             </Note>
@@ -4169,6 +4299,10 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="1.50297"/>
+              <text>4</text>
+              </Fingering>
             <pitch>43</pitch>
             <tpc>15</tpc>
             </Note>
