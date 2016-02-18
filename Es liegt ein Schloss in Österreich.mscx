@@ -9,10 +9,42 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <maxSystemDistance>8.5</maxSystemDistance>
       <lastSystemFillLimit>0</lastSystemFillLimit>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <offsetType>absolute</offsetType>
+        <name>Title</name>
+        <family>Alegreya Sans ExtraBold</family>
+        <size>24</size>
+        <bold>1</bold>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Lyrics Odd Lines</name>
+        <family>Alegreya</family>
+        <size>11</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Lyrics Even Lines</name>
+        <family>TeXGyreBonum</family>
+        <size>11</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
       <page-layout>
-        <page-height>1683.36</page-height>
-        <page-width>1190.88</page-width>
+        <page-height>1683.38</page-height>
+        <page-width>1190.89</page-width>
         <page-margins type="even">
           <left-margin>56.6929</left-margin>
           <right-margin>56.6929</right-margin>
@@ -26,7 +58,7 @@
           <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.76389</Spatium>
+      <Spatium>2.764</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -47,6 +79,8 @@
     <metaTag name="workTitle">Title</metaTag>
     <PageList>
       <Page>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -151,11 +185,15 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Slur id="2">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <text>Schloss</text>
             </Lyrics>
+          <Slur type="start" id="2"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -163,6 +201,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Slur type="stop" id="2"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -181,7 +220,7 @@
         </Measure>
       <Measure number="3">
         <Chord>
-          <durationType>quarter</durationType>
+          <durationType>half</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>Ös</text>
@@ -189,13 +228,6 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -209,12 +241,16 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Slur id="3">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>reich,</text>
             </Lyrics>
+          <Slur type="start" id="3"/>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -222,6 +258,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Slur type="stop" id="3"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -259,11 +296,15 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Slur id="4">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <text>schön</text>
             </Lyrics>
+          <Slur type="start" id="4"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -271,6 +312,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Slur type="stop" id="4"/>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -371,12 +413,16 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <Slur id="5">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>ro</text>
             </Lyrics>
+          <Slur type="start" id="5"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -384,6 +430,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Slur type="stop" id="5"/>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -422,12 +469,16 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <Slur id="6">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>Mar</text>
             </Lyrics>
+          <Slur type="start" id="6"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -435,6 +486,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Slur type="stop" id="6"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -451,12 +503,16 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Slur id="7">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>stein</text>
             </Lyrics>
+          <Slur type="start" id="7"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -464,9 +520,10 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Slur type="stop" id="7"/>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -476,26 +533,25 @@
             <text>ge</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="9" len="5/4">
         <Chord>
-          <dots>1</dots>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
             <text>mau</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>ert.</text>
@@ -505,6 +561,12 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
