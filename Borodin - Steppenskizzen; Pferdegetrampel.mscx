@@ -66,8 +66,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -106,9 +104,6 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>10</height>
-        </VBox>
       <Measure number="1">
         <Clef>
           <concertClefType>C3</concertClefType>
@@ -123,13 +118,15 @@
           <durationType>eighth</durationType>
           </Rest>
         <StaffText>
+          <pos x="-3.88056" y="-4.21667"/>
           <xoffset>0</xoffset>
           <yoffset>-2.1</yoffset>
-          <text><font size="13.6417"/><font face="Times New Roman"/>pizz.</text>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>pizz.</text>
           </StaffText>
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
+          <pos x="0.658281" y="6.1"/>
           <xoffset>0</xoffset>
           <yoffset>7</yoffset>
           </Dynamic>
@@ -268,9 +265,10 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
+          <pos x="-0.529167" y="-3.41111"/>
           <xoffset>0</xoffset>
           <yoffset>-2</yoffset>
-          <text><font size="13.6417"/><font face="Times New Roman"/>pizz.</text>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>pizz.</text>
           </StaffText>
         <Dynamic>
           <subtype>p</subtype>

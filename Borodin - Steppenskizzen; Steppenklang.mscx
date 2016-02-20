@@ -66,8 +66,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -79,8 +77,6 @@
         </Staff>
       <trackName> </trackName>
       <Instrument>
-        <longName> </longName>
-        <shortName> </shortName>
         <trackName> </trackName>
         <Channel>
           <controller ctrl="10" value="63"/>
@@ -96,8 +92,6 @@
         </Staff>
       <trackName> </trackName>
       <Instrument>
-        <longName> </longName>
-        <shortName> </shortName>
         <trackName> </trackName>
         <Channel>
           <controller ctrl="10" value="63"/>
@@ -106,10 +100,8 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>10</height>
-        </VBox>
       <Measure number="1">
+        <vspacerDown>7.4633</vspacerDown>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
@@ -120,32 +112,42 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
+          <pos x="-0.297553" y="3.38911"/>
           <xoffset>0</xoffset>
           <yoffset>-2.8</yoffset>
-          <text><font size="13.6417"/><font face="Times New Roman"/>Solo</text>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>Solo</text>
           </StaffText>
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
+          <pos x="-3.00346" y="6.66874"/>
           <xoffset>0</xoffset>
           <yoffset>5.3</yoffset>
           </Dynamic>
         <StaffText>
-          <text><font size="13.6417"/><font face="Times New Roman"/>Violini I</text>
+          <pos x="-9.75974" y="-7.68966"/>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>Violini I</text>
           </StaffText>
         <StaffText>
+          <pos x="6.54617" y="3.85762"/>
           <xoffset>0</xoffset>
           <yoffset>6</yoffset>
-          <text><font size="13.6417"/><font face="Times New Roman"/>divisi</text>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>divisi</text>
           </StaffText>
         <Ottava id="2">
           <subtype>8va</subtype>
+          <Segment>
+            <subtype>0</subtype>
+            <off2 x="7.8554" y="0"/>
+            <pos x="10.8584" y="-6.46827"/>
+            </Segment>
           </Ottava>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Articulation>
             <subtype>ouvert</subtype>
+            <pos x="0.456332" y="-4.20245"/>
             </Articulation>
           <StemDirection>down</StemDirection>
           <Note>
@@ -200,9 +202,10 @@
         </Measure>
       <Measure number="5">
         <StaffText>
+          <pos x="-0.535596" y="3.7386"/>
           <xoffset>0</xoffset>
           <yoffset>6</yoffset>
-          <text><font size="13.6417"/><font face="Times New Roman"/>a 2.</text>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>a 2.</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -265,6 +268,8 @@
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
+            <Tie id="11">
+              </Tie>
             <endSpanner id="10"/>
             <pitch>88</pitch>
             <tpc>18</tpc>
@@ -273,9 +278,10 @@
         </Measure>
       <Measure number="10">
         <StaffText>
+          <pos x="-0.297553" y="3.73615"/>
           <xoffset>0</xoffset>
           <yoffset>5.7</yoffset>
-          <text><font size="13.6417"/><font face="Times New Roman"/>a 3.</text>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>a 3.</text>
           </StaffText>
         <endSpanner id="2"/>
         <Chord>
@@ -283,7 +289,8 @@
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <pitch>100</pitch>
+            <endSpanner id="11"/>
+            <pitch>88</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
@@ -305,19 +312,21 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
+          <pos x="-0.357064" y="4.41223"/>
           <xoffset>0</xoffset>
           <yoffset>5.9</yoffset>
-          <text><font size="13.6417"/><font face="Times New Roman"/>Solo</text>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>Solo</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Articulation>
             <subtype>ouvert</subtype>
+            <pos x="0.634864" y="-3.90489"/>
             </Articulation>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="11">
+            <Tie id="12">
               </Tie>
             <pitch>88</pitch>
             <tpc>18</tpc>
@@ -325,20 +334,6 @@
           </Chord>
         </Measure>
       <Measure number="2">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <Tie id="12">
-              </Tie>
-            <endSpanner id="11"/>
-            <pitch>88</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="3">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -352,7 +347,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="4">
+      <Measure number="3">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -366,12 +361,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="5">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>5.9</yoffset>
-          <text><font size="13.6417"/><font face="Times New Roman"/>a 2.</text>
-          </StaffText>
+      <Measure number="4">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -385,7 +375,13 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="6">
+      <Measure number="5">
+        <StaffText>
+          <pos x="-0.119021" y="3.69811"/>
+          <xoffset>0</xoffset>
+          <yoffset>5.9</yoffset>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>a 2.</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -399,7 +395,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="7">
+      <Measure number="6">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -413,7 +409,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="8">
+      <Measure number="7">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -427,7 +423,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="9">
+      <Measure number="8">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -441,18 +437,33 @@
             </Note>
           </Chord>
         </Measure>
+      <Measure number="9">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <Tie id="20">
+              </Tie>
+            <endSpanner id="19"/>
+            <pitch>88</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
       <Measure number="10">
         <StaffText>
+          <pos x="-0.119021" y="3.76006"/>
           <xoffset>0</xoffset>
           <yoffset>6.2</yoffset>
-          <text><font size="13.6417"/><font face="Times New Roman"/>a 3.</text>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>a 3.</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="19"/>
+            <endSpanner id="20"/>
             <pitch>88</pitch>
             <tpc>18</tpc>
             </Note>

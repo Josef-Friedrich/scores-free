@@ -66,8 +66,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -77,8 +75,6 @@
         </Staff>
       <trackName> </trackName>
       <Instrument>
-        <longName> </longName>
-        <shortName> </shortName>
         <trackName> </trackName>
         <Channel>
           <controller ctrl="10" value="63"/>
@@ -87,9 +83,6 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>10</height>
-        </VBox>
       <Measure number="1">
         <Clef>
           <concertClefType>G</concertClefType>
@@ -107,11 +100,13 @@
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
+          <pos x="0.329141" y="6.5"/>
           <xoffset>0</xoffset>
           <yoffset>7</yoffset>
           </Dynamic>
         <StaffText>
-          <text><font size="13.6417"/><font face="Times New Roman"/>Clarinetti in A</text>
+          <pos x="-0.1" y="-4.7"/>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>Clarinetti in A</text>
           </StaffText>
         <Slur id="2">
           <track>0</track>
@@ -329,6 +324,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.824375" y="-0.796094"/>
             </Articulation>
           <Slur type="start" id="6"/>
           <StemDirection>down</StemDirection>

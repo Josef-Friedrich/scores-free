@@ -66,8 +66,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -77,8 +75,6 @@
         </Staff>
       <trackName> </trackName>
       <Instrument>
-        <longName> </longName>
-        <shortName> </shortName>
         <trackName> </trackName>
         <Channel>
           <controller ctrl="10" value="63"/>
@@ -87,9 +83,6 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>10</height>
-        </VBox>
       <Measure number="1">
         <Clef>
           <concertClefType>G</concertClefType>
@@ -101,12 +94,14 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
+          <pos x="0.881944" y="-4.69861"/>
           <xoffset>0</xoffset>
           <yoffset>-1.7</yoffset>
-          <text><font size="13.6417"/><font face="Times New Roman"/><i>cantabile ed espressivo</i></text>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font><i>cantabile ed espressivo</i></text>
           </StaffText>
         <StaffText>
-          <text><font size="13.6417"/><font face="Times New Roman"/>Corno inglese</text>
+          <pos x="-8.29028" y="-7.35139"/>
+          <text><font size="13.6417"></font><font face="Times New Roman"></font>Corno inglese</text>
           </StaffText>
         <Slur id="2">
           <track>0</track>
