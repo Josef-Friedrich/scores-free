@@ -10,6 +10,8 @@
     <Division>480</Division>
     <Style>
       <minSystemDistance>9.2</minSystemDistance>
+      <concertPitch>1</concertPitch>
+      <hideInstrumentNameIfOneInstrument>0</hideInstrumentNameIfOneInstrument>
       <TextStyle>
         <halign>center</halign>
         <valign>baseline</valign>
@@ -73,24 +75,61 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName> </trackName>
+      <trackName>A Klarinette</trackName>
       <Instrument>
-        <trackName> </trackName>
+        <longName>Clarinetti in A</longName>
+        <shortName>Cl. in A</shortName>
+        <trackName>A Klarinette</trackName>
+        <minPitchP>49</minPitchP>
+        <maxPitchP>93</maxPitchP>
+        <minPitchA>49</minPitchA>
+        <maxPitchA>88</maxPitchA>
+        <transposeDiatonic>-2</transposeDiatonic>
+        <transposeChromatic>-3</transposeChromatic>
+        <instrumentId>wind.reed.clarinet.a</instrumentId>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
-          <controller ctrl="10" value="63"/>
+          <program value="71"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <Measure number="1">
+        <stretch>0.8</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
         <KeySig>
           <accidental>3</accidental>
-          <mode>major</mode>
           </KeySig>
         <TimeSig>
           <sigN>2</sigN>
@@ -104,10 +143,6 @@
           <xoffset>0</xoffset>
           <yoffset>7</yoffset>
           </Dynamic>
-        <StaffText>
-          <pos x="-0.1" y="-4.7"/>
-          <text><font size="13.6417"></font><font face="Times New Roman"></font>Clarinetti in A</text>
-          </StaffText>
         <Slur id="2">
           <track>0</track>
           </Slur>
@@ -123,6 +158,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Beam id="1">
@@ -135,6 +171,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>13</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -144,10 +181,12 @@
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         </Measure>
       <Measure number="2">
+        <stretch>0.8</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -155,6 +194,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -165,10 +205,12 @@
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         </Measure>
       <Measure number="3">
+        <stretch>0.8</stretch>
         <Slur id="3">
           <track>0</track>
           </Slur>
@@ -180,6 +222,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -190,10 +233,12 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         </Measure>
       <Measure number="4">
+        <stretch>0.8</stretch>
         <Slur id="4">
           <track>0</track>
           </Slur>
@@ -206,6 +251,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Beam id="2">
@@ -218,6 +264,7 @@
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -227,10 +274,12 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         </Measure>
       <Measure number="5">
+        <stretch>0.8</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -239,6 +288,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Slur id="5">
@@ -255,10 +305,12 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         </Measure>
       <Measure number="6">
+        <stretch>0.8</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -269,6 +321,7 @@
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -281,10 +334,12 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         </Measure>
       <Measure number="7">
+        <stretch>0.8</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -295,6 +350,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>13</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -308,15 +364,22 @@
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         </Measure>
       <Measure number="8">
+        <stretch>0.8</stretch>
         <Slur id="6">
           <track>0</track>
           </Slur>
         <HairPin id="7">
           <subtype>0</subtype>
+          <Segment>
+            <subtype>0</subtype>
+            <off2 x="8.60016" y="0"/>
+            <pos x="81.1188" y="6.01805"/>
+            </Segment>
           </HairPin>
         <endSpanner id="7"/>
         <Chord>
@@ -331,10 +394,12 @@
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         </Measure>
       <Measure number="9">
+        <stretch>0.8</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -343,6 +408,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <BarLine>

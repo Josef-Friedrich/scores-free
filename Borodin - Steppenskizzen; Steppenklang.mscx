@@ -90,11 +90,54 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <trackName> </trackName>
+      <trackName>Violine</trackName>
       <Instrument>
-        <trackName> </trackName>
+        <longName>Violini I</longName>
+        <shortName>Vl.</shortName>
+        <trackName>Violine</trackName>
+        <minPitchP>55</minPitchP>
+        <maxPitchP>103</maxPitchP>
+        <minPitchA>55</minPitchA>
+        <maxPitchA>88</maxPitchA>
+        <instrumentId>strings.violin</instrumentId>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
-          <controller ctrl="10" value="63"/>
+          <program value="40"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -125,10 +168,6 @@
           <yoffset>5.3</yoffset>
           </Dynamic>
         <StaffText>
-          <pos x="-9.75974" y="-7.68966"/>
-          <text><font size="13.6417"></font><font face="Times New Roman"></font>Violini I</text>
-          </StaffText>
-        <StaffText>
           <pos x="6.54617" y="3.85762"/>
           <xoffset>0</xoffset>
           <yoffset>6</yoffset>
@@ -139,7 +178,7 @@
           <Segment>
             <subtype>0</subtype>
             <off2 x="7.8554" y="0"/>
-            <pos x="10.8584" y="-6.46827"/>
+            <pos x="20.1239" y="-6.46827"/>
             </Segment>
           </Ottava>
         <Chord>

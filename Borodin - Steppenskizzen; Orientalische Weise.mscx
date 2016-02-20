@@ -10,6 +10,8 @@
     <Division>480</Division>
     <Style>
       <minSystemDistance>9.2</minSystemDistance>
+      <concertPitch>1</concertPitch>
+      <hideInstrumentNameIfOneInstrument>0</hideInstrumentNameIfOneInstrument>
       <TextStyle>
         <halign>center</halign>
         <valign>baseline</valign>
@@ -73,11 +75,48 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName> </trackName>
+      <trackName>English Horn</trackName>
       <Instrument>
-        <trackName> </trackName>
+        <longName>Corno inglese</longName>
+        <shortName>Cor. ingl.</shortName>
+        <trackName>English Horn</trackName>
+        <minPitchP>52</minPitchP>
+        <maxPitchP>83</maxPitchP>
+        <minPitchA>52</minPitchA>
+        <maxPitchA>81</maxPitchA>
+        <transposeDiatonic>-4</transposeDiatonic>
+        <transposeChromatic>-7</transposeChromatic>
+        <instrumentId>wind.reed.english-horn</instrumentId>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
-          <controller ctrl="10" value="63"/>
+          <program value="69"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -99,10 +138,6 @@
           <yoffset>-1.7</yoffset>
           <text><font size="13.6417"></font><font face="Times New Roman"></font><i>cantabile ed espressivo</i></text>
           </StaffText>
-        <StaffText>
-          <pos x="-8.29028" y="-7.35139"/>
-          <text><font size="13.6417"></font><font face="Times New Roman"></font>Corno inglese</text>
-          </StaffText>
         <Slur id="2">
           <track>0</track>
           </Slur>
@@ -123,6 +158,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -135,6 +171,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -148,6 +185,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -167,6 +205,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -177,6 +216,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <endSpanner id="3"/>
@@ -189,6 +229,7 @@
               </Tie>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -205,6 +246,7 @@
             <endSpanner id="5"/>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <HairPin id="6">
@@ -217,6 +259,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <endSpanner id="6"/>
@@ -247,6 +290,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -255,6 +299,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -269,6 +314,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -282,6 +328,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -296,6 +343,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -315,6 +363,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -324,6 +373,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -335,6 +385,7 @@
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -354,6 +405,7 @@
             <endSpanner id="10"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -363,6 +415,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <endSpanner id="11"/>
@@ -374,6 +427,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -395,6 +449,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -407,6 +462,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -420,6 +476,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <BarLine>
