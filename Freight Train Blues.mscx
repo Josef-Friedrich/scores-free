@@ -125,12 +125,11 @@ Klaviersatz: Josef Friedrich</metaTag>
         <height>6.6</height>
         <Text>
           <style>Composer</style>
-          <text><font size="9.4341"/><font face="Arial"/>aus Nordarmerika
-Klaviersatz: Josef Friedrich</text>
+          <text><font size="9.4341"/><font face="Arial"/>aus Nordarmerika</text>
           </Text>
         <Text>
           <style>Title</style>
-          <text><font size="18.8681"/><font face="Arial"/>Freight Train Blues</text>
+          <text><font size="18.8681"></font><font face="Arial"></font>Freight Train Blues</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -185,7 +184,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>C</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -295,7 +294,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>C</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -417,7 +416,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>C</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -435,7 +434,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>C</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -474,7 +473,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>F7</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>F7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -584,7 +583,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>F7</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>F7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -706,7 +705,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>C</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -724,7 +723,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>C</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -786,7 +785,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>G7</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>G7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -946,7 +945,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>F7</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>F7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1059,7 +1058,7 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>C</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1077,12 +1076,12 @@ Klaviersatz: Josef Friedrich</text>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>C</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
           </StaffText>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"/><font face="Opus Chords Std"/>C</text>
+          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
