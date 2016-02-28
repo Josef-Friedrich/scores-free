@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.0.2</programVersion>
-  <programRevision>f51dc11</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -9,7 +9,48 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <minSystemDistance>9.2</minSystemDistance>
+      <maxSystemDistance>10</maxSystemDistance>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <family>Alegreya</family>
+        <size>10</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <offsetType>absolute</offsetType>
+        <name>Title</name>
+        <family>Alegreya Sans</family>
+        <size>24</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>10</yoffset>
+        <offsetType>absolute</offsetType>
+        <name>Subtitle</name>
+        <family>Alegreya Sans</family>
+        <size>14</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>bottom</valign>
+        <offsetType>absolute</offsetType>
+        <name>Composer</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>bottom</valign>
+        <offsetType>absolute</offsetType>
+        <name>Lyricist</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        </TextStyle>
       <TextStyle>
         <halign>center</halign>
         <valign>baseline</valign>
@@ -17,8 +58,8 @@
         <yoffset>6</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
-        <family>Arial</family>
-        <size>9.8327</size>
+        <family>Alegreya</family>
+        <size>11</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
@@ -28,21 +69,358 @@
         <yoffset>6</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Even Lines</name>
-        <family>Arial</family>
-        <size>9.8327</size>
+        <family>Alegreya</family>
+        <size>11</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Fingering</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <xoffset>-0.5</xoffset>
+        <yoffset>0</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>LH Guitar Fingering</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>RH Guitar Fingering</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>String Number</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <frameWidthS>0.1</frameWidthS>
+        <paddingWidthS>0.2</paddingWidthS>
+        <frameRound>0</frameRound>
+        <frameColor r="0" g="0" b="0" a="255"/>
+        <circle>1</circle>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Long)</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Short)</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Part)</name>
+        <family>Alegreya</family>
+        <size>18</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>8</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Dynamics</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Technique</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Tempo</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Metronome</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <bold>1</bold>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Measure Number</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Translator</name>
+        <family>Alegreya</family>
+        <size>11</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Tuplet</name>
+        <family>Alegreya</family>
+        <size>10</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>System</name>
+        <family>Alegreya</family>
+        <size>10</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Staff</name>
+        <family>Alegreya</family>
+        <size>10</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <name>Chord Symbol</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-3</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Rehearsal Mark</name>
+        <family>Alegreya</family>
+        <size>14</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <frameWidthS>0.2</frameWidthS>
+        <paddingWidthS>0.5</paddingWidthS>
+        <frameRound>20</frameRound>
+        <frameColor r="0" g="0" b="0" a="255"/>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text Left</name>
+        <family>Alegreya</family>
+        <size>20</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text Right</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0.5</xoffset>
+        <yoffset>1.9</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Volta</name>
+        <family>Alegreya</family>
+        <size>11</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Frame</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Text Line</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <name>Glissando</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Ottava</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>0.15</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Pedal</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <offsetType>spatium</offsetType>
+        <name>Bend</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Header</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>5</yoffset>
+        <offsetType>absolute</offsetType>
+        <name>Footer</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-3</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Instrument Change</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <page-layout>
-        <page-height>1683.78</page-height>
-        <page-width>1190.55</page-width>
-        <page-margins type="both">
-          <left-margin>85.0394</left-margin>
-          <right-margin>85.0394</right-margin>
-          <top-margin>85.0394</top-margin>
-          <bottom-margin>85.0394</bottom-margin>
+        <page-height>1683.36</page-height>
+        <page-width>1190.88</page-width>
+        <page-margins type="even">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        <page-margins type="odd">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.5</Spatium>
+      <Spatium>1.76389</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -97,11 +475,11 @@ Klaviersatz: Josef Friedrich</metaTag>
         <height>6.6</height>
         <Text>
           <style>Composer</style>
-          <text><font size="9.4341"/><font face="Arial"/>aus Nordarmerika</text>
+          <text>aus Nordarmerika</text>
           </Text>
         <Text>
           <style>Title</style>
-          <text><font size="18.8681"></font><font face="Arial"></font>Freight Train Blues</text>
+          <text>Freight Train Blues</text>
           </Text>
         </VBox>
       <Measure number="1" len="1/4">
@@ -122,10 +500,12 @@ Klaviersatz: Josef Friedrich</metaTag>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>1. I</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text>2. I</text>
             </Lyrics>
@@ -154,9 +534,7 @@ Klaviersatz: Josef Friedrich</metaTag>
         </Measure>
       <Measure number="2">
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
+          <text>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -230,17 +608,20 @@ Klaviersatz: Josef Friedrich</metaTag>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>that</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text>man</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
+            <ticks>1</ticks>
             <text>man,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -264,9 +645,7 @@ Klaviersatz: Josef Friedrich</metaTag>
         </Measure>
       <Measure number="3">
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
+          <text>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -297,6 +676,7 @@ Klaviersatz: Josef Friedrich</metaTag>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>train</text>
             </Lyrics>
           <Lyrics>
@@ -306,6 +686,7 @@ Klaviersatz: Josef Friedrich</metaTag>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>240</ticks>
             <text>old</text>
             </Lyrics>
           <Slur type="start" id="4"/>
@@ -381,16 +762,19 @@ Klaviersatz: Josef Friedrich</metaTag>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
+            <ticks>2160</ticks>
             <text>whoo!</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>2160</ticks>
             <style>Lyrics Even Lines</style>
             <text>blind,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
+            <ticks>2160</ticks>
             <text>neer,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -404,9 +788,7 @@ Klaviersatz: Josef Friedrich</metaTag>
         </Measure>
       <Measure number="4">
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
+          <text>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -422,9 +804,7 @@ Klaviersatz: Josef Friedrich</metaTag>
         </Measure>
       <Measure number="5">
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
+          <text>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -439,20 +819,37 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>I</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>Yes,_I</text>
+            <text>Yes,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>That's_a</text>
+            <text>That's</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>I</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>a</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -461,9 +858,7 @@ Klaviersatz: Josef Friedrich</metaTag>
         </Measure>
       <Measure number="6">
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>F7</text>
+          <text>F7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -537,17 +932,20 @@ Klaviersatz: Josef Friedrich</metaTag>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>that</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text>man</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <text>man,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -571,9 +969,7 @@ Klaviersatz: Josef Friedrich</metaTag>
         </Measure>
       <Measure number="7">
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>F7</text>
+          <text>F7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -604,6 +1000,7 @@ Klaviersatz: Josef Friedrich</metaTag>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>240</ticks>
             <text>train</text>
             </Lyrics>
           <Lyrics>
@@ -613,6 +1010,7 @@ Klaviersatz: Josef Friedrich</metaTag>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>240</ticks>
             <text>old</text>
             </Lyrics>
           <Slur type="start" id="8"/>
@@ -688,21 +1086,29 @@ Klaviersatz: Josef Friedrich</metaTag>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
+            <ticks>2160</ticks>
             <text>whoo!</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>2160</ticks>
             <style>Lyrics Even Lines</style>
             <text>blind,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
+            <ticks>2160</ticks>
             <text>neer,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <Tie id="9">
+              <SlurSegment no="0">
+                <o2 x="-0.0636146" y="-0.445302"/>
+                <o3 x="-0.0636146" y="-0.445302"/>
+                </SlurSegment>
+              <up>2</up>
               </Tie>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -711,9 +1117,7 @@ Klaviersatz: Josef Friedrich</metaTag>
         </Measure>
       <Measure number="8">
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
+          <text>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -728,10 +1132,9 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="9">
+        <stretch>0.9</stretch>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
+          <text>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -790,10 +1193,9 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="10">
+        <stretch>0.9</stretch>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>G7</text>
+          <text>G7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -805,7 +1207,7 @@ Klaviersatz: Josef Friedrich</metaTag>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>&quot;Lit</text>
+            <text>“Lit</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -908,6 +1310,10 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Slur id="11">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -922,8 +1328,10 @@ Klaviersatz: Josef Friedrich</metaTag>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>480</ticks>
             <text>my</text>
             </Lyrics>
+          <Slur type="start" id="11"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -941,6 +1349,7 @@ Klaviersatz: Josef Friedrich</metaTag>
             <style>Lyrics Even Lines</style>
             <text>this</text>
             </Lyrics>
+          <Slur type="stop" id="11"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
@@ -949,11 +1358,14 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="11">
+        <stretch>0.9</stretch>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>F7</text>
+          <text>F7</text>
           </StaffText>
+        <Slur id="12">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -962,6 +1374,7 @@ Klaviersatz: Josef Friedrich</metaTag>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>480</ticks>
             <style>Lyrics Even Lines</style>
             <text>train</text>
             </Lyrics>
@@ -969,6 +1382,7 @@ Klaviersatz: Josef Friedrich</metaTag>
             <no>2</no>
             <text>man</text>
             </Lyrics>
+          <Slur type="start" id="12"/>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>72</pitch>
@@ -982,18 +1396,18 @@ Klaviersatz: Josef Friedrich</metaTag>
             <text>like</text>
             </Lyrics>
           <Lyrics>
-            <no>1</no>
+            <no>2</no>
             <syllabic>begin</syllabic>
-            <style>Lyrics Even Lines</style>
             <text>a</text>
             </Lyrics>
+          <Slur type="stop" id="12"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Slur id="11">
+        <Slur id="13">
           <track>0</track>
           <lineType>1</lineType>
           </Slur>
@@ -1006,6 +1420,7 @@ Klaviersatz: Josef Friedrich</metaTag>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text>ain't</text>
             </Lyrics>
@@ -1014,7 +1429,7 @@ Klaviersatz: Josef Friedrich</metaTag>
             <syllabic>end</syllabic>
             <text>way</text>
             </Lyrics>
-          <Slur type="start" id="11"/>
+          <Slur type="start" id="13"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>65</pitch>
@@ -1029,11 +1444,10 @@ Klaviersatz: Josef Friedrich</metaTag>
             <text>din'</text>
             </Lyrics>
           <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
+            <no>2</no>
             <text>from</text>
             </Lyrics>
-          <Slur type="stop" id="11"/>
+          <Slur type="stop" id="13"/>
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
@@ -1047,20 +1461,23 @@ Klaviersatz: Josef Friedrich</metaTag>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <ticks>2160</ticks>
             <text>too.</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>2160</ticks>
             <style>Lyrics Even Lines</style>
-            <text>mine.&quot;</text>
+            <text>mine.”</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>2160</ticks>
             <text>here.</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="12">
+            <Tie id="14">
               </Tie>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -1068,40 +1485,36 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="12">
+        <stretch>0.9</stretch>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
+          <text>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <Tie id="13">
+            <Tie id="15">
               </Tie>
-            <endSpanner id="12"/>
+            <endSpanner id="14"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="13">
+        <stretch>0.9</stretch>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
+          <text>C</text>
           </StaffText>
         <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="9.4341"></font><font face="Opus Chords Std"></font>C</text>
+          <text>C</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <endSpanner id="13"/>
+            <endSpanner id="15"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
