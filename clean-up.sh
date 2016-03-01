@@ -2,4 +2,6 @@
 
 FILE="$1"
 
-./clean-up.sed "$FILE" > "$FILE.bak"
+cp "$FILE" "$FILE.bak"
+./clean-up.sed "$FILE" > "$FILE.new"
+mv "$FILE.new" "$FILE"

@@ -194,6 +194,7 @@
       <name>Title</name>
       <family>Alegreya Sans</family>
       <size>24</size>
+      <bold>1</bold>
       </TextStyle>
     <TextStyle>
       <halign>center</halign>

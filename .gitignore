@@ -1,5 +1,5 @@
+*.mscx,
 *.mscz
 *.mscz,
-*.mscx,
-*.pdf
 *.DS_Store
+*.mscx.bak

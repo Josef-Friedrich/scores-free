@@ -9,7 +9,7 @@ s,<font.*/>,,g
 # Fonts
 
 s/Arial CE/Alegreya/g
-s/Arial/Alegreya/g/Alegreya/g
+s/Arial/Alegreya/g
 s/Calibri/Alegreya/g
 s/DejaVu Serif/Alegreya/g
 s/FreeSerif/Alegreya/g
