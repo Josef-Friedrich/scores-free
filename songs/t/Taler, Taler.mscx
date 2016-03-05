@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="2.06">
+  <programVersion>2.0.2</programVersion>
+  <programRevision>f51dc11</programRevision>
+  <Score>
+    <LayerTag id="0" tag="default"></LayerTag>
+    <currentLayer>0</currentLayer>
+    <Synthesizer>
+      </Synthesizer>
+    <Division>480</Division>
+    <Style>
+      <minSystemDistance>11.8</minSystemDistance>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <offsetType>absolute</offsetType>
+        <name>Title</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>10</yoffset>
+        <offsetType>absolute</offsetType>
+        <name>Subtitle</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>bottom</valign>
+        <offsetType>absolute</offsetType>
+        <name>Composer</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>bottom</valign>
+        <offsetType>absolute</offsetType>
+        <name>Lyricist</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Lyrics Odd Lines</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Lyrics Even Lines</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Fingering</name>
+        <family>Times New Roman</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <xoffset>-0.5</xoffset>
+        <yoffset>0</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>LH Guitar Fingering</name>
+        <family>Times New Roman</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>RH Guitar Fingering</name>
+        <family>Times New Roman</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>String Number</name>
+        <family>Times New Roman</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <frameWidthS>0.1</frameWidthS>
+        <paddingWidthS>0.2</paddingWidthS>
+        <frameRound>0</frameRound>
+        <frameColor r="0" g="0" b="0" a="255"/>
+        <circle>1</circle>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Long)</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Short)</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Part)</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>8</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Dynamics</name>
+        <family>Times New Roman</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Technique</name>
+        <family>Times New Roman</family>
+        <size>12</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Tempo</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Metronome</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <bold>1</bold>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Measure Number</name>
+        <family>Times New Roman</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Translator</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Tuplet</name>
+        <family>Times New Roman</family>
+        <size>10</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>System</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Staff</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <name>Chord Symbol</name>
+        <family>Times New Roman</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-3</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Rehearsal Mark</name>
+        <family>Times New Roman</family>
+        <size>14</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <frameWidthS>0.2</frameWidthS>
+        <paddingWidthS>0.5</paddingWidthS>
+        <frameRound>20</frameRound>
+        <frameColor r="0" g="0" b="0" a="255"/>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text Left</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text Right</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text</name>
+        <family>Times New Roman</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0.5</xoffset>
+        <yoffset>1.9</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Volta</name>
+        <family>Times New Roman</family>
+        <size>11</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Frame</name>
+        <family>Times New Roman</family>
+        <size>12</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Text Line</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <name>Glissando</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Ottava</name>
+        <family>Times New Roman</family>
+        <size>12</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>0.15</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Pedal</name>
+        <family>Times New Roman</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <offsetType>spatium</offsetType>
+        <name>Bend</name>
+        <family>Times New Roman</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Header</name>
+        <family>Times New Roman</family>
+        <size>8</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>5</yoffset>
+        <offsetType>absolute</offsetType>
+        <name>Footer</name>
+        <family>Times New Roman</family>
+        <size>8</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-3</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Instrument Change</name>
+        <family>Times New Roman</family>
+        <size>12.3</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Figured Bass</name>
+        <family>Times New Roman</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <page-layout>
+        <page-height>287.819</page-height>
+        <page-width>1189.41</page-width>
+        <page-margins type="both">
+          <left-margin>0</left-margin>
+          <right-margin>0</right-margin>
+          <top-margin>0</top-margin>
+          <bottom-margin>0</bottom-margin>
+          </page-margins>
+        </page-layout>
+      <Spatium>2.16958</Spatium>
+      </Style>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer"></metaTag>
+    <metaTag name="copyright"></metaTag>
+    <metaTag name="creationDate">2016-03-05</metaTag>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle">Taler Taler</metaTag>
+    <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="platform">Microsoft Windows</metaTag>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source"></metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle"></metaTag>
+    <PageList>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      </PageList>
+    <Part>
+      <Staff id="1">
+        <StaffType group="pitched">
+          </StaffType>
+        </Staff>
+      <trackName>Sopran</trackName>
+      <Instrument>
+        <trackName>Choir Aahs</trackName>
+        <Channel>
+          <program value="52"/>
+          <controller ctrl="7" value="101"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>Taler Taler</text>
+          </Text>
+        </VBox>
+      <Measure number="1">
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        <KeySig>
+          <accidental>1</accidental>
+          <mode>major</mode>
+          </KeySig>
+        <TimeSig>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>Ta</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>ler,</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>Ta</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>ler,</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>du</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>musst</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>wan</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>dern,</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>von</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>dem</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>ei</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>nen</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>Ort</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>zum</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>an</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>dern,</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="5">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>ei,</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>wie</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>schön,</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>ei,</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>wie</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>schön,</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>lässt</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>sich</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>die</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>ser</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>Ta</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>ler</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font size="15.4"/><font face="Humanst521 BT"/>dreh´n.</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      </Staff>
+    </Score>
+  </museScore>
