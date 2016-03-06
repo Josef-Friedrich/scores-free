@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.0.2</programVersion>
-  <programRevision>f51dc11</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -9,7 +9,49 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <minSystemDistance>9.2</minSystemDistance>
+      <concertPitch>1</concertPitch>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <family>Alegreya</family>
+        <size>10</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <offsetType>absolute</offsetType>
+        <name>Title</name>
+        <family>Alegreya Sans</family>
+        <size>24</size>
+        <bold>1</bold>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>10</yoffset>
+        <offsetType>absolute</offsetType>
+        <name>Subtitle</name>
+        <family>Alegreya Sans</family>
+        <size>14</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>bottom</valign>
+        <offsetType>absolute</offsetType>
+        <name>Composer</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>bottom</valign>
+        <offsetType>absolute</offsetType>
+        <name>Lyricist</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        </TextStyle>
       <TextStyle>
         <halign>center</halign>
         <valign>baseline</valign>
@@ -17,8 +59,8 @@
         <yoffset>6</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
-        <family>Arial</family>
-        <size>10.5413</size>
+        <family>Alegreya</family>
+        <size>11</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <TextStyle>
@@ -28,21 +70,358 @@
         <yoffset>6</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Even Lines</name>
-        <family>Arial</family>
-        <size>10.5413</size>
+        <family>Alegreya</family>
+        <size>11</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Fingering</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <xoffset>-0.5</xoffset>
+        <yoffset>0</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>LH Guitar Fingering</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>RH Guitar Fingering</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>String Number</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <frameWidthS>0.1</frameWidthS>
+        <paddingWidthS>0.2</paddingWidthS>
+        <frameRound>0</frameRound>
+        <frameColor r="0" g="0" b="0" a="255"/>
+        <circle>1</circle>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Long)</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Short)</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Part)</name>
+        <family>Alegreya</family>
+        <size>18</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>8</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Dynamics</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Technique</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Tempo</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Metronome</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <bold>1</bold>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Measure Number</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Translator</name>
+        <family>Alegreya</family>
+        <size>11</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Tuplet</name>
+        <family>Alegreya</family>
+        <size>10</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>System</name>
+        <family>Alegreya</family>
+        <size>10</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Staff</name>
+        <family>Alegreya</family>
+        <size>10</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <name>Chord Symbol</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-3</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Rehearsal Mark</name>
+        <family>Alegreya</family>
+        <size>14</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <frameWidthS>0.2</frameWidthS>
+        <paddingWidthS>0.5</paddingWidthS>
+        <frameRound>20</frameRound>
+        <frameColor r="0" g="0" b="0" a="255"/>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text Left</name>
+        <family>Alegreya</family>
+        <size>20</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text Right</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0.5</xoffset>
+        <yoffset>1.9</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Volta</name>
+        <family>Alegreya</family>
+        <size>11</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Frame</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Text Line</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <name>Glissando</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Ottava</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>0.15</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Pedal</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <offsetType>spatium</offsetType>
+        <name>Bend</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Header</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>5</yoffset>
+        <offsetType>absolute</offsetType>
+        <name>Footer</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-3</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Instrument Change</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <page-layout>
-        <page-height>1684.57</page-height>
-        <page-width>1530.71</page-width>
-        <page-margins type="both">
-          <left-margin>84.3776</left-margin>
-          <right-margin>84.3776</right-margin>
-          <top-margin>84.3776</top-margin>
-          <bottom-margin>84.3776</bottom-margin>
+        <page-height>1190.89</page-height>
+        <page-width>1683.38</page-width>
+        <page-margins type="even">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        <page-margins type="odd">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.75097</Spatium>
+      <Spatium>1.564</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -64,8 +443,6 @@
     <metaTag name="workTitle">Dippermouth Blues</metaTag>
     <PageList>
       <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -140,7 +517,7 @@
         </Staff>
       <trackName>Trombone</trackName>
       <Instrument>
-        <longName>Trombone</longName>
+        <longName>Posaune</longName>
         <shortName>Tb.</shortName>
         <trackName>Tenor Trombone</trackName>
         <Channel>
@@ -151,25 +528,22 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>3.7</height>
+        <height>7.71142</height>
         <Text>
           <style>Composer</style>
-          <text><font size="11.0064"/><font face="Arial"/>Joe Oliver, Louis Armstrong</text>
+          <text>Joe Oliver, Louis Armstrong</text>
           </Text>
         <Text>
           <style>Title</style>
-          <text><font size="22.0128"/><font face="Arial"/>Dippermouth Blues</text>
+          <text>Dippermouth Blues</text>
           </Text>
         </VBox>
       <Measure number="1">
+        <stretch>0.9</stretch>
         <Clef>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
-        <KeySig>
-          <accidental>2</accidental>
-          <mode>major</mode>
-          </KeySig>
         <TimeSig>
           <sigN>4</sigN>
           <sigD>4</sigD>
@@ -193,12 +567,14 @@
           </Rest>
         </Measure>
       <Measure number="2">
+        <stretch>0.9</stretch>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
         </Measure>
       <Measure number="3">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -227,6 +603,7 @@
           </Rest>
         </Measure>
       <Measure number="4">
+        <stretch>0.9</stretch>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -249,11 +626,11 @@
           </BarLine>
         </Measure>
       <Measure number="5">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>D</text>
-          </StaffText>
+        <stretch>0.9</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Beam id="1">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -348,11 +725,12 @@
           </Chord>
         </Measure>
       <Measure number="6">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>D6</text>
-          </StaffText>
+        <stretch>0.9</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          <name>6</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -441,11 +819,11 @@
           </Chord>
         </Measure>
       <Measure number="7">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>D</text>
-          </StaffText>
+        <stretch>0.9</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -510,11 +888,11 @@
           </Chord>
         </Measure>
       <Measure number="8">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>D</text>
-          </StaffText>
+        <stretch>0.9</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Beam id="10">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -609,11 +987,12 @@
           </Chord>
         </Measure>
       <Measure number="9">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>G7</text>
-          </StaffText>
+        <stretch>0.9</stretch>
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -688,11 +1067,12 @@
           </Chord>
         </Measure>
       <Measure number="10">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-4.6</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>G7</text>
-          </StaffText>
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          <pos x="-1.30445" y="-3.47834"/>
+          </Harmony>
         <Beam id="16">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -712,7 +1092,7 @@
           <Beam>16</Beam>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>87</pitch>
             <tpc>11</tpc>
@@ -800,7 +1180,7 @@
           <Beam>19</Beam>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -819,11 +1199,10 @@
           </Chord>
         </Measure>
       <Measure number="11">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>D</text>
-          </StaffText>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -831,7 +1210,7 @@
           <Note>
             <Accidental>
               <role>1</role>
-              <subtype>sharp</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -892,11 +1271,10 @@
           </Chord>
         </Measure>
       <Measure number="12">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>D</text>
-          </StaffText>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Beam id="22">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -991,7 +1369,7 @@
           <Beam>25</Beam>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -1000,11 +1378,11 @@
           </Chord>
         </Measure>
       <Measure number="13">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>A7</text>
-          </StaffText>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1069,11 +1447,11 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>A7</text>
-          </StaffText>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1138,11 +1516,10 @@
           </Chord>
         </Measure>
       <Measure number="15">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>D</text>
-          </StaffText>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Beam id="30">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -1237,11 +1614,10 @@
           </Chord>
         </Measure>
       <Measure number="16">
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-2.5</yoffset>
-          <text><font size="15.967"/><font face="Opus Chords Std"/>D</text>
-          </StaffText>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1270,10 +1646,6 @@
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
-        <KeySig>
-          <accidental>2</accidental>
-          <mode>major</mode>
-          </KeySig>
         <TimeSig>
           <sigN>4</sigN>
           <sigD>4</sigD>
@@ -1285,7 +1657,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <Tie id="2">
               </Tie>
@@ -1391,7 +1763,7 @@
           <Beam>37</Beam>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
@@ -1566,7 +1938,7 @@
           <Beam>41</Beam>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -1666,7 +2038,7 @@
           <Beam>44</Beam>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
@@ -1682,7 +2054,7 @@
           <Beam>45</Beam>
           <Note>
             <Accidental>
-              <subtype>sharp</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -1758,7 +2130,7 @@
           <Beam>47</Beam>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -1822,7 +2194,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -2176,10 +2548,6 @@
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
-        <KeySig>
-          <accidental>2</accidental>
-          <mode>major</mode>
-          </KeySig>
         <TimeSig>
           <sigN>4</sigN>
           <sigD>4</sigD>
@@ -2243,7 +2611,7 @@
           <Beam>58</Beam>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
@@ -2287,7 +2655,7 @@
           <Beam>60</Beam>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
