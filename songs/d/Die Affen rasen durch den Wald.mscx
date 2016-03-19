@@ -25,7 +25,7 @@
           <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.76389</Spatium>
+      <Spatium>2.164</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -47,6 +47,8 @@
     <metaTag name="workTitle"></metaTag>
     <PageList>
       <Page>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -109,10 +111,15 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>Die Affen rasen durch den Wald</text>
+          </Text>
+        </VBox>
       <Measure number="1" len="1/4">
-        <KeySig>
-          <accidental>0</accidental>
-          </KeySig>
+        <stretch>0.9</stretch>
         <TimeSig>
           <sigN>4</sigN>
           <sigD>4</sigD>
@@ -121,7 +128,39 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>Die</text>
+            <text>1. Die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>2. Die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>3. Der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>4. Die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>5. Der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <style>Lyrics Even Lines</style>
+            <text>6. Das</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <text>7. Die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <style>Lyrics Even Lines</style>
+            <text>8. Und</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -130,11 +169,54 @@
           </Chord>
         </Measure>
       <Measure number="2">
+        <stretch>0.9</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>Af</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Af</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Af</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Af</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>begin</syllabic>
+            <text>Af</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Af</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>begin</syllabic>
+            <text>Af</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -149,6 +231,45 @@
             <syllabic>end</syllabic>
             <text>fen</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>fen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>fen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>fen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>middle</syllabic>
+            <text>fen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>fen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>middle</syllabic>
+            <text>fen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Mo</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -156,12 +277,55 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>ra</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ma</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>on</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>tan</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>middle</syllabic>
+            <text>milch</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ba</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>middle</syllabic>
+            <text>om</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ral</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -176,6 +340,44 @@
             <syllabic>end</syllabic>
             <text>sen</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ma</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>kel,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>te</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>end</syllabic>
+            <text>mann,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>by</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>end</syllabic>
+            <text>a</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <style>Lyrics Even Lines</style>
+            <text>von</text>
+            </Lyrics>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -185,10 +387,48 @@
           </Chord>
         </Measure>
       <Measure number="3">
+        <stretch>0.9</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <text>durch</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>sitzt</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>welch</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>kommt</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>begin</syllabic>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <style>Lyrics Even Lines</style>
+            <text>voll</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <text>schreit:</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <style>Lyrics Even Lines</style>
+            <text>der</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -202,6 +442,42 @@
           <Lyrics>
             <text>den</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>am</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>ein</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>von</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>end</syllabic>
+            <text>ser</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Ge</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>begin</syllabic>
+            <text>„Hur</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Ge</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -209,11 +485,50 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
             <text>Wald,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Fluss</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>Graus,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>fern,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>Knilch,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>nuss</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>end</syllabic>
+            <text>ra!</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>schicht:</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -227,6 +542,38 @@
           <Lyrics>
             <text>der</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>und</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>reißt</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>sie</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <style>Lyrics Even Lines</style>
+            <text>hält</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <text>Die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <style>Lyrics Even Lines</style>
+            <text>Klaut</text>
+            </Lyrics>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -236,11 +583,53 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <stretch>0.9</stretch>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>ei</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>an</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>al</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>isst</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>begin</syllabic>
+            <text>war</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <style>Lyrics Even Lines</style>
+            <text>in</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>begin</syllabic>
+            <text>Ko</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>kei</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -255,6 +644,43 @@
             <syllabic>end</syllabic>
             <text>ne</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>gelt</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>le</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>end</syllabic>
+            <text>tet</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <style>Lyrics Even Lines</style>
+            <text>der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>middle</syllabic>
+            <text>kos</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ne</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -262,11 +688,51 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
             <text>macht</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>nach</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Ur</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Ko</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>auf</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <style>Lyrics Even Lines</style>
+            <text>Hand</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>end</syllabic>
+            <text>nuss</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Ko</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -280,6 +746,41 @@
           <Lyrics>
             <text>den</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>wald</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>kos</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <text>ist</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>kos</text>
+            </Lyrics>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -289,24 +790,55 @@
           </Chord>
         </Measure>
       <Measure number="5">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>an</text>
             </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
           <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Ko</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>bäu</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
             <syllabic>end</syllabic>
-            <text>dern</text>
+            <style>Lyrics Even Lines</style>
+            <text>nuss</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>begin</syllabic>
+            <text>Ko</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Ko</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>begin</syllabic>
+            <text>wie</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>nüs</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -316,10 +848,102 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>dern</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>kos</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>me</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>so</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>middle</syllabic>
+            <text>kos</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>kos</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <syllabic>end</syllabic>
+            <text>der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>se</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>100</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
+        <Chord>
+          <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>kalt.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>nuss.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>aus.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>gern.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>end</syllabic>
+            <text>milch</text>
+            </Lyrics>
+          <Lyrics>
+            <no>5</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>nuss.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>6</no>
+            <text>da!“</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <style>Lyrics Even Lines</style>
+            <text>nicht,</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -329,9 +953,15 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
             <text>Die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <style>Lyrics Even Lines</style>
+            <text>weil</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -341,10 +971,16 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>gan</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <style>Lyrics Even Lines</style>
+            <text>sonst</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -354,10 +990,16 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>ze</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>
@@ -368,11 +1010,22 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>Af</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>gan</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -387,6 +1040,12 @@
             <syllabic>middle</syllabic>
             <text>fen</text>
             </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ze</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -399,6 +1058,12 @@
           <Lyrics>
             <syllabic>middle</syllabic>
             <text>ban</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Ban</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -413,6 +1078,12 @@
             <syllabic>end</syllabic>
             <text>de</text>
             </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>de</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -421,10 +1092,19 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="7">
+      <Measure number="7" len="2/4">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
+            <text>brüllt:</text>
+            </Lyrics>
+          <Lyrics>
+            <no>7</no>
+            <style>Lyrics Even Lines</style>
             <text>brüllt:</text>
             </Lyrics>
           <Note>
@@ -434,6 +1114,14 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="8" len="2/4">
+        <startRepeat/>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -441,6 +1129,7 @@
           <durationType>16th</durationType>
           </Rest>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
             <text>„Wo</text>
@@ -453,6 +1142,7 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>ist</text>
@@ -465,84 +1155,7 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>die</text>
-            </Lyrics>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="8">
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Ko</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>kos</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>nuss,</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Lyrics>
-            <text>wo</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>ist</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>die</text>
@@ -556,7 +1169,12 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
@@ -570,6 +1188,7 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
@@ -583,6 +1202,7 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -597,195 +1217,7 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>16th</durationType>
-          <Lyrics>
-            <text>wer</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>hat</text>
-            </Lyrics>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>die</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="10">
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Ko</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>kos</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>nuss</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ge</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="11">
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>klaut?</text>
-            </Lyrics>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <durationType>16th</durationType>
-          <Lyrics>
-            <text>„Wo</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>ist</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>die</text>
-            </Lyrics>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="12">
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Ko</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>kos</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>nuss,</text>
-            </Lyrics>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>100</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
             <text>wo</text>
@@ -798,6 +1230,7 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>ist</text>
@@ -810,6 +1243,7 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>die</text>
@@ -822,8 +1256,13 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="13">
+      <Measure number="10">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
@@ -837,6 +1276,7 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
@@ -850,6 +1290,7 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -864,6 +1305,7 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
           <Lyrics>
             <text>wer</text>
@@ -876,6 +1318,7 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>hat</text>
@@ -888,6 +1331,7 @@
             </Note>
           </Chord>
         <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>die</text>
@@ -900,7 +1344,12 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="14">
+      <Measure number="11">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -954,12 +1403,48 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
+      <Measure number="12" len="2/4">
+        <endRepeat>2</endRepeat>
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
+        <Volta id="2">
+          <endHook>1</endHook>
+          <beginText>
+            <text>1.</text>
+            </beginText>
+          <endings>1</endings>
+          </Volta>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
+            <syllabic>end</syllabic>
             <text>klaut?“</text>
             </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>100</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13" len="2/4">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
+        <endSpanner id="2"/>
+        <Volta id="3">
+          <endHook>1</endHook>
+          <beginText>
+            <text>2.</text>
+            </beginText>
+          <endings>2</endings>
+          </Volta>
+        <Chord>
+          <durationType>half</durationType>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -967,9 +1452,11 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        <endSpanner id="3"/>
         </Measure>
       </Staff>
     </Score>
