@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.0.2</programVersion>
-  <programRevision>3543170</programRevision>
+  <programRevision>f51dc11</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -11,6 +11,7 @@
     <Style>
       <maxSystemDistance>9</maxSystemDistance>
       <frameSystemDistance>3</frameSystemDistance>
+      <showFooter>0</showFooter>
       <TextStyle>
         <halign>left</halign>
         <valign>baseline</valign>
@@ -30,12 +31,12 @@
       <TextStyle>
         <halign>center</halign>
         <valign>top</valign>
-        <xoffset>0</xoffset>
-        <yoffset>10</yoffset>
-        <offsetType>absolute</offsetType>
+        <offsetType>spatium</offsetType>
         <name>Subtitle</name>
         <family>Alegreya Sans</family>
-        <size>14</size>
+        <size>18</size>
+        <bold>1</bold>
+        <italic>1</italic>
         </TextStyle>
       <TextStyle>
         <halign>right</halign>
@@ -484,28 +485,12 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
       <Page>
         <System>
           </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -524,6 +509,20 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
         </Page>
       <Page>
         <System>
@@ -534,8 +533,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         </Page>
@@ -595,6 +592,7 @@
       <VBox>
         <height>8.04046</height>
         <Text>
+          <pos x="0.40848" y="3.94864"/>
           <style>Subtitle</style>
           <text>Strophe 1</text>
           </Text>
@@ -1329,7 +1327,7 @@
           </BarLine>
         </Measure>
       <VBox>
-        <height>8.73101</height>
+        <height>5</height>
         <Text>
           <style>Subtitle</style>
           <text>Strophe 2</text>
@@ -1733,6 +1731,10 @@
         </Measure>
       <Measure number="8" len="2/4">
         <startRepeat/>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -2108,7 +2110,7 @@
           </BarLine>
         </Measure>
       <VBox>
-        <height>7.22721</height>
+        <height>5</height>
         <Text>
           <style>Subtitle</style>
           <text>Strophe 3</text>
@@ -2489,6 +2491,10 @@
         </Measure>
       <Measure number="8" len="2/4">
         <startRepeat/>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -2843,7 +2849,7 @@
           </BarLine>
         </Measure>
       <VBox>
-        <height>10</height>
+        <height>5</height>
         <Text>
           <style>Subtitle</style>
           <text>Strophe 4</text>
@@ -3245,6 +3251,10 @@
         </Measure>
       <Measure number="8" len="2/4">
         <startRepeat/>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -3620,7 +3630,7 @@
           </BarLine>
         </Measure>
       <VBox>
-        <height>10</height>
+        <height>5</height>
         <Text>
           <style>Subtitle</style>
           <text>Strophe 5</text>
@@ -4356,7 +4366,7 @@
           </BarLine>
         </Measure>
       <VBox>
-        <height>10</height>
+        <height>5</height>
         <Text>
           <style>Subtitle</style>
           <text>Strophe 6</text>
@@ -5139,7 +5149,7 @@
           </BarLine>
         </Measure>
       <VBox>
-        <height>10</height>
+        <height>5</height>
         <Text>
           <style>Subtitle</style>
           <text>Strophe 7</text>
@@ -5521,6 +5531,10 @@
         </Measure>
       <Measure number="8" len="2/4">
         <startRepeat/>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Harmony>
           <root>14</root>
           <rootCase>1</rootCase>
@@ -5875,7 +5889,7 @@
           </BarLine>
         </Measure>
       <VBox>
-        <height>10.1313</height>
+        <height>5</height>
         <Text>
           <style>Subtitle</style>
           <text>Strophe 8</text>
