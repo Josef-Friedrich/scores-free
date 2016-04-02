@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="2.06">
-  <programVersion>2.0.3</programVersion>
-  <programRevision>712898f</programRevision>
+<museScore version="2.07">
+  <programVersion>2.1.0</programVersion>
+  <programRevision>4412b19</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -9,10 +9,48 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <minSystemDistance>8.2</minSystemDistance>
-      <hideEmptyStaves>1</hideEmptyStaves>
-      <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
-      <evenFooterR>$M $m</evenFooterR>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <family>Alegreya</family>
+        <size>10</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <offsetType>absolute</offsetType>
+        <name>Title</name>
+        <family>Alegreya Sans</family>
+        <size>24</size>
+        <bold>1</bold>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>10</yoffset>
+        <offsetType>absolute</offsetType>
+        <name>Subtitle</name>
+        <family>Alegreya Sans</family>
+        <size>14</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>bottom</valign>
+        <offsetType>absolute</offsetType>
+        <name>Composer</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>bottom</valign>
+        <offsetType>absolute</offsetType>
+        <name>Lyricist</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        </TextStyle>
       <TextStyle>
         <halign>center</halign>
         <valign>baseline</valign>
@@ -20,7 +58,7 @@
         <yoffset>6</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
-        <family>FreeSerif</family>
+        <family>Alegreya</family>
         <size>11</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
@@ -31,21 +69,358 @@
         <yoffset>6</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Even Lines</name>
-        <family>FreeSerif</family>
+        <family>Alegreya</family>
         <size>11</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Fingering</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <xoffset>-0.5</xoffset>
+        <yoffset>0</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>LH Guitar Fingering</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>RH Guitar Fingering</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>String Number</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <frameWidthS>0.1</frameWidthS>
+        <paddingWidthS>0.2</paddingWidthS>
+        <frameRound>0</frameRound>
+        <frameColor r="0" g="0" b="0" a="255"/>
+        <circle>1</circle>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Long)</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Short)</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>absolute</offsetType>
+        <name>Instrument Name (Part)</name>
+        <family>Alegreya</family>
+        <size>18</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>8</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Dynamics</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Technique</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Tempo</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Metronome</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <bold>1</bold>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Measure Number</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>6</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Translator</name>
+        <family>Alegreya</family>
+        <size>11</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>absolute</offsetType>
+        <name>Tuplet</name>
+        <family>Alegreya</family>
+        <size>10</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>System</name>
+        <family>Alegreya</family>
+        <size>10</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Staff</name>
+        <family>Alegreya</family>
+        <size>10</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <name>Chord Symbol</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-3</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Rehearsal Mark</name>
+        <family>Alegreya</family>
+        <size>14</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <frameWidthS>0.2</frameWidthS>
+        <paddingWidthS>0.5</paddingWidthS>
+        <frameRound>20</frameRound>
+        <frameColor r="0" g="0" b="0" a="255"/>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text Left</name>
+        <family>Alegreya</family>
+        <size>20</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text Right</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>right</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Repeat Text</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0.5</xoffset>
+        <yoffset>1.9</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Volta</name>
+        <family>Alegreya</family>
+        <size>11</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Frame</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Text Line</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <offsetType>spatium</offsetType>
+        <name>Glissando</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Ottava</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>0.15</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Pedal</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <offsetType>spatium</offsetType>
+        <name>Bend</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <offsetType>spatium</offsetType>
+        <name>Header</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>5</yoffset>
+        <offsetType>absolute</offsetType>
+        <name>Footer</name>
+        <family>Alegreya</family>
+        <size>8</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>bottom</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-3</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Instrument Change</name>
+        <family>Alegreya</family>
+        <size>12</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
       <page-layout>
-        <page-height>1683.67</page-height>
-        <page-width>1190.55</page-width>
-        <page-margins type="both">
-          <left-margin>73.7008</left-margin>
-          <right-margin>73.7008</right-margin>
+        <page-height>1683.36</page-height>
+        <page-width>1190.88</page-width>
+        <page-margins type="even">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
           <top-margin>56.6929</top-margin>
-          <bottom-margin>56.6929</bottom-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        <page-margins type="odd">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.75</Spatium>
+      <Spatium>1.76389</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -77,8 +452,6 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
         <System>
@@ -87,6 +460,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -232,7 +609,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <followText>1</followText>
           <xoffset>0</xoffset>
           <yoffset>-3</yoffset>
-          <text><sym>unicodeNoteQuarterUp</sym> = 100</text>
+          <text><sym>metNoteQuarterUp</sym> = 100</text>
           </Tempo>
         <Rest>
           <durationType>measure</durationType>
@@ -286,6 +663,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </BarLine>
         </Measure>
       <Measure number="9">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
@@ -342,6 +723,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="10">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -385,6 +771,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="11">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
@@ -448,6 +839,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="12">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -491,6 +886,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="13">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
@@ -554,6 +953,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="14">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -609,6 +1013,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="15">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
@@ -696,6 +1105,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="16">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -719,6 +1132,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </BarLine>
         </Measure>
       <Measure number="17">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
@@ -772,6 +1189,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="18">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
@@ -830,6 +1252,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="19">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
@@ -847,7 +1274,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <syllabic>begin</syllabic>
             <text>Le</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -873,7 +1300,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <syllabic>begin</syllabic>
             <text>Le</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -894,6 +1321,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="20">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
@@ -901,7 +1332,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <syllabic>begin</syllabic>
             <text>Le</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -947,6 +1378,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="21">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
@@ -1000,6 +1435,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="22">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
@@ -1058,6 +1498,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="23">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>16th</durationType>
@@ -1075,7 +1520,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <syllabic>begin</syllabic>
             <text>Le</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -1101,7 +1546,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <syllabic>begin</syllabic>
             <text>Le</text>
             </Lyrics>
-          <StemDirection>up</StemDirection>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -1122,6 +1567,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="24">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1245,6 +1694,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="2">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
@@ -1338,6 +1792,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="3">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
@@ -1428,6 +1887,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
         </Measure>
       <Measure number="4">
         <vspacerUp>2.10327</vspacerUp>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
@@ -1518,6 +1981,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="5">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
@@ -1607,6 +2074,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="6">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
@@ -1698,6 +2170,11 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
         </Measure>
       <Measure number="7">
         <vspacerUp>3</vspacerUp>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
@@ -1787,6 +2264,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         </Measure>
       <Measure number="8">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
