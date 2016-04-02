@@ -460,10 +460,10 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
@@ -578,11 +578,6 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
       <VBox>
         <height>14.8713</height>
         <Text>
-          <pos x="0" y="-2"/>
-          <style>Composer</style>
-          <text>Arr. Josef Friedrich, 21.8.2005</text>
-          </Text>
-        <Text>
           <style>Title</style>
           <text>Un poquito cantas</text>
           </Text>
@@ -604,13 +599,6 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Tempo>
-          <tempo>1.66667</tempo>
-          <followText>1</followText>
-          <xoffset>0</xoffset>
-          <yoffset>-3</yoffset>
-          <text><sym>metNoteQuarterUp</sym> = 100</text>
-          </Tempo>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="2"/>
@@ -674,7 +662,21 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>Un</text>
+            <text>1.Un</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>2.Un</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>3.Un</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>4.Un</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -687,6 +689,23 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
+            <text>po</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>po</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>po</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
             <text>po</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -702,6 +721,23 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <syllabic>middle</syllabic>
             <text>qui</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>qui</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>qui</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>qui</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -713,6 +749,23 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
+            <text>to</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>to</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>to</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
             <text>to</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -736,6 +789,23 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <syllabic>begin</syllabic>
             <text>can</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>vi</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>vien</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>mach</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -744,31 +814,38 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>tas,</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>no,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>tos,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>os,</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="2">
-              </Tie>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <Tie id="3">
-              </Tie>
-            <endSpanner id="2"/>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
         </Measure>
       <Measure number="11">
         <Harmony>
@@ -776,20 +853,27 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <rootCase>1</rootCase>
           <name>7</name>
           </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
+        <Rest>
           <durationType>16th</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <endSpanner id="3"/>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <text>un</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>un</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>un</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
             <text>un</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -805,6 +889,23 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <syllabic>begin</syllabic>
             <text>po</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>po</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>po</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>po</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -818,6 +919,23 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <syllabic>middle</syllabic>
             <text>qui</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>qui</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>qui</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>qui</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -829,6 +947,23 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
+            <text>to</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>to</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>to</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
             <text>to</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
@@ -851,6 +986,23 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <syllabic>begin</syllabic>
             <text>bai</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ai</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>som</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>chi</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -859,47 +1011,47 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>las,</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>re,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>bras,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>cas,</text>
+            </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="4">
-              </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <Tie id="5">
-              </Tie>
-            <endSpanner id="4"/>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
         </Measure>
       <Measure number="13">
         <Harmony>
           <root>16</root>
           <rootCase>1</rootCase>
           </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
+        <Rest>
           <durationType>16th</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <endSpanner id="5"/>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -986,31 +1138,21 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>la</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="6">
-              </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <Tie id="7">
-              </Tie>
-            <endSpanner id="6"/>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
         </Measure>
       <Measure number="15">
         <Harmony>
@@ -1018,21 +1160,14 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <rootCase>1</rootCase>
           <name>7</name>
           </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
+        <Rest>
           <durationType>16th</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <endSpanner id="7"/>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>came</text>
+            <text>come</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1048,7 +1183,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="8">
+            <Tie id="2">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1059,7 +1194,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <endSpanner id="8"/>
+            <endSpanner id="2"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1171,7 +1306,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="9">
+            <Tie id="3">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1182,7 +1317,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <endSpanner id="9"/>
+            <endSpanner id="3"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1232,7 +1367,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
-            <Tie id="10">
+            <Tie id="4">
               </Tie>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -1243,9 +1378,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="11">
-              </Tie>
-            <endSpanner id="10"/>
+            <endSpanner id="4"/>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
@@ -1257,16 +1390,9 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <rootCase>1</rootCase>
           <name>7</name>
           </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
+        <Rest>
           <durationType>16th</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <endSpanner id="11"/>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1360,7 +1486,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="12">
+            <Tie id="5">
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -1371,7 +1497,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <endSpanner id="12"/>
+            <endSpanner id="5"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
@@ -1417,7 +1543,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="13">
+            <Tie id="6">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1428,7 +1554,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <endSpanner id="13"/>
+            <endSpanner id="6"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1478,7 +1604,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
-            <Tie id="14">
+            <Tie id="7">
               </Tie>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -1489,9 +1615,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="15">
-              </Tie>
-            <endSpanner id="14"/>
+            <endSpanner id="7"/>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
@@ -1503,16 +1627,9 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <rootCase>1</rootCase>
           <name>7</name>
           </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
+        <Rest>
           <durationType>16th</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <endSpanner id="15"/>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -1734,13 +1851,13 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="16">
+            <Tie id="8">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           <Note>
-            <Tie id="17">
+            <Tie id="9">
               </Tie>
             <pitch>81</pitch>
             <tpc>17</tpc>
@@ -1750,12 +1867,12 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="16"/>
+            <endSpanner id="8"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           <Note>
-            <endSpanner id="17"/>
+            <endSpanner id="9"/>
             <pitch>81</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1784,7 +1901,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="18">
+            <Tie id="10">
               </Tie>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -1801,7 +1918,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="18"/>
+            <endSpanner id="10"/>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
@@ -1923,13 +2040,13 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="19">
+            <Tie id="11">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           <Note>
-            <Tie id="20">
+            <Tie id="12">
               </Tie>
             <pitch>81</pitch>
             <tpc>17</tpc>
@@ -1939,12 +2056,12 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="19"/>
+            <endSpanner id="11"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           <Note>
-            <endSpanner id="20"/>
+            <endSpanner id="12"/>
             <pitch>81</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1973,7 +2090,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="21">
+            <Tie id="13">
               </Tie>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -1989,7 +2106,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="21"/>
+            <endSpanner id="13"/>
             <pitch>77</pitch>
             <tpc>13</tpc>
             </Note>
@@ -2111,13 +2228,13 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="22">
+            <Tie id="14">
               </Tie>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <Tie id="23">
+            <Tie id="15">
               </Tie>
             <pitch>88</pitch>
             <tpc>18</tpc>
@@ -2127,12 +2244,12 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="22"/>
+            <endSpanner id="14"/>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <endSpanner id="23"/>
+            <endSpanner id="15"/>
             <pitch>88</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2161,7 +2278,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="24">
+            <Tie id="16">
               </Tie>
             <pitch>82</pitch>
             <tpc>12</tpc>
@@ -2179,7 +2296,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <durationType>16th</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="24"/>
+            <endSpanner id="16"/>
             <pitch>82</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3048,12 +3165,12 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="25">
+        <Slur id="17">
           <track>4</track>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="25"/>
+          <Slur type="start" id="17"/>
           <acciaccatura/>
           <Note>
             <Accidental>
@@ -3065,7 +3182,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="25"/>
+          <Slur type="stop" id="17"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>57</pitch>
@@ -3133,12 +3250,12 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="26">
+        <Slur id="18">
           <track>4</track>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="26"/>
+          <Slur type="start" id="18"/>
           <acciaccatura/>
           <Note>
             <Accidental>
@@ -3150,7 +3267,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="26"/>
+          <Slur type="stop" id="18"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>57</pitch>
@@ -3215,12 +3332,12 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="27">
+        <Slur id="19">
           <track>4</track>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="27"/>
+          <Slur type="start" id="19"/>
           <acciaccatura/>
           <Note>
             <Accidental>
@@ -3232,7 +3349,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="27"/>
+          <Slur type="stop" id="19"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>57</pitch>
@@ -3297,12 +3414,12 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="28">
+        <Slur id="20">
           <track>4</track>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="28"/>
+          <Slur type="start" id="20"/>
           <acciaccatura/>
           <Note>
             <Accidental>
@@ -3314,7 +3431,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="28"/>
+          <Slur type="stop" id="20"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>57</pitch>
@@ -3379,12 +3496,12 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="29">
+        <Slur id="21">
           <track>4</track>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="29"/>
+          <Slur type="start" id="21"/>
           <acciaccatura/>
           <Note>
             <Accidental>
@@ -3396,7 +3513,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="29"/>
+          <Slur type="stop" id="21"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>57</pitch>
@@ -3464,12 +3581,12 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="30">
+        <Slur id="22">
           <track>4</track>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="30"/>
+          <Slur type="start" id="22"/>
           <acciaccatura/>
           <Note>
             <Accidental>
@@ -3481,7 +3598,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="30"/>
+          <Slur type="stop" id="22"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>57</pitch>
@@ -3546,12 +3663,12 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           <BeamMode>auto</BeamMode>
           <durationType>16th</durationType>
           </Rest>
-        <Slur id="31">
+        <Slur id="23">
           <track>4</track>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="31"/>
+          <Slur type="start" id="23"/>
           <acciaccatura/>
           <Note>
             <Accidental>
@@ -3563,7 +3680,7 @@ Schulpraktischen Klavierspiel Herbst 2005</metaTag>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="31"/>
+          <Slur type="stop" id="23"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>57</pitch>
