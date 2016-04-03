@@ -46,15 +46,15 @@
           <mag>1</mag>
           <sym name="notef" value="f"/>
           <sym name="accidentals" code="0x266d"/>
-          <sym name="accidentales" code="0x266d"/>
-          <sym name="notea" value="a"/>
-          <sym name="notec" value="c"/>
-          <sym name="notee" value="e"/>
-          <sym name="noteh" value="h"/>
-          <sym name="noted" value="d"/>
-          <sym name="noteg" value="g"/>
           <sym name="accidentalis" code="0x266f"/>
+          <sym name="notee" value="e"/>
+          <sym name="noted" value="d"/>
+          <sym name="notec" value="c"/>
+          <sym name="notea" value="a"/>
           <sym name="noteb" value="b"/>
+          <sym name="accidentales" code="0x266d"/>
+          <sym name="noteg" value="g"/>
+          <sym name="noteh" value="h"/>
           </font>
         <font id="1" family="FreeSerif">
           <mag>1.2</mag>
@@ -1774,6 +1774,10 @@
           <durationType>16th</durationType>
           <Beam>9</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05906" y="-4.69515"/>
+              <text>3</text>
+              </Fingering>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1977,6 +1981,10 @@
           <durationType>16th</durationType>
           <Beam>15</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05906" y="-5.69515"/>
+              <text>2</text>
+              </Fingering>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -1985,6 +1993,10 @@
           <durationType>16th</durationType>
           <Beam>15</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05906" y="-5.02849"/>
+              <text>4</text>
+              </Fingering>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1993,6 +2005,10 @@
           <durationType>16th</durationType>
           <Beam>15</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05906" y="-5.86182"/>
+              <text>3</text>
+              </Fingering>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>
@@ -2001,6 +2017,10 @@
           <durationType>16th</durationType>
           <Beam>15</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05906" y="-5.19515"/>
+              <text>5</text>
+              </Fingering>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -2013,6 +2033,10 @@
           <durationType>16th</durationType>
           <Beam>16</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>1</text>
+              </Fingering>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -2021,6 +2045,10 @@
           <durationType>16th</durationType>
           <Beam>16</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="-1.50297"/>
+              <text>3</text>
+              </Fingering>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -4330,6 +4358,10 @@
           <durationType>16th</durationType>
           <Beam>83</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.659062" y="1.50297"/>
+              <text>2</text>
+              </Fingering>
             <pitch>54</pitch>
             <tpc>20</tpc>
             </Note>
@@ -4341,6 +4373,10 @@
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.659062" y="1.50297"/>
+              <text>3</text>
+              </Fingering>
             <pitch>53</pitch>
             <tpc>25</tpc>
             </Note>
