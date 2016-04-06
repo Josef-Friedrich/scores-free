@@ -4,3 +4,5 @@
 *.DS_Store
 *.mscx.bak
 *.pdf
+*_bak.mscx
+*_tmp.mscx
