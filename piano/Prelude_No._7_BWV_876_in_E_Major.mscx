@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.0.2</programVersion>
-  <programRevision>3543170</programRevision>
+  <programVersion>2.0.3</programVersion>
+  <programRevision>3c7a69d</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -882,6 +882,10 @@ BWV 876</text>
           <durationType>eighth</durationType>
           <Beam>1</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-4.19406"/>
+              <text>2</text>
+              </Fingering>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -962,6 +966,10 @@ BWV 876</text>
           <durationType>eighth</durationType>
           <Beam>2</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-3.94406"/>
+              <text>4</text>
+              </Fingering>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
@@ -971,6 +979,10 @@ BWV 876</text>
           <durationType>eighth</durationType>
           <Beam>2</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-4.44406"/>
+              <text>1</text>
+              </Fingering>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
@@ -1013,6 +1025,10 @@ BWV 876</text>
           <durationType>eighth</durationType>
           <Beam>4</Beam>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-4.94406"/>
+              <text>3</text>
+              </Fingering>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -1025,6 +1041,10 @@ BWV 876</text>
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="1.05828" y="-3.94406"/>
+              <text>5</text>
+              </Fingering>
             <pitch>61</pitch>
             <tpc>9</tpc>
             </Note>
@@ -1207,6 +1227,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-4.19406"/>
+              <text>3</text>
+              </Fingering>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -1214,6 +1238,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-4.69406"/>
+              <text>2</text>
+              </Fingering>
             <pitch>68</pitch>
             <tpc>10</tpc>
             </Note>
@@ -1228,6 +1256,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="-1.50188"/>
+              <text>5</text>
+              </Fingering>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -1235,6 +1267,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="-1.50188"/>
+              <text>1</text>
+              </Fingering>
             <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
@@ -3084,6 +3120,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-4.19406"/>
+              <text>3</text>
+              </Fingering>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
@@ -3091,6 +3131,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-4.44406"/>
+              <text>1</text>
+              </Fingering>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -3105,6 +3149,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-5.51418"/>
+              <text>2</text>
+              </Fingering>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3115,6 +3163,10 @@ BWV 876</text>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="1.05828" y="-5.69406"/>
+              <text>1</text>
+              </Fingering>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
@@ -3173,6 +3225,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-4.56906"/>
+              <text>1</text>
+              </Fingering>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
@@ -3180,6 +3236,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="1.05828" y="-4.44406"/>
+              <text>2</text>
+              </Fingering>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -3451,6 +3511,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="-1.50188"/>
+              <text>2</text>
+              </Fingering>
             <pitch>68</pitch>
             <tpc>10</tpc>
             </Note>
@@ -3458,6 +3522,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="-1.50188"/>
+              <text>1</text>
+              </Fingering>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -3475,6 +3543,10 @@ BWV 876</text>
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.658281" y="-1.50188"/>
+              <text>2</text>
+              </Fingering>
             <pitch>66</pitch>
             <tpc>8</tpc>
             </Note>
@@ -3482,6 +3554,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="-1.50188"/>
+              <text>1</text>
+              </Fingering>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
@@ -3507,6 +3583,10 @@ BWV 876</text>
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.658281" y="-1.50188"/>
+              <text>1</text>
+              </Fingering>
             <pitch>64</pitch>
             <tpc>6</tpc>
             </Note>
@@ -3515,6 +3595,10 @@ BWV 876</text>
           <durationType>eighth</durationType>
           <Beam>15</Beam>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="-1.50188"/>
+              <text>2</text>
+              </Fingering>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -4372,6 +4456,10 @@ BWV 876</text>
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="1.05828" y="-5.19406"/>
+              <text>2</text>
+              </Fingering>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -4381,6 +4469,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="-1.50188"/>
+              <text>1</text>
+              </Fingering>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -4415,6 +4507,9 @@ BWV 876</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>mordent</subtype>
+            </Articulation>
           <Note>
             <Tie id="10">
               </Tie>
@@ -6279,6 +6374,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.158281" y="-2.00188"/>
+              <text>1</text>
+              </Fingering>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -6335,6 +6434,10 @@ BWV 876</text>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.158281" y="-2.00188"/>
+              <text>1</text>
+              </Fingering>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -7868,6 +7971,10 @@ BWV 876</text>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="1.50188"/>
+              <text>4</text>
+              </Fingering>
             <pitch>43</pitch>
             <tpc>15</tpc>
             </Note>
@@ -7875,6 +7982,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.258281" y="4.94406"/>
+              <text>1</text>
+              </Fingering>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -7882,6 +7993,10 @@ BWV 876</text>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="1.50188"/>
+              <text>5</text>
+              </Fingering>
             <pitch>41</pitch>
             <tpc>13</tpc>
             </Note>
@@ -7889,6 +8004,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.258281" y="4.94406"/>
+              <text>1</text>
+              </Fingering>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -7914,6 +8033,10 @@ BWV 876</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.258281" y="4.69406"/>
+              <text>3</text>
+              </Fingering>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
@@ -8141,6 +8264,10 @@ BWV 876</text>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.658281" y="1.50188"/>
+              <text>5</text>
+              </Fingering>
             <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
@@ -8150,6 +8277,10 @@ BWV 876</text>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="1.50188"/>
+              <text>4</text>
+              </Fingering>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -8229,6 +8360,10 @@ BWV 876</text>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
+            <Fingering>
+              <pos x="0.658281" y="1.50188"/>
+              <text>5</text>
+              </Fingering>
             <pitch>47</pitch>
             <tpc>19</tpc>
             </Note>
@@ -8238,6 +8373,10 @@ BWV 876</text>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
+            <Fingering>
+              <pos x="0.658281" y="1.50188"/>
+              <text>4</text>
+              </Fingering>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
@@ -8663,7 +8802,7 @@ BWV 876</text>
           </Rest>
         <Chord>
           <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>50</pitch>
             <tpc>16</tpc>
