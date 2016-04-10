@@ -470,7 +470,7 @@
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Kalinka</metaTag>
+    <metaTag name="workTitle">Hoch auf dem gelben Wagen</metaTag>
     <PageList>
       <Page>
         <System>
@@ -518,7 +518,7 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Kalinka</text>
+          <text>Hoch auf dem gelben Wagen</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -527,38 +527,61 @@
           <transposingClefType>G</transposingClefType>
           </Clef>
         <KeySig>
-          <accidental>-1</accidental>
-          <mode>minor</mode>
+          <accidental>1</accidental>
+          <mode>major</mode>
           </KeySig>
         <TimeSig>
-          <sigN>2</sigN>
+          <sigN>4</sigN>
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <InstrumentChange>
-          <Instrument>
-            <trackName>Piano (2)</trackName>
-            <Channel>
-              <controller ctrl="10" value="63"/>
-              <synti>Fluid</synti>
-              </Channel>
-            </Instrument>
-          <text>Instrument</text>
-          </InstrumentChange>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>fermata</subtype>
-            </Articulation>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -568,55 +591,84 @@
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
-            <pitch>79</pitch>
-            <tpc>15</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="3">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <pitch>76</pitch>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="3">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>79</pitch>
-            <tpc>15</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -624,44 +676,42 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>79</pitch>
+            <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
           </Chord>
-        </Measure>
-      <Measure number="5">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>81</pitch>
+            <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="5">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>74</pitch>
@@ -671,7 +721,38 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -681,9 +762,12 @@
       <Measure number="6">
         <Chord>
           <BeamMode>no</BeamMode>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -691,29 +775,33 @@
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>79</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -721,28 +809,54 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>79</pitch>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -750,52 +864,129 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>74</pitch>
+            <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="9">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>74</pitch>
+            <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>fermata</subtype>
-            </Articulation>
+          <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <tick>15360</tick>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -807,71 +998,78 @@
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <tick>17280</tick>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <tick>8640</tick>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
             <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           <Note>
             <track>1</track>
-            <Accidental>
-              <subtype>sharp</subtype>
-              <track>1</track>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
             <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           <Note>
             <track>1</track>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -881,6 +1079,15 @@
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -890,8 +1097,17 @@
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -899,19 +1115,24 @@
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
-        <tick>9600</tick>
-        <Rest>
-          <track>1</track>
+        <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          </Rest>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <tick>19200</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
             <track>1</track>
@@ -920,106 +1141,91 @@
             </Note>
           <Note>
             <track>1</track>
-            <Accidental>
-              <subtype>sharp</subtype>
-              <track>1</track>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Rest>
           <track>1</track>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <track>1</track>
+          <durationType>quarter</durationType>
           </Rest>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
             <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          <Note>
-            <track>1</track>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="12">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <dots>1</dots>
+          <durationType>half</durationType>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <tick>10560</tick>
         <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           </Rest>
+        <tick>21120</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
             <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           <Note>
             <track>1</track>
-            <Accidental>
-              <subtype>sharp</subtype>
-              <track>1</track>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           <Note>
             <track>1</track>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -1038,759 +1244,44 @@
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <tick>11520</tick>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          <Note>
-            <track>1</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          <Note>
-            <track>1</track>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="14">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <tick>12480</tick>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          <Note>
-            <track>1</track>
-            <Accidental>
-              <subtype>sharp</subtype>
-              <track>1</track>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          <Note>
-            <track>1</track>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="15">
-        <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <tick>13440</tick>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          <Note>
-            <track>1</track>
-            <Accidental>
-              <subtype>sharp</subtype>
-              <track>1</track>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          <Note>
-            <track>1</track>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="16">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <tick>14400</tick>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          <Note>
-            <track>1</track>
-            <Accidental>
-              <subtype>sharp</subtype>
-              <track>1</track>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          <Note>
-            <track>1</track>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="17">
-        <endRepeat>2</endRepeat>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <tick>15360</tick>
-        <Rest>
-          <track>1</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          <Note>
-            <track>1</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="18">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>fermata</subtype>
-            </Articulation>
-          <StemDirection>down</StemDirection>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
-            </Note>
-          <Note>
-            <pitch>81</pitch>
-            <tpc>17</tpc>
-            </Note>
-          <Note>
-            <pitch>86</pitch>
+            <pitch>74</pitch>
             <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>fermata</subtype>
-            </Articulation>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>16800</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="19">
-        <Slur id="2">
-          <track>0</track>
-          </Slur>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Slur type="start" id="2"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <tick>17280</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="20">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Slur type="stop" id="2"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>18240</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="21">
-        <Slur id="3">
-          <track>0</track>
-          </Slur>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Slur type="start" id="3"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>81</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>84</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>82</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>81</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>79</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <tick>19200</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="22">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Slur type="stop" id="3"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>20160</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="23">
-        <Slur id="4">
-          <track>0</track>
-          </Slur>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Slur type="start" id="4"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <tick>21120</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="24">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <tick>22080</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="25">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
             </Note>
           </Chord>
         <tick>23040</tick>
@@ -1801,8 +1292,13 @@
           <StemDirection>down</StemDirection>
           <Note>
             <track>1</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1815,60 +1311,58 @@
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
-          </Chord>
-        </Measure>
-      <Measure number="26">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
+            <track>1</track>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Slur type="stop" id="4"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>24000</tick>
-        <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
             <track>1</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>67</pitch>
+            <pitch>55</pitch>
             <tpc>15</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="27">
-        <Slur id="5">
-          <track>0</track>
-          </Slur>
+      <Measure number="14">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Slur type="start" id="5"/>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -1877,31 +1371,16 @@
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <tick>24960</tick>
         <Chord>
           <track>1</track>
@@ -1910,358 +1389,15 @@
           <StemDirection>down</StemDirection>
           <Note>
             <track>1</track>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="28">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Slur type="stop" id="5"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>25920</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="29">
-        <Slur id="6">
-          <track>0</track>
-          </Slur>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Slur type="start" id="6"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>81</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>84</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>79</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>81</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <tick>26880</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="30">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Slur type="stop" id="6"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>27840</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>1</track>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="31">
-        <Slur id="7">
-          <track>0</track>
-          </Slur>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Slur type="start" id="7"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <tick>28800</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="32">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <tick>29760</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="33">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <tick>30720</tick>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="34">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>fermata</subtype>
-            </Articulation>
-          <Slur type="stop" id="7"/>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <BarLine>
-          <subtype>end</subtype>
-          <span>1</span>
-          </BarLine>
-        <tick>31680</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
@@ -2273,10 +1409,632 @@
               <subtype>sharp</subtype>
               <track>1</track>
               </Accidental>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <tick>26880</tick>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <Accidental>
+              <subtype>sharp</subtype>
+              <track>1</track>
+              </Accidental>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
+          <Note>
+            <track>1</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
           </Chord>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="16">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <tick>28800</tick>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="17">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="18">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="19">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="20" len="3/4">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="21" len="1/4">
+        <startRepeat/>
+        <irregular/>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="21">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="22">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="23">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>70</pitch>
+            <tpc>24</tpc>
+            </Note>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <tick>42240</tick>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="24">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <tick>44160</tick>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="25">
+        <endRepeat>2</endRepeat>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <visible>0</visible>
+          <durationType>quarter</durationType>
+          </Rest>
+        <tick>46080</tick>
+        <Chord>
+          <track>1</track>
+          <BeamMode>no</BeamMode>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>1</track>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="26">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     <Staff id="2">
@@ -2286,363 +2044,164 @@
           <transposingClefType>F</transposingClefType>
           </Clef>
         <KeySig>
-          <accidental>-1</accidental>
-          <mode>minor</mode>
+          <accidental>1</accidental>
+          <mode>major</mode>
           </KeySig>
         <TimeSig>
-          <sigN>2</sigN>
+          <sigN>4</sigN>
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="2">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
         </Measure>
       <Measure number="3">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="4">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
         </Measure>
       <Measure number="5">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="6">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="7">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="8">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="9">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2655,142 +2214,220 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="9">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="10">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
-            </Note>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
           <Note>
-            <pitch>28</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="11">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
-            </Note>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>28</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="12">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>21</pitch>
-            <tpc>17</tpc>
-            </Note>
-          <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>28</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="13">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>26</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>38</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="11">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
           </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
+          </Chord>
+        </Measure>
+      <Measure number="12">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>38</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="14">
         <Chord>
@@ -2798,130 +2435,164 @@
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
-            </Note>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>28</pitch>
-            <tpc>18</tpc>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
             </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>40</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="15">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
-            </Note>
           <Note>
             <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
           <Note>
-            <pitch>28</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <pitch>40</pitch>
+            <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="16">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
           <Note>
-            <pitch>21</pitch>
-            <tpc>17</tpc>
-            </Note>
-          <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>28</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="17">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
           <Note>
-            <pitch>26</pitch>
-            <tpc>16</tpc>
-            </Note>
-          <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="18">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
+          <StemDirection>down</StemDirection>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
           <Note>
             <pitch>50</pitch>
             <tpc>16</tpc>
@@ -2930,281 +2601,634 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>fermata</subtype>
-            </Articulation>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>26</pitch>
-            <tpc>16</tpc>
-            </Note>
-          <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>16800</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>fermata</subtype>
-            <track>5</track>
-            </Articulation>
           <StemDirection>down</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="18">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="19">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <tick>17280</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
-          <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="20">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>18240</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="21">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>69</pitch>
+            <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>67</pitch>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="20" len="3/4">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>43</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>19200</tick>
         <Chord>
-          <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
-          <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>64</pitch>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="21" len="1/4">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="21">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>52</pitch>
             <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="22">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>67</pitch>
+            <pitch>43</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>20160</tick>
         <Chord>
-          <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
-          <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="23">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
+          <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <tick>21120</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>46</pitch>
-            <tpc>12</tpc>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
-          <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="24">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>36</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>36</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>36</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>36</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>38</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>50</pitch>
@@ -3213,486 +3237,166 @@
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>22080</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
+            <pitch>38</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
-          <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>38</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>38</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="25">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>23040</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="26">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>24000</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="27">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <tick>24960</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="28">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <tick>25920</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="29">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <tick>26880</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="30">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <tick>27840</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="31">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <tick>28800</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>46</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="32">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <tick>29760</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
             <pitch>43</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
-          <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="33">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>30720</tick>
         <Chord>
-          <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
             <pitch>43</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="34">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>55</pitch>
+            <pitch>43</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
           <visible>0</visible>
           <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="26">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>half</durationType>
           </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
-        <tick>31680</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>fermata</subtype>
-            <track>5</track>
-            </Articulation>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
         </Measure>
       </Staff>
     </Score>
