@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="2.06">
+  <programVersion>2.0.3</programVersion>
+  <programRevision>3c7a69d</programRevision>
+  <Score>
+    <LayerTag id="0" tag="default"></LayerTag>
+    <currentLayer>0</currentLayer>
+    <Synthesizer>
+      </Synthesizer>
+    <Division>480</Division>
+    <Style>
+      <maxSystemDistance>12</maxSystemDistance>
+      <lastSystemFillLimit>0</lastSystemFillLimit>
+      <measureNumberInterval>1</measureNumberInterval>
+      <evenFooterC></evenFooterC>
+      <oddFooterC>© Guitar Colour System®
+ www.bunte-noten.de</oddFooterC>
+      <page-layout>
+        <page-height>1683.38</page-height>
+        <page-width>1190.89</page-width>
+        <page-margins type="even">
+          <left-margin>68.0315</left-margin>
+          <right-margin>85.0394</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        <page-margins type="odd">
+          <left-margin>85.0394</left-margin>
+          <right-margin>68.0315</right-margin>
+          <top-margin>102.047</top-margin>
+          <bottom-margin>124.724</bottom-margin>
+          </page-margins>
+        </page-layout>
+      <Spatium>2.55</Spatium>
+      </Style>
+    <showInvisible>0</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer">Composer</metaTag>
+    <metaTag name="copyright"></metaTag>
+    <metaTag name="creationDate"></metaTag>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform">Linux</metaTag>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source">http://musescore.com/score/1713451</metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle">Title</metaTag>
+    <PageList>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      </PageList>
+    <Part>
+      <Staff id="1">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          </StaffType>
+        </Staff>
+      <trackName>Piano</trackName>
+      <Instrument>
+        <trackName>Piano</trackName>
+        <minPitchP>21</minPitchP>
+        <maxPitchP>108</maxPitchP>
+        <minPitchA>21</minPitchA>
+        <maxPitchA>108</maxPitchA>
+        <clef staff="2">F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>95</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Part>
+      <Staff id="2">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          </StaffType>
+        <bracket type="1" span="2"/>
+        <barLineSpan>2</barLineSpan>
+        </Staff>
+      <Staff id="3">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          </StaffType>
+        <defaultClef>F</defaultClef>
+        <bracket type="-1" span="0"/>
+        <barLineSpan>0</barLineSpan>
+        </Staff>
+      <show>0</show>
+      <trackName>Klavier</trackName>
+      <Instrument>
+        <longName>Klavier</longName>
+        <shortName>Klav.</shortName>
+        <trackName>Klavier</trackName>
+        <minPitchP>21</minPitchP>
+        <maxPitchP>108</maxPitchP>
+        <minPitchA>21</minPitchA>
+        <maxPitchA>108</maxPitchA>
+        <instrumentId>keyboard.piano</instrumentId>
+        <clef staff="2">F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>95</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel>
+          <program value="0"/>
+          <controller ctrl="7" value="58"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>Kein schöner Land</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Anton Wilhelm von Zuccalmaglio (1840)</text>
+          </Text>
+        </VBox>
+      <Measure number="1" len="3/8">
+        <Clef>
+          <concertClefType>G8vb</concertClefType>
+          <transposingClefType>G8vb</transposingClefType>
+          </Clef>
+        <KeySig>
+          <accidental>3</accidental>
+          </KeySig>
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Tempo>
+          <tempo>2</tempo>
+          <followText>1</followText>
+          <visible>0</visible>
+          <text><sym>unicodeNoteQuarterUp</sym> = 120</text>
+          </Tempo>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>Kein</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="53" b="255" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            <dotPosition>up</dotPosition>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>schö</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="53" b="255" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ner</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="53" b="255" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <Harmony>
+          <root>17</root>
+          </Harmony>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>Land</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>in</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>die</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ser</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <Harmony>
+          <root>18</root>
+          </Harmony>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>Zeit,</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>als</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="53" b="255" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>hier</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="53" b="255" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>das</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="53" b="255" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <MeasureNumber>
+          <visible>0</visible>
+          <style>Measure Number</style>
+          <text>4</text>
+          </MeasureNumber>
+        <Harmony>
+          <root>17</root>
+          </Harmony>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>uns'</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>re</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>weit</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>und</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="5">
+        <Harmony>
+          <root>18</root>
+          </Harmony>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>breit,</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>wo</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>wir</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>uns</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <Harmony>
+          <root>17</root>
+          </Harmony>
+        <Slur id="2">
+          <track>0</track>
+          </Slur>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>fin</text>
+            </Lyrics>
+          <Slur type="start" id="2"/>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Slur type="stop" id="2"/>
+          <Note>
+            <color r="255" g="204" b="0" a="255"/>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>den</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>3</text>
+              </Fingering>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>wohl</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>un</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ter</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <MeasureNumber>
+          <visible>0</visible>
+          <style>Measure Number</style>
+          <text>7</text>
+          </MeasureNumber>
+        <Harmony>
+          <root>18</root>
+          </Harmony>
+        <Slur id="3">
+          <track>0</track>
+          </Slur>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Lin</text>
+            </Lyrics>
+          <Slur type="start" id="3"/>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Slur type="stop" id="3"/>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>3</text>
+              </Fingering>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>den</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>zur</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>A</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text>bend</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <Harmony>
+          <root>17</root>
+          </Harmony>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>zeit.</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>Wo</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>wir</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>uns</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="9">
+        <MeasureNumber>
+          <visible>0</visible>
+          <style>Measure Number</style>
+          <text>9</text>
+          </MeasureNumber>
+        <Harmony>
+          <root>17</root>
+          </Harmony>
+        <Slur id="4">
+          <track>0</track>
+          </Slur>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>fin</text>
+            </Lyrics>
+          <Slur type="start" id="4"/>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Slur type="stop" id="4"/>
+          <Note>
+            <color r="255" g="204" b="0" a="255"/>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>den</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>3</text>
+              </Fingering>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>wohl</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>un</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ter</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="10">
+        <Harmony>
+          <root>18</root>
+          </Harmony>
+        <Slur id="5">
+          <track>0</track>
+          </Slur>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Lin</text>
+            </Lyrics>
+          <Slur type="start" id="5"/>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Slur type="stop" id="5"/>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>3</text>
+              </Fingering>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>den</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>zur</text>
+            </Lyrics>
+          <Note>
+            <color r="0" g="167" b="0" a="255"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>A</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text>bend</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>1</text>
+              </Fingering>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11" len="3/8">
+        <Harmony>
+          <root>17</root>
+          </Harmony>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>zeit.</text>
+            </Lyrics>
+          <Note>
+            <color r="255" g="0" b="0" a="255"/>
+            <Fingering>
+              <pos x="-0.5" y="0.6"/>
+              <style>LH Guitar Fingering</style>
+              <text>2</text>
+              </Fingering>
+            <Image>
+              <pos x="-36.9461" y="16.738"/>
+              <path>ce589bb20f181f4396eb189bdf898eea.png</path>
+              <linkPath>/Users/mikolai_macbook/Desktop/Win7_Mac/GCS_2015/Corel 11/Logo GCS-01.png</linkPath>
+              <size w="19.2572" h="9.73209"/>
+              </Image>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      </Staff>
+    <Staff id="2">
+      <Measure number="1" len="3/8">
+        <KeySig>
+          <accidental>3</accidental>
+          </KeySig>
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="2">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="5">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="9">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="10">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11" len="3/8">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        </Measure>
+      </Staff>
+    <Staff id="3">
+      <Measure number="1" len="3/8">
+        <KeySig>
+          <accidental>3</accidental>
+          </KeySig>
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="2">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="5">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="9">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="10">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11" len="3/8">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        </Measure>
+      </Staff>
+    </Score>
+  </museScore>
