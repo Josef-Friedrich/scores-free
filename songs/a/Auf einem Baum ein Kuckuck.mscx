@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="2.06">
+  <programVersion>2.0.3</programVersion>
+  <programRevision>3c7a69d</programRevision>
+  <Score>
+    <LayerTag id="0" tag="default"></LayerTag>
+    <currentLayer>0</currentLayer>
+    <Synthesizer>
+      </Synthesizer>
+    <Division>480</Division>
+    <Style>
+      <minSystemDistance>3</minSystemDistance>
+      <page-layout>
+        <page-height>1224.4</page-height>
+        <page-width>1581.68</page-width>
+        <page-margins type="both">
+          <left-margin>112.139</left-margin>
+          <right-margin>112.139</right-margin>
+          <top-margin>112.139</top-margin>
+          <bottom-margin>112.139</bottom-margin>
+          </page-margins>
+        </page-layout>
+      <Spatium>2.3</Spatium>
+      </Style>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer"></metaTag>
+    <metaTag name="copyright"></metaTag>
+    <metaTag name="creationDate">2016-04-16</metaTag>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="platform">Microsoft Windows</metaTag>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source"></metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle"></metaTag>
+    <PageList>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      </PageList>
+    <Part>
+      <Staff id="1">
+        <StaffType group="pitched">
+          </StaffType>
+        </Staff>
+      <trackName>Midi_1</trackName>
+      <Instrument>
+        <trackName>Midi_1</trackName>
+        <Channel>
+          <program value="0"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Staff id="1">
+      <VBox>
+        <height>10</height>
+        </VBox>
+      <Measure number="1" len="1/4">
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        <KeySig>
+          <accidental>-1</accidental>
+          <mode>major</mode>
+          </KeySig>
+        <TimeSig>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <StaffText>
+          <xoffset>0</xoffset>
+          <yoffset>-0.1</yoffset>
+          <text><font size="20"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="22.2698"/>
+          <xoffset>0</xoffset>
+          <yoffset>12.3</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>1.  Auf</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>2.  Da</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>3.  Der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>4.  Und</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>5.  Da</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="2">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ei</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>kam</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>schoss</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>als</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>war</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <xoffset>0</xoffset>
+          <yoffset>-0.4</yoffset>
+          <text><font size="20"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="18.1698"/>
+          <xoffset>0</xoffset>
+          <yoffset>8.2</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="30.6698"/>
+          <xoffset>0</xoffset>
+          <yoffset>20.7</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="22.2698"/>
+          <xoffset>0</xoffset>
+          <yoffset>12.3</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="34.4698"/>
+          <xoffset>0</xoffset>
+          <yoffset>24.5</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="26.5698"/>
+          <xoffset>0</xoffset>
+          <yoffset>16.6</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="26.7698"/>
+          <xoffset>0</xoffset>
+          <yoffset>16.8</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="30.5698"/>
+          <xoffset>0</xoffset>
+          <yoffset>20.6</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="22.2698"/>
+          <xoffset>0</xoffset>
+          <yoffset>12.3</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>nem</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ein</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>den</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>ein</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>der</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="18.3698"/>
+          <xoffset>0</xoffset>
+          <yoffset>8.4</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="18.3698"/>
+          <xoffset>0</xoffset>
+          <yoffset>8.4</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="22.2698"/>
+          <xoffset>0</xoffset>
+          <yoffset>12.3</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="26.5698"/>
+          <xoffset>0</xoffset>
+          <yoffset>16.6</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="22.2698"/>
+          <xoffset>0</xoffset>
+          <yoffset>12.3</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="22.2698"/>
+          <xoffset>0</xoffset>
+          <yoffset>12.3</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="30.6698"/>
+          <xoffset>0</xoffset>
+          <yoffset>20.7</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>Baum</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>jun</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>ar</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Jahr</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>begin</syllabic>
+            <text>Kuck</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ein</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ger</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>men</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ver</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>end</syllabic>
+            <text>uck</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="10.1698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.2</yoffset>
+          <text><font size="20"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Beam id="1">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>1</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Ku</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Jä</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>Ku</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>gang</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>middle</syllabic>
+            <text>wie</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <xoffset>0</xoffset>
+          <yoffset>-5.6</yoffset>
+          <text><font size="14"/><font face="Times New Roman"/><i>Auf einem Baum ein Kuckuck</i></text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="34.6698"/>
+          <xoffset>0</xoffset>
+          <yoffset>24.7</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>1</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text>ck</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>ck</text>
+            </Lyrics>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="34.8698"/>
+          <xoffset>0</xoffset>
+          <yoffset>24.9</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>uck</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ger,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>uck,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>en,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>der,</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>sim</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="25.7698"/>
+          <xoffset>0</xoffset>
+          <yoffset>15.8</yoffset>
+          <text><font size="18"/><font face="Arial"/><b>*</b></text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="25.9698"/>
+          <xoffset>0</xoffset>
+          <yoffset>16</yoffset>
+          <text><font size="18"/><font face="Arial"/><b>*</b></text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>sa</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="9.96981"/>
+          <xoffset>0</xoffset>
+          <yoffset>0</yoffset>
+          <text><font size="18"/><font face="Arial"/><b>*</b></text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="9.96981"/>
+          <xoffset>0</xoffset>
+          <yoffset>0</yoffset>
+          <text><font size="18"/><font face="Arial"/><b>*</b></text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>la</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>dim</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>bam</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <no>2</no>
+            <text>ba</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="10.0698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.1</yoffset>
+          <text><font size="19"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="10.0698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.1</yoffset>
+          <text><font size="19"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="10.0698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.1</yoffset>
+          <text><font size="19"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>sa</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>la</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>  </text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>  du</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text> </text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="10.0698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.1</yoffset>
+          <text><font size="19"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="10.0698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.1</yoffset>
+          <text><font size="19"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="10.0698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.1</yoffset>
+          <text><font size="19"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="10.0698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.1</yoffset>
+          <text><font size="19"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="10.0698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.1</yoffset>
+          <text><font size="19"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="10.0698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.1</yoffset>
+          <text><font size="19"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>sa</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>16th</durationType>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>la</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="26.1698"/>
+          <xoffset>0</xoffset>
+          <yoffset>16.2</yoffset>
+          <text><font size="19"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>dim,</text>
+            </Lyrics>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="10.6698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.7</yoffset>
+          <text><font size="20"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="18.3698"/>
+          <xoffset>0</xoffset>
+          <yoffset>8.4</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="26.5698"/>
+          <xoffset>0</xoffset>
+          <yoffset>16.6</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="22.2698"/>
+          <xoffset>0</xoffset>
+          <yoffset>12.3</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="34.6698"/>
+          <xoffset>0</xoffset>
+          <yoffset>24.7</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="26.5698"/>
+          <xoffset>0</xoffset>
+          <yoffset>16.6</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="30.5698"/>
+          <xoffset>0</xoffset>
+          <yoffset>20.6</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="26.5698"/>
+          <xoffset>0</xoffset>
+          <yoffset>16.6</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>auf</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>da</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>und</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>da</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="5">
+        <TimeSig>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ei</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>kam</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>schoss</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>als</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>war</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>nem</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ein</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>den</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>ein</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>der</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>Baum</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>jun</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>ar</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Jahr</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>begin</syllabic>
+            <text>Kuck</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ein</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ger</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>men</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ver</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>end</syllabic>
+            <text>uck</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Ku</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Jä</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>Ku</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ga</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>middle</syllabic>
+            <text>wie</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text>ck</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>ck</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>uck</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>gers</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>uck</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>gen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text>der</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="6">
+        <endRepeat>2</endRepeat>
+        <StaffText>
+          <pos x="0" y="10.4698"/>
+          <xoffset>0</xoffset>
+          <yoffset>0.5</yoffset>
+          <text><font size="20"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="17.6698"/>
+          <xoffset>0</xoffset>
+          <yoffset>7.7</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="26.5698"/>
+          <xoffset>0</xoffset>
+          <yoffset>16.6</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="22.2698"/>
+          <xoffset>0</xoffset>
+          <yoffset>12.3</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <StaffText>
+          <pos x="0" y="30.6698"/>
+          <xoffset>0</xoffset>
+          <yoffset>20.7</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>saß</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>mann.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>tot.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>war.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <text> da.</text>
+            </Lyrics>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="34.3698"/>
+          <xoffset>0</xoffset>
+          <yoffset>24.4</yoffset>
+          <text><font size="18"/><font face="Times New Roman"/>*</text>
+          </StaffText>
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
+        </Measure>
+      </Staff>
+    </Score>
+  </museScore>
