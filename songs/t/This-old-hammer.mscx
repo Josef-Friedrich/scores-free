@@ -566,6 +566,9 @@ Klaviersatz: Josef Friedrich</metaTag>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
+        <KeySig>
+          <accidental>-1</accidental>
+          </KeySig>
         <TimeSig>
           <subtype>2</subtype>
           <sigN>2</sigN>
@@ -1414,6 +1417,9 @@ Klaviersatz: Josef Friedrich</metaTag>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
+        <KeySig>
+          <accidental>-1</accidental>
+          </KeySig>
         <TimeSig>
           <subtype>2</subtype>
           <sigN>2</sigN>
@@ -2235,6 +2241,9 @@ Klaviersatz: Josef Friedrich</metaTag>
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
+        <KeySig>
+          <accidental>-1</accidental>
+          </KeySig>
         <TimeSig>
           <subtype>2</subtype>
           <sigN>2</sigN>
@@ -2250,6 +2259,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Rest>
         </Measure>
       <Measure number="2">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2270,9 +2284,21 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>14</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2292,6 +2318,12 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="3">
+        <Harmony>
+          <root>15</root>
+          <name>m79</name>
+          <base>12</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2312,6 +2344,11 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2337,6 +2374,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="4">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2357,9 +2399,21 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>14</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2379,6 +2433,13 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="5">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>79</name>
+          <base>19</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2399,9 +2460,23 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>12</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>17</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2421,6 +2496,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="6">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2429,6 +2509,9 @@ Klaviersatz: Josef Friedrich</metaTag>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
@@ -2441,9 +2524,21 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>13</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2463,6 +2558,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="7">
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          <name>07</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2471,6 +2571,9 @@ Klaviersatz: Josef Friedrich</metaTag>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
@@ -2486,6 +2589,11 @@ Klaviersatz: Josef Friedrich</metaTag>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2508,6 +2616,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="8">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2528,9 +2641,21 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>14</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2550,6 +2675,12 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="9">
+        <Harmony>
+          <root>15</root>
+          <name>m79</name>
+          <base>12</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2570,6 +2701,11 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2595,6 +2731,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="10">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2615,9 +2756,21 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>14</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2637,6 +2790,12 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="11">
+        <Harmony>
+          <root>15</root>
+          <name>m79</name>
+          <base>12</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2657,6 +2816,11 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2682,6 +2846,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="12">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2702,9 +2871,21 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>14</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2724,6 +2905,13 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="13">
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>79</name>
+          <base>19</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2744,6 +2932,13 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>15</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>12</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2766,6 +2961,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="14">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2789,9 +2989,21 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          <base>15</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2811,6 +3023,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="15">
+        <Harmony>
+          <root>13</root>
+          <rootCase>1</rootCase>
+          <name>6</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2823,6 +3040,13 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          <base>18</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Beam id="4">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2844,6 +3068,11 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2897,6 +3126,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="16">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2917,9 +3151,21 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          <base>14</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2939,6 +3185,12 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="17">
+        <Harmony>
+          <root>15</root>
+          <name>m79</name>
+          <base>12</base>
+          <baseCase>1</baseCase>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2959,6 +3211,11 @@ Klaviersatz: Josef Friedrich</metaTag>
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>7</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2984,6 +3241,11 @@ Klaviersatz: Josef Friedrich</metaTag>
           </Chord>
         </Measure>
       <Measure number="18">
+        <Harmony>
+          <root>16</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -3017,6 +3279,9 @@ Klaviersatz: Josef Friedrich</metaTag>
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
           </Clef>
+        <KeySig>
+          <accidental>-1</accidental>
+          </KeySig>
         <TimeSig>
           <subtype>2</subtype>
           <sigN>2</sigN>
@@ -3093,16 +3358,10 @@ Klaviersatz: Josef Friedrich</metaTag>
             </Articulation>
           <StemDirection>up</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3418,16 +3677,10 @@ Klaviersatz: Josef Friedrich</metaTag>
             </Articulation>
           <StemDirection>up</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3517,16 +3770,10 @@ Klaviersatz: Josef Friedrich</metaTag>
             </Articulation>
           <StemDirection>up</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3616,10 +3863,16 @@ Klaviersatz: Josef Friedrich</metaTag>
             </Articulation>
           <StemDirection>up</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>35</pitch>
             <tpc>19</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>47</pitch>
             <tpc>19</tpc>
             </Note>
@@ -3821,16 +4074,10 @@ Klaviersatz: Josef Friedrich</metaTag>
             </Articulation>
           <StemDirection>up</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
