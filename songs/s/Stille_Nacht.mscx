@@ -1,0 +1,3066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="2.06">
+  <programVersion>2.0.2</programVersion>
+  <programRevision>3543170</programRevision>
+  <Score>
+    <LayerTag id="0" tag="default"></LayerTag>
+    <currentLayer>0</currentLayer>
+    <Synthesizer>
+      </Synthesizer>
+    <Division>480</Division>
+    <Style>
+      <staffUpperBorder>5</staffUpperBorder>
+      <staffLowerBorder>5</staffLowerBorder>
+      <staffDistance>5</staffDistance>
+      <minSystemDistance>6.2</minSystemDistance>
+      <systemFrameDistance>4</systemFrameDistance>
+      <frameSystemDistance>1</frameSystemDistance>
+      <minMeasureWidth>4</minMeasureWidth>
+      <endBarDistance>0.3</endBarDistance>
+      <bracketWidth>0.35</bracketWidth>
+      <bracketDistance>0.2</bracketDistance>
+      <clefLeftMargin>0.5</clefLeftMargin>
+      <minNoteDistance>0.4</minNoteDistance>
+      <measureSpacing>1</measureSpacing>
+      <ledgerLineWidth>0.12</ledgerLineWidth>
+      <beamWidth>0.48</beamWidth>
+      <beamDistance>0.4</beamDistance>
+      <beamMinLen>1.15</beamMinLen>
+      <propertyDistanceStem>0.5</propertyDistanceStem>
+      <harmonyY>0</harmonyY>
+      <showMeasureNumberOne>1</showMeasureNumberOne>
+      <measureNumberAllStaffs>1</measureNumberAllStaffs>
+      <genClef>0</genClef>
+      <chordStyle>custom</chordStyle>
+      <chordsXmlFile>1</chordsXmlFile>
+      <chordDescriptionFile>stdchords.xml</chordDescriptionFile>
+      <hideInstrumentNameIfOneInstrument>0</hideInstrumentNameIfOneInstrument>
+      <voltaY>-2</voltaY>
+      <keySigNaturals>1</keySigNaturals>
+      <tupletOufOfStaff>0</tupletOufOfStaff>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <offsetType>absolute</offsetType>
+        <name>Title</name>
+        <family>Arial</family>
+        <size>18</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>8</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Lyrics Odd Lines</name>
+        <family>Liberation Serif</family>
+        <size>11</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>8</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Lyrics Even Lines</name>
+        <family>Liberation Serif</family>
+        <size>11</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Chord Symbol</name>
+        <family>FreeSerif</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <page-layout>
+        <page-height>1683.78</page-height>
+        <page-width>1190.55</page-width>
+        <page-margins type="even">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        <page-margins type="odd">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        </page-layout>
+      <Spatium>1.64</Spatium>
+      </Style>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer"></metaTag>
+    <metaTag name="copyright">Public Domain</metaTag>
+    <metaTag name="creationDate">2016-07-13</metaTag>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform">Linux</metaTag>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source"></metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle">Stille Nacht</metaTag>
+    <PageList>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      </PageList>
+    <Part>
+      <Staff id="1">
+        <StaffType group="pitched">
+          </StaffType>
+        <bracket type="-1" span="1"/>
+        </Staff>
+      <trackName>Soprano</trackName>
+      <Instrument>
+        <longName><font size="11.831"/><font face="Times New Roman"/>Voice</longName>
+        <shortName><font size="11.831"/><font face="Times New Roman"/>S.</shortName>
+        <trackName>Soprano</trackName>
+        <minPitchP>60</minPitchP>
+        <maxPitchP>84</maxPitchP>
+        <minPitchA>60</minPitchA>
+        <maxPitchA>79</maxPitchA>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel>
+          <program value="73"/>
+          <controller ctrl="7" value="75"/>
+          <controller ctrl="93" value="30"/>
+          <controller ctrl="91" value="30"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Part>
+      <Staff id="2">
+        <StaffType group="pitched">
+          </StaffType>
+        <bracket type="1" span="2"/>
+        </Staff>
+      <trackName>upper</trackName>
+      <Instrument>
+        <longName><font size="11.831"/><font face="Times New Roman"/>Piano</longName>
+        <trackName>upper</trackName>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel>
+          <program value="6"/>
+          <controller ctrl="93" value="30"/>
+          <controller ctrl="91" value="30"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Part>
+      <Staff id="3">
+        <StaffType group="pitched">
+          </StaffType>
+        </Staff>
+      <trackName>lower</trackName>
+      <Instrument>
+        <longName><font size="11.831"/><font face="Times New Roman"/>Piano</longName>
+        <trackName>lower</trackName>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel>
+          <program value="6"/>
+          <controller ctrl="93" value="30"/>
+          <controller ctrl="91" value="30"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Staff id="1">
+      <VBox>
+        <height>6.64431</height>
+        <bottomGap>5</bottomGap>
+        <Text>
+          <style>Title</style>
+          <text><font size="20"/>Stille Nacht, heilige Nacht</text>
+          </Text>
+        </VBox>
+      <Measure number="1">
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        <TimeSig>
+          <sigN>6</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="2">
+        <stretch>0.9</stretch>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="3">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="4">
+        <stretch>0.9</stretch>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="5">
+        <Marker>
+          <style>Repeat Text Left</style>
+          <text><font size="21.5108"/><font face="MScore"/></text>
+          <label>segno</label>
+          </Marker>
+        <Tempo>
+          <tempo>1</tempo>
+          <visible>0</visible>
+          <text><sym>unicodeNoteQuarterUp</sym> = 60</text>
+          </Tempo>
+        <Beam id="1">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>1</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Stil</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>Stil</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Stil</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>1</Beam>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>1</Beam>
+          <Lyrics>
+            <text><font size="10.7554"/>le</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>le</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>le</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>Nacht,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>Nacht,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>Nacht,</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <Beam id="2">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>2</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>hei</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>hei</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>hei</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>2</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font size="10.7554"/>li</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>li</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text><font size="10.7554"/>li</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>2</Beam>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>ge</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>ge</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>ge</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>Nacht!</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>Nacht!</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>Nacht!</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <stretch>0.5</stretch>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Al</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>Hir</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Got</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>les</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>ten</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>tes</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>schläft,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>erst</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>Sohn,</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <stretch>0.3</stretch>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>ein</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>kund</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>oh</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>sam</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>ge</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>wie</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>wacht</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>macht,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>lacht.</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="9">
+        <stretch>1.1</stretch>
+        <KeySig>
+          <accidental>0</accidental>
+          </KeySig>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>nur</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>durch</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>Lieb</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>das</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>aus</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Beam id="3">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>3</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>trau</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>En</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Dei</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>3</Beam>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>te</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>gel</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>3</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>hoch</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>Hal</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>nem</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="10">
+        <Beam id="4">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>4</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font size="10.7554"/>hei</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>le</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>gött</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>4</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font size="10.7554"/>li</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text><font size="10.7554"/>li</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>4</Beam>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>ge</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>lu</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>chen</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>Paar.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>ja,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>Mund,</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Hol</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>tönt</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>da</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>es</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>uns</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Beam id="5">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>5</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Kna</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>la</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <ticks>360</ticks>
+            <text><font size="10.7554"/>schlägt</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>5</Beam>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>be</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>ut</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>5</Beam>
+          <Lyrics>
+            <text><font size="10.7554"/>im</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>von</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>die</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="12">
+        <stretch>0.6</stretch>
+        <Beam id="6">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>6</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>lok</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <ticks>360</ticks>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>fern</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>ret</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>6</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font size="10.7554"/>ki</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text><font size="10.7554"/>ten</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>6</Beam>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>gen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>und</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>de</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>Haar,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>nah:</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>Stund,</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>schlaf</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>Christ</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>Christ</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>in</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>in</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Beam id="7">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>7</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>himm</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>Ret</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>dei</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>77</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>7</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font size="10.7554"/>li</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>ter</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>ner</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>7</Beam>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>scher</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>ist</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Ge</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Ruh</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <ticks>720</ticks>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>da</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <ticks>720</ticks>
+            <text><font size="10.7554"/>burt</text>
+            </Lyrics>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <irregular/>
+        <stretch>0.7</stretch>
+        <Beam id="8">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>8</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font size="10.7554"/>schl</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <ticks>240</ticks>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>Christ</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <ticks>240</ticks>
+            <text><font size="10.7554"/>Christ</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>8</Beam>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>af</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>8</Beam>
+          <Lyrics>
+            <text><font size="10.7554"/>in</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>der</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text><font size="10.7554"/>in</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Beam id="9">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>9</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>himm</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>Ret</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Dei</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>9</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font size="10.7554"/>li</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>ter</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>ner</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>9</Beam>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>scher</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>ist</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text><font size="10.7554"/>Ge</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <stretch>0.6</stretch>
+        <Jump>
+          <text><font size="12.9065"/><font face="Times New Roman"/>D.S.</text>
+          <jumpTo>segno</jumpTo>
+          <playUntil>end</playUntil>
+          <continueAt></continueAt>
+          </Jump>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font size="10.7554"/>Ruh!</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text><font size="10.7554"/>da!</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text><font size="10.7554"/>burt!</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          </Rest>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      </Staff>
+    <Staff id="2">
+      <Measure number="1">
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        <TimeSig>
+          <sigN>6</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>84</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>79</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>79</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>77</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="5">
+        <Slur id="2">
+          <track>4</track>
+          </Slur>
+        <Slur id="3">
+          <track>4</track>
+          </Slur>
+        <Beam id="10">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>10</Beam>
+          <Slur type="start" id="2"/>
+          <Slur type="start" id="3"/>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>10</Beam>
+          <Slur type="stop" id="2"/>
+          <Slur type="stop" id="3"/>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>10</Beam>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <Slur id="4">
+          <track>4</track>
+          </Slur>
+        <Beam id="11">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>11</Beam>
+          <Slur type="start" id="4"/>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>11</Beam>
+          <Slur type="stop" id="4"/>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>11</Beam>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="9">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Slur id="5">
+          <track>4</track>
+          </Slur>
+        <Beam id="12">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>12</Beam>
+          <Slur type="start" id="5"/>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>12</Beam>
+          <Slur type="stop" id="5"/>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>12</Beam>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="10">
+        <Slur id="6">
+          <track>4</track>
+          <lineType>1</lineType>
+          </Slur>
+        <Beam id="13">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>13</Beam>
+          <Slur type="start" id="6"/>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>13</Beam>
+          <Slur type="stop" id="6"/>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>13</Beam>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Slur id="7">
+          <track>4</track>
+          <lineType>1</lineType>
+          </Slur>
+        <Beam id="14">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>14</Beam>
+          <Slur type="start" id="7"/>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>14</Beam>
+          <Slur type="stop" id="7"/>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>14</Beam>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="12">
+        <Slur id="8">
+          <track>4</track>
+          <lineType>1</lineType>
+          </Slur>
+        <Beam id="15">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>15</Beam>
+          <Slur type="start" id="8"/>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>15</Beam>
+          <Slur type="stop" id="8"/>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>15</Beam>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Beam id="16">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>16</Beam>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>77</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>16</Beam>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>16</Beam>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <Slur id="9">
+          <track>4</track>
+          </Slur>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Slur type="start" id="9"/>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Slur type="stop" id="9"/>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <Beam id="17">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>17</Beam>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>17</Beam>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>17</Beam>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Beam id="18">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>18</Beam>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>18</Beam>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>18</Beam>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      </Staff>
+    <Staff id="3">
+      <Measure number="1">
+        <Clef>
+          <concertClefType>F</concertClefType>
+          <transposingClefType>F</transposingClefType>
+          </Clef>
+        <TimeSig>
+          <sigN>6</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Beam id="19">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>19</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>19</Beam>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <Beam id="20">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>20</Beam>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>20</Beam>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <Beam id="21">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>21</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>21</Beam>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>21</Beam>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Beam id="22">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>22</Beam>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>22</Beam>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>22</Beam>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <Beam id="23">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>23</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>23</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>23</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="5">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="9">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Slur id="10">
+          <track>8</track>
+          </Slur>
+        <Beam id="24">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>24</Beam>
+          <Slur type="start" id="10"/>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>24</Beam>
+          <Slur type="stop" id="10"/>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>24</Beam>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="10">
+        <Beam id="25">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>25</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>25</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>25</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Beam id="26">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>26</Beam>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>26</Beam>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>26</Beam>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="12">
+        <Beam id="27">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>27</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>27</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>27</Beam>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Beam id="28">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>28</Beam>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>28</Beam>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>28</Beam>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <tick>18720</tick>
+        <Chord>
+          <track>9</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <track>9</track>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Beam id="29">
+          </Beam>
+        <Chord>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Beam>29</Beam>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Beam>29</Beam>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>29</Beam>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <velocity>90</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      </Staff>
+    </Score>
+  </museScore>
