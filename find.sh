@@ -1,4 +1,4 @@
 #! /bin/sh
 
-find . -iname "*$1*"
-find ../../jf/scores-nonfree/ -iname "*$1*"
+find . -ipath "*$1*"
+find ../../jf/scores-nonfree/ -ipath "*$1*"
