@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.0.2</programVersion>
-  <programRevision>f51dc11</programRevision>
+  <programVersion>2.0.3</programVersion>
+  <programRevision>3c7a69d</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -424,7 +424,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger"></metaTag>
+    <metaTag name="arranger">https://musescore.com/user/14217841/scores/3032526</metaTag>
     <metaTag name="composer">J. Brahms</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2016-02-29</metaTag>
@@ -472,11 +472,11 @@
         <height>8</height>
         <Text>
           <style>Composer</style>
-          <text><font size="12"/>J. Brahms</text>
+          <text><font size="12"/>Anton Wilhelm Florentin von Zuccalmaglio</text>
           </Text>
         <Text>
           <style>Title</style>
-          <text><font size="24"/>Schwesterlein</text>
+          <text><font size="24"/>Schwesterlein, Schwesterlein, wann gehn wir nach Haus?</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -499,29 +499,29 @@
           <Beam>1</Beam>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Schwe</text>
+            <text><font size="12"/>1. Schwe</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Schwe</text>
+            <text><font size="12"/>2. Schwe</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Schwe</text>
+            <text><font size="12"/>3. Schwe</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Schwe</text>
+            <text><font size="12"/>4. Schwe</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Schwe</text>
+            <text>5. <font size="12"/>Schwe</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -534,13 +534,13 @@
           <Beam>1</Beam>
           <Lyrics>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>ster</text>
+            <text><font size="12"></font>ster</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>middle</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>ster</text>
+            <text><font size="12"></font>ster</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -551,12 +551,12 @@
             <no>3</no>
             <syllabic>middle</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>ster</text>
+            <text><font size="12"></font>ster</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>ster</text>
+            <text><font size="12"></font>ster</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -568,13 +568,13 @@
           <durationType>half</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -585,12 +585,12 @@
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -610,29 +610,29 @@
           <Beam>2</Beam>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Schwe</text>
+            <text><font size="12"></font>Schwe</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Schwe</text>
+            <text><font size="12"></font>Schwe</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Schwe</text>
+            <text><font size="12"></font>Schwe</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Schwe</text>
+            <text><font size="12"></font>Schwe</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Schwe</text>
+            <text><font size="12"></font>Schwe</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -645,29 +645,29 @@
           <Beam>2</Beam>
           <Lyrics>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>ster</text>
+            <text><font size="12"></font>ster</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>middle</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>ster</text>
+            <text><font size="12"></font>ster</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>ster</text>
+            <text><font size="12"></font>ster</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>middle</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>ster</text>
+            <text><font size="12"></font>ster</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>ster</text>
+            <text><font size="12"></font>ster</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -679,29 +679,29 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -709,6 +709,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Slur id="2">
+          <track>0</track>
+          </Slur>
         <Beam id="3">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -717,26 +720,32 @@
           <durationType>eighth</durationType>
           <Beam>3</Beam>
           <Lyrics>
+            <ticks>240</ticks>
             <text><font size="12"/>wann</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text><font size="12"/>wann</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>240</ticks>
             <text><font size="12"/>wohl</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Was</text>
+            <text><font size="12"/>was</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
+            <ticks>240</ticks>
             <text><font size="12"/>du</text>
             </Lyrics>
+          <Slur type="start" id="2"/>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -746,6 +755,7 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>3</Beam>
+          <Slur type="stop" id="2"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -753,6 +763,9 @@
           </Chord>
         </Measure>
       <Measure number="3">
+        <Slur id="3">
+          <track>0</track>
+          </Slur>
         <Beam id="4">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -761,19 +774,23 @@
           <durationType>eighth</durationType>
           <Beam>4</Beam>
           <Lyrics>
+            <ticks>240</ticks>
             <text><font size="12"/>gehn</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text><font size="12"/>gehn</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text><font size="12"/>ist</text>
+            <ticks>240</ticks>
+            <text><font size="12"/>ist’s</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text><font size="12"/>bist</text>
             </Lyrics>
@@ -782,6 +799,7 @@
             <syllabic>begin</syllabic>
             <text><font size="12"/>wan</text>
             </Lyrics>
+          <Slur type="start" id="3"/>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -791,6 +809,7 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>4</Beam>
+          <Slur type="stop" id="3"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -808,6 +827,10 @@
             <text><font size="12"/>wir</text>
             </Lyrics>
           <Lyrics>
+            <no>2</no>
+            <text>an</text>
+            </Lyrics>
+          <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
             <text><font size="12"/>du</text>
@@ -815,7 +838,7 @@
           <Lyrics>
             <no>4</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>kest</text>
+            <text><font size="12"></font>kest</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -827,25 +850,25 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text><font size="12"/>nach</text>
+            <text><font size="12"></font>nach</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>nach</text>
+            <text><font size="12"></font>nach</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text><font size="12"/>es</text>
+            <text><font size="12"/>der</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>so</text>
+            <text><font size="12"></font>so</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text><font size="12"/>so</text>
+            <text><font size="12"></font>so</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -862,25 +885,25 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <text><font size="12"/>Haus?</text>
+            <text><font size="12"></font>Haus?</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Haus?</text>
+            <text><font size="12"></font>Haus?</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text><font size="12"/>Zeit!</text>
+            <text><font size="12"></font>Zeit!</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>blaß?</text>
+            <text><font size="12"/>blass?</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text><font size="12"/>matt?</text>
+            <text><font size="12"></font>matt?</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -893,6 +916,10 @@
           </Rest>
         </Measure>
       <Measure number="5">
+        <Slur id="4">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Beam id="5">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -902,28 +929,31 @@
           <Beam>5</Beam>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Mor</text>
+            <text><font size="12"></font>Mor</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Mor</text>
+            <text><font size="12"></font>Mor</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>240</ticks>
             <text><font size="12"/>Mein</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text><font size="12"/>Das</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Su</text>
+            <text><font size="12"></font>Su</text>
             </Lyrics>
+          <Slur type="start" id="4"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -935,14 +965,15 @@
           <Beam>5</Beam>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text><font size="12"/>gen</text>
+            <text><font size="12"></font>gen</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>gen</text>
+            <text><font size="12"></font>gen</text>
             </Lyrics>
+          <Slur type="stop" id="4"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -952,12 +983,12 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text><font size="12"/>wenn</text>
+            <text><font size="12"></font>wenn</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>wenn</text>
+            <text><font size="12"></font>wenn</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -972,7 +1003,7 @@
           <Lyrics>
             <no>4</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>che</text>
+            <text><font size="12"></font>che</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -984,26 +1015,26 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text><font size="12"/>die</text>
+            <text><font size="12"></font>die</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>ster</text>
+            <text><font size="12"></font>ster</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text><font size="12"/>die</text>
+            <text><font size="12"></font>die</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1013,6 +1044,9 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <Slur id="5">
+          <track>0</track>
+          </Slur>
         <Beam id="6">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -1022,28 +1056,31 @@
           <Beam>6</Beam>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Hah</text>
+            <text><font size="12"/>Häh</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text><font size="12"/>Tag</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>240</ticks>
             <text><font size="12"/>tanzt</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Mor</text>
+            <text><font size="12"></font>Mor</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Kam</text>
+            <text><font size="12"></font>Kam</text>
             </Lyrics>
+          <Slur type="start" id="5"/>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -1053,11 +1090,15 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>6</Beam>
+          <Slur type="stop" id="5"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Slur id="6">
+          <track>0</track>
+          </Slur>
         <Beam id="7">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -1067,7 +1108,8 @@
           <Beam>7</Beam>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text><font size="12"/>nen</text>
+            <ticks>240</ticks>
+            <text><font size="12"/>ne</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1077,19 +1119,21 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>240</ticks>
             <text><font size="12"/>mit</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>middle</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>gen</text>
+            <text><font size="12"></font>gen</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>mer</text>
+            <text><font size="12"></font>mer</text>
             </Lyrics>
+          <Slur type="start" id="6"/>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1099,6 +1143,7 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>7</Beam>
+          <Slur type="stop" id="6"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1114,7 +1159,7 @@
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>bricht,</text>
+            <text><font size="12"></font>bricht,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -1124,12 +1169,12 @@
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>schein</text>
+            <text><font size="12"></font>schein</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>tür,</text>
+            <text><font size="12"></font>tür,</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1143,7 +1188,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text><font size="12"/>wolln</text>
+            <text><font size="12"/>woll’n</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1152,17 +1197,17 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text><font size="12"/>geh</text>
+            <text><font size="12"></font>geh</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>auf</text>
+            <text><font size="12"></font>auf</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>su</text>
+            <text><font size="12"></font>su</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1183,18 +1228,18 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text><font size="12"/>ich</text>
+            <text><font size="12"/>ich,</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>mei</text>
+            <text><font size="12"></font>mei</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>che</text>
+            <text><font size="12"></font>che</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1206,26 +1251,26 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text><font size="12"/>nach</text>
+            <text><font size="12"></font>nach</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>die</text>
+            <text><font size="12"></font>die</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text><font size="12"/>tanzt</text>
+            <text><font size="12"></font>tanzt</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>nen</text>
+            <text><font size="12"></font>nen</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text><font size="12"/>mein</text>
+            <text><font size="12"></font>mein</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1235,6 +1280,9 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <Slur id="7">
+          <track>0</track>
+          </Slur>
         <Beam id="8">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -1244,29 +1292,31 @@
           <Beam>8</Beam>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Hau</text>
+            <text><font size="12"></font>Hau</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Freu</text>
+            <text><font size="12"></font>Freu</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>240</ticks>
             <text><font size="12"/>er</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Wän</text>
+            <text><font size="12"></font>Wän</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Bett</text>
+            <text><font size="12"></font>Bett</text>
             </Lyrics>
+          <Slur type="start" id="7"/>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -1276,11 +1326,15 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>8</Beam>
+          <Slur type="stop" id="7"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Slur id="8">
+          <track>0</track>
+          </Slur>
         <Beam id="9">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -1290,29 +1344,34 @@
           <Beam>9</Beam>
           <Lyrics>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <text><font size="12"/>se</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text><font size="12"/>de</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>240</ticks>
             <text><font size="12"/>mit</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>middle</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>ge</text>
+            <text><font size="12"></font>ge</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <text><font size="12"/>lein</text>
             </Lyrics>
+          <Slur type="start" id="8"/>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1322,6 +1381,7 @@
           <BeamMode>end</BeamMode>
           <durationType>eighth</durationType>
           <Beam>9</Beam>
+          <Slur type="stop" id="8"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1346,7 +1406,7 @@
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
@@ -1370,29 +1430,29 @@
           <Beam>10</Beam>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Brü</text>
+            <text><font size="12"></font>Brü</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Brü</text>
+            <text><font size="12"></font>Brü</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Brü</text>
+            <text><font size="12"></font>Brü</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Brü</text>
+            <text><font size="12"></font>Brü</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Brü</text>
+            <text><font size="12"></font>Brü</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -1405,29 +1465,29 @@
           <Beam>10</Beam>
           <Lyrics>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>middle</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>middle</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -1439,29 +1499,29 @@
           <durationType>half</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1481,28 +1541,28 @@
           <Beam>11</Beam>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Brü</text>
+            <text><font size="12"></font>Brü</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Brü</text>
+            <text><font size="12"></font>Brü</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Brü</text>
+            <text><font size="12"></font>Brü</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Brü</text>
+            <text><font size="12"></font>Brü</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text><font size="12"/>es</text>
+            <text><font size="12"></font>es</text>
             </Lyrics>
           <Note>
             <Accidental>
@@ -1518,28 +1578,28 @@
           <Beam>11</Beam>
           <Lyrics>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>middle</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>middle</syllabic>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>middle</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>der</text>
+            <text><font size="12"></font>der</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text><font size="12"/>wird</text>
+            <text><font size="12"></font>wird</text>
             </Lyrics>
           <Note>
             <pitch>68</pitch>
@@ -1551,28 +1611,28 @@
           <durationType>half</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>lein,</text>
+            <text><font size="12"></font>lein,</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text><font size="12"/>fein</text>
+            <text><font size="12"></font>fein</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1582,6 +1642,10 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <Slur id="9">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Beam id="12">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -1590,15 +1654,17 @@
           <durationType>eighth</durationType>
           <Beam>12</Beam>
           <Lyrics>
-            <text><font size="12"/>dann</text>
+            <text><font size="12"></font>dann</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
             <text><font size="12"/>der</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
+            <ticks>240</ticks>
             <text><font size="12"/>lass</text>
             </Lyrics>
           <Lyrics>
@@ -1608,8 +1674,10 @@
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text><font size="12"/>unterm</text>
+            <syllabic>begin</syllabic>
+            <text><font size="12"/>un</text>
             </Lyrics>
+          <Slur type="start" id="9"/>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -1620,8 +1688,19 @@
           <durationType>eighth</durationType>
           <Beam>12</Beam>
           <Lyrics>
-            <text><font size="12"/>gehn</text>
+            <text><font size="12"></font>gehn</text>
             </Lyrics>
+          <Lyrics>
+            <no>3</no>
+            <style>Lyrics Even Lines</style>
+            <text>vom</text>
+            </Lyrics>
+          <Lyrics>
+            <no>4</no>
+            <syllabic>end</syllabic>
+            <text>term</text>
+            </Lyrics>
+          <Slur type="stop" id="9"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1631,7 +1710,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text><font size="12"/>wir</text>
+            <text><font size="12"></font>wir</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1645,13 +1724,14 @@
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>vom</text>
+            <text><font size="12"/>Tau</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>begin</syllabic>
-            <text><font size="12"/>Ra</text>
+            <text><font size="12"></font>Ra</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1663,27 +1743,28 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text><font size="12"/>nach</text>
+            <text><font size="12"></font>nach</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>liche</text>
+            <text><font size="12"/>lich’</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text><font size="12"/>mich</text>
+            <text><font size="12"></font>mich</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
+            <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Taue</text>
+            <text>e</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
             <syllabic>end</syllabic>
-            <text><font size="12"/>sen</text>
+            <text><font size="12"></font>sen</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1701,25 +1782,25 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Lyrics>
-            <text><font size="12"/>Haus.</text>
+            <text><font size="12"></font>Haus.</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>Braus.</text>
+            <text><font size="12"></font>Braus.</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text><font size="12"/>heut!</text>
+            <text><font size="12"></font>heut!</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text><font size="12"/>naß.</text>
+            <text><font size="12"/>nass.</text>
             </Lyrics>
           <Lyrics>
             <no>4</no>
-            <text><font size="12"/>sein.</text>
+            <text><font size="12"></font>sein.</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
