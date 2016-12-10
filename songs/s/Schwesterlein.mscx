@@ -96,6 +96,11 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Beam id="1">
           </Beam>
         <Chord>
@@ -205,6 +210,11 @@
           </Chord>
         </Measure>
       <Measure number="2">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Beam id="2">
           </Beam>
         <Chord>
@@ -365,6 +375,11 @@
           </Chord>
         </Measure>
       <Measure number="3">
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
         <Slur id="3">
           <track>0</track>
           </Slur>
@@ -446,6 +461,10 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -480,6 +499,10 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <Harmony>
+          <root>17</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -514,6 +537,9 @@
           </Rest>
         </Measure>
       <Measure number="5">
+        <Harmony>
+          <name></name>
+          </Harmony>
         <Slur id="4">
           <track>0</track>
           <lineType>1</lineType>
