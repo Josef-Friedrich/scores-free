@@ -32,19 +32,18 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">USA</metaTag>
+    <metaTag name="composer">Composer</metaTag>
     <metaTag name="copyright"></metaTag>
-    <metaTag name="creationDate">2016-06-27</metaTag>
+    <metaTag name="creationDate"></metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
-    <metaTag name="originalFormat">mxl</metaTag>
-    <metaTag name="platform">Apple Macintosh</metaTag>
+    <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://musescore.com/user/14217841/scores/3032476</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">A Yankee boy is trim and tall</metaTag>
+    <metaTag name="workTitle">Title</metaTag>
     <PageList>
       <Page>
         <System>
@@ -62,158 +61,90 @@
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
+          <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>P1</trackName>
+      <trackName>Piano</trackName>
       <Instrument>
-        <longName>P1</longName>
-        <shortName>Voice</shortName>
-        <trackName>Voice (2)</trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
+        <minPitchP>21</minPitchP>
+        <maxPitchP>108</maxPitchP>
+        <minPitchA>21</minPitchA>
+        <maxPitchA>108</maxPitchA>
+        <clef staff="2">F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>95</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
-          <controller ctrl="10" value="63"/>
+          <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>5.7</height>
-        <Text>
-          <style>Composer</style>
-          <text>USA</text>
-          </Text>
+        <height>10</height>
         <Text>
           <style>Title</style>
-          <text>A Yankee boy is trim and tall</text>
+          <text>Fern nach Süd Kosaken reiten</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Aus Russland</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Siegfried Spring</text>
           </Text>
         </VBox>
-      <Measure number="1" len="1/8">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <KeySig>
-          <accidental>1</accidental>
-          <mode>major</mode>
-          </KeySig>
+      <Measure number="1">
         <TimeSig>
-          <sigN>2</sigN>
+          <sigN>4</sigN>
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <StaffText>
-          <pos x="-1.7882" y="-5.71045"/>
-          <style>System</style>
-          <text>Verse</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>1. A</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>Der</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>2. His</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>Sein</text>
-            </Lyrics>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="2">
         <Harmony>
-          <root>15</root>
+          <root>17</root>
           <rootCase>1</rootCase>
+          <name>m</name>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Yan</text>
+            <text>1. Fern</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
-            <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>Yan</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <syllabic>begin</syllabic>
-            <text>coun</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>Land</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>kee</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>middle</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>kee</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <syllabic>end</syllabic>
-            <text>try</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>ist</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>boy</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>Boy</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>is</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <syllabic>begin</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>sei</text>
+            <text>2. Lass</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -224,103 +155,12 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>is</text>
+            <text>nach</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>ist</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>his</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>ne</text>
-            </Lyrics>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="3">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>trim</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>rank</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>pride</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>Ehr’,</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>and</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>und</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>and</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>sein</text>
-            </Lyrics>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Harmony>
-          <root>16</root>
-          <rootCase>1</rootCase>
-          </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>tall,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>schlank</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>boast,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>Stolz,</text>
+            <text>das</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -331,87 +171,17 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>and</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>und</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>he’ll</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>und</text>
-            </Lyrics>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="4">
-        <Harmony>
-          <root>15</root>
-          <rootCase>1</rootCase>
-          </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ne</text>
+            <text>Süd</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>nie</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <syllabic>begin</syllabic>
-            <text>e</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>treu</text>
+            <text>Wei</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>ver</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>mals</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <syllabic>end</syllabic>
-            <text>ver</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>wird</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -419,22 +189,13 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>o</text>
+            <text>Ko</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
-            <syllabic>begin</syllabic>
+            <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>ü</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>prove</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>er</text>
+            <text>nen,</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -446,187 +207,12 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
-            <text>ver</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>middle</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>ber</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>true</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>stets</text>
-            </Lyrics>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="5">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>fat,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>fett,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>blue,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>sein,</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Harmony>
-          <root>16</root>
-          <rootCase>1</rootCase>
-          </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>Sir,</text>
+            <text>sa</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>Sir,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>Sir,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>Sir,</text>
-            </Lyrics>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>at</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>beim</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>when</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>wenn</text>
-            </Lyrics>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="6">
-        <Harmony>
-          <root>15</root>
-          <rootCase>1</rootCase>
-          </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>dance</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <ticks>240</ticks>
-            <style>Lyrics Even Lines</style>
-            <text>Tanz,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>call’s</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>er</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>and</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <syllabic>begin</syllabic>
-            <text>u</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>ein</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>for</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>begin</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>Froh</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <syllabic>end</syllabic>
-            <text>pon</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <syllabic>begin</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>Lob</text>
+            <text>lass</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -638,55 +224,12 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>lic,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>sinn,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>to</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>lied</text>
-            </Lyrics>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="7">
-        <Harmony>
-          <root>14</root>
-          <rootCase>1</rootCase>
-          </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>hop</text>
+            <text>ken</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>Sprung</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>give</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <syllabic>begin</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>sin</text>
+            <text>das</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -697,22 +240,14 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>and</text>
+            <syllabic>begin</syllabic>
+            <text>rei</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>und</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>his</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>gen</text>
+            <text>Kla</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -723,21 +258,143 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>ball</text>
+            <syllabic>end</syllabic>
+            <text>ten,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>gen,</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <Harmony>
+          <root>18</root>
+          <rootCase>1</rootCase>
+          </Harmony>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>mit</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>nim</text>
+            </Lyrics>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>den</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>mer</text>
+            </Lyrics>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Fein</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>Wurf</text>
+            <text>sollst</text>
+            </Lyrics>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>de</text>
             </Lyrics>
           <Lyrics>
-            <no>2</no>
-            <text>toast</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
+            <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>soll,</text>
+            <text>Du,</text>
+            </Lyrics>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>dort</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Lieb</text>
+            </Lyrics>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>zu</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ste,</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>strei</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>za</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -748,59 +405,42 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>as</text>
+            <syllabic>end</syllabic>
+            <text>ten,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>so</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>’tis</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>ist’s</text>
+            <text>gen.</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="8">
+      <Measure number="3">
         <Harmony>
-          <root>15</root>
+          <root>17</root>
           <rootCase>1</rootCase>
+          <name>m</name>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>nim</text>
+            <text>Mäd</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>flink</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <syllabic>begin</syllabic>
-            <text>“Yan</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <syllabic>begin</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>„Yan</text>
+            <text>Ruhm</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -808,190 +448,67 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>ble</text>
+            <text>chen</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>wie</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <syllabic>end</syllabic>
-            <text>kee</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>kee</text>
+            <text>be</text>
             </Lyrics>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>as</text>
+            <text>sie</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
-            <syllabic>begin</syllabic>
+            <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
+            <text>deckt</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
             <text>ein</text>
             </Lyrics>
           <Lyrics>
-            <no>2</no>
-            <syllabic>begin</syllabic>
-            <text>doo</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <syllabic>begin</syllabic>
+            <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>doo</text>
+            <text>nach</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>a</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>e</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <syllabic>end</syllabic>
-            <text>dle</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>dle</text>
-            </Lyrics>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="9">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <text>rat,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>Ratt’,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>doo”,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>doo“,</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>Sir.</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>Sir.</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>Sir.</text>
-            </Lyrics>
-          <Lyrics>
-            <no>3</no>
-            <style>Lyrics Even Lines</style>
-            <text>Sir.</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
-        </Measure>
-      <Measure number="10">
-        <Harmony>
-          <root>14</root>
-          <rootCase>1</rootCase>
-          </Harmony>
-        <StaffText>
-          <pos x="-0.855224" y="-6.64342"/>
-          <style>System</style>
-          <text>Chorus</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Yan</text>
+            <text>Stück</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>Yan</text>
+            <text>schwer</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>kee</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>kee</text>
-            </Lyrics>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -999,241 +516,108 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>doo</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>begin</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>doo</text>
-            </Lyrics>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>dle,</text>
+            <text>be</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>dle,</text>
+            <text>en</text>
             </Lyrics>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="11">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>guard</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>schütz’</text>
-            </Lyrics>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>your</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>die</text>
-            </Lyrics>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <text>coast,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>Küst’’,</text>
-            </Lyrics>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="12">
-        <Harmony>
-          <root>15</root>
-          <rootCase>1</rootCase>
-          </Harmony>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Yan</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>begin</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>Yan</text>
-            </Lyrics>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>kee</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>kee</text>
-            </Lyrics>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>doo</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>begin</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>doo</text>
-            </Lyrics>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>dle</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <syllabic>end</syllabic>
-            <style>Lyrics Even Lines</style>
-            <text>dle</text>
-            </Lyrics>
-          <Note>
-            <pitch>60</pitch>
+            <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="13">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <Slur id="2">
-          <track>0</track>
-          </Slur>
         <Chord>
-          <BeamMode>mid</BeamMode>
+          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>dan</text>
+            <syllabic>middle</syllabic>
+            <text>glei</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>dan</text>
+            <text>Ta</text>
             </Lyrics>
-          <Slur type="start" id="2"/>
           <Note>
-            <pitch>59</pitch>
+            <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
-          <BeamMode>mid</BeamMode>
-          <durationType>eighth</durationType>
-          <Slur type="stop" id="2"/>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>dy:</text>
+            <text>ten!</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>dy:</text>
+            <text>gen</text>
             </Lyrics>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         </Measure>
-      <Measure number="14">
+      <Measure number="4">
         <Harmony>
-          <root>14</root>
+          <root>18</root>
           <rootCase>1</rootCase>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
-          <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>fear</text>
+            <syllabic>begin</syllabic>
+            <text>Vor</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
-            <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>für</text>
+            <text>kehr</text>
+            </Lyrics>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>wärts</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ich</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>geht’s</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>dann</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -1242,26 +626,154 @@
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>16th</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
-            <text>not</text>
+            <text>zum</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>zu</text>
+            </Lyrics>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>Sieg.</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>chte</text>
+            <text>rück.</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="5">
+        <Harmony>
+          <root>14</root>
+          <rootCase>1</rootCase>
+          </Harmony>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>Willst,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Ruhm</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>them,</text>
+            <syllabic>begin</syllabic>
+            <text>Ko</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>und</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>sak,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>E</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>du</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>hre</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>mich</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>gilt</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ver</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>mir</text>
+            </Lyrics>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text>las</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -1270,113 +782,130 @@
             <text>we</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>nor</text>
+            <syllabic>end</syllabic>
+            <text>sen?</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>der</text>
+            <text>nig,</text>
             </Lyrics>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>threat</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>Feind</text>
-            </Lyrics>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>nor</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>noch</text>
-            </Lyrics>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Slur id="3">
-          <track>0</track>
-          </Slur>
-        <Chord>
-          <BeamMode>mid</BeamMode>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <ticks>240</ticks>
-            <text>boast,</text>
-            </Lyrics>
-          <Lyrics>
-            <no>1</no>
-            <ticks>240</ticks>
-            <style>Lyrics Even Lines</style>
-            <text>Stolz,</text>
-            </Lyrics>
-          <Slur type="start" id="3"/>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>mid</BeamMode>
-          <durationType>eighth</durationType>
-          <Slur type="stop" id="3"/>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="16">
+      <Measure number="6">
         <Harmony>
           <root>15</root>
-          <rootCase>1</rootCase>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
+            <text>Kannst</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>denn</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>du</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>nach</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
             <syllabic>begin</syllabic>
-            <text>Yan</text>
+            <text>wirk</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Dir</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>lich</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>Yan</text>
+            <text>all</text>
             </Lyrics>
           <Note>
-            <pitch>62</pitch>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>so</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ein</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>mich</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>ich</text>
+            </Lyrics>
+          <Note>
+            <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -1384,40 +913,159 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
-            <text>kee</text>
+            <syllabic>begin</syllabic>
+            <text>las</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
-            <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>kee</text>
+            <text>sehn’</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>sen?</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>mich,</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
         <Harmony>
-          <root>16</root>
-          <rootCase>1</rootCase>
+          <root>17</root>
+          <name>m</name>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>doo</text>
+            <text>Muss</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>du</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>ich</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>bist</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>denn</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>doo</text>
+            <text>mei</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>vor</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>nes</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>Gram</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Herz</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>er</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ens</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text>blas</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Kö</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1425,13 +1073,13 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>dle</text>
+            <text>sen?</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>dle</text>
+            <text>nig,</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -1439,45 +1087,114 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17" len="3/8">
+      <Measure number="8">
         <Harmony>
-          <root>15</root>
-          <rootCase>1</rootCase>
+          <root>18</root>
           </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>dan</text>
+            <text>Zieh</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
-            <syllabic>begin</syllabic>
             <style>Lyrics Even Lines</style>
-            <text>dan</text>
+            <text>du</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
             </Note>
           </Chord>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
-            <text>dy.</text>
+            <text>nicht</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>all</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Lyrics>
+            <ticks>120</ticks>
+            <text>in</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <syllabic>end</syllabic>
+            <ticks>120</ticks>
             <style>Lyrics Even Lines</style>
-            <text>dy.</text>
+            <text>ein</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <durationType>16th</durationType>
+          <Lyrics>
+            <ticks>120</ticks>
+            <text>den</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <ticks>120</ticks>
+            <style>Lyrics Even Lines</style>
+            <text>mein</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Harmony>
+          <root>17</root>
+          <rootCase>1</rootCase>
+          <name>m</name>
+          </Harmony>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>Krieg!</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Glück.</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <BarLine>
