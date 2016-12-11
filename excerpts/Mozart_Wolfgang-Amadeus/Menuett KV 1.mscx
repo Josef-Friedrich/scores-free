@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.0.3</programVersion>
-  <programRevision>3c7a69d</programRevision>
+  <programVersion>2.0.3.1</programVersion>
+  <programRevision>6347ed6</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -9,18 +9,23 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <minSystemDistance>0</minSystemDistance>
       <page-layout>
-        <page-height>1581.51</page-height>
-        <page-width>1224.29</page-width>
-        <page-margins type="both">
-          <left-margin>55.8765</left-margin>
-          <right-margin>55.8765</right-margin>
-          <top-margin>67.8501</top-margin>
-          <bottom-margin>67.8501</bottom-margin>
+        <page-height>1683.78</page-height>
+        <page-width>1190.55</page-width>
+        <page-margins type="even">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        <page-margins type="odd">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.76</Spatium>
+      <Spatium>1.76389</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -42,8 +47,6 @@
     <metaTag name="workTitle"></metaTag>
     <PageList>
       <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -91,6 +94,14 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
+        <Text>
+          <style>Composer</style>
+          <text>Wolfgang Amadeus Mozart</text>
+          </Text>
+        <Text>
+          <style>Title</style>
+          <text>Menuett KV 1</text>
+          </Text>
         </VBox>
       <Measure number="1" len="1/4">
         <Clef>
@@ -126,10 +137,6 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>normal</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="2">
         <Chord>
@@ -180,11 +187,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-11.6</yoffset>
-          <text><font size="20"/><font face="Times New Roman"/><b>Menuett </b></text>
-          </StaffText>
         <Beam id="2">
           </Beam>
         <Chord>
@@ -277,9 +279,6 @@
           </Chord>
         </Measure>
       <Measure number="6">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -288,11 +287,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <StaffText>
-          <xoffset>0</xoffset>
-          <yoffset>-4.2</yoffset>
-          <text><font size="10"/><font face="Times New Roman"/>Wolfgang Amadeus Mozart<font size="10"/><font face="Times New Roman"/>KV 1</text>
-          </StaffText>
         <Beam id="4">
           </Beam>
         <Chord>
@@ -472,10 +466,6 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>normal</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="11">
         <Chord>
@@ -510,9 +500,6 @@
           </Chord>
         </Measure>
       <Measure number="12">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Slur id="4">
           <track>0</track>
           <up>1</up>
@@ -791,19 +778,6 @@
           </Chord>
         </Measure>
       <Measure number="19" len="1/4">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <KeySig>
-          <accidental>0</accidental>
-          <mode>major</mode>
-          </KeySig>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="20" len="1/4">
         <startRepeat/>
         <BarLine>
           <subtype>start-repeat</subtype>
@@ -829,12 +803,8 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>normal</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
-      <Measure number="21">
+      <Measure number="20">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -872,7 +842,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="22">
+      <Measure number="21">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -885,6 +855,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
@@ -910,11 +883,14 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="23">
+      <Measure number="22">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
@@ -948,7 +924,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="24">
+      <Measure number="23">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1004,10 +980,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="25">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure number="24">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1063,7 +1036,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="26">
+      <Measure number="25">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1125,7 +1098,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="27">
+      <Measure number="26">
         <Slur id="6">
           <track>0</track>
           <up>1</up>
@@ -1152,15 +1125,12 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="28" len="2/4">
+      <Measure number="27" len="2/4">
         <Slur id="7">
           <track>0</track>
           <up>2</up>
@@ -1184,7 +1154,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="29" len="1/4">
+      <Measure number="28" len="1/4">
         <Beam id="20">
           </Beam>
         <Chord>
@@ -1205,12 +1175,8 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>normal</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
-      <Measure number="30">
+      <Measure number="29">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1251,10 +1217,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="31">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure number="30">
         <Slur id="8">
           <track>0</track>
           <up>1</up>
@@ -1273,6 +1236,9 @@
           <durationType>quarter</durationType>
           <Slur type="stop" id="8"/>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>77</pitch>
             <tpc>13</tpc>
             </Note>
@@ -1298,7 +1264,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="32">
+      <Measure number="31">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1342,7 +1308,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="33">
+      <Measure number="32">
         <Slur id="10">
           <track>0</track>
           <up>1</up>
@@ -1390,6 +1356,9 @@
           <durationType>16th</durationType>
           <Beam>24</Beam>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>77</pitch>
             <tpc>13</tpc>
             </Note>
@@ -1404,7 +1373,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="34">
+      <Measure number="33">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1437,6 +1406,9 @@
           <durationType>16th</durationType>
           <Beam>25</Beam>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>77</pitch>
             <tpc>13</tpc>
             </Note>
@@ -1460,7 +1432,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="35">
+      <Measure number="34">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1516,7 +1488,15 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="36">
+      <Measure number="35">
+        <Jump>
+          <track>4</track>
+          <style>Repeat Text Right</style>
+          <text>D.C. al Fine</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>fine</playUntil>
+          <continueAt></continueAt>
+          </Jump>
         <Jump>
           <track>4</track>
           <style>Repeat Text Right</style>
@@ -1556,7 +1536,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="37" len="2/4">
+      <Measure number="36" len="2/4">
         <Slur id="12">
           <track>0</track>
           <up>1</up>
@@ -1603,10 +1583,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <BarLine>
-          <subtype>normal</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="2">
         <Chord>
@@ -1809,10 +1785,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <BarLine>
-          <subtype>normal</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="11">
         <Chord>
@@ -2021,17 +1993,6 @@
           </Chord>
         </Measure>
       <Measure number="19" len="1/4">
-        <KeySig>
-          <accidental>0</accidental>
-          <mode>major</mode>
-          </KeySig>
-        <Rest>
-          <visible>0</visible>
-          <durationType>measure</durationType>
-          <duration z="1" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="20" len="1/4">
         <BarLine>
           <subtype>start-repeat</subtype>
           <span>1</span>
@@ -2044,14 +2005,9 @@
           <visible>0</visible>
           <durationType>eighth</durationType>
           </Rest>
-        <BarLine>
-          <subtype>normal</subtype>
-          <span>1</span>
-          </BarLine>
-        <tick>23520</tick>
+        <tick>23040</tick>
         <Beam id="28">
           <track>5</track>
-          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <track>5</track>
@@ -2076,11 +2032,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="21">
+      <Measure number="20">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -2089,7 +2044,6 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -2098,18 +2052,16 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>24000</tick>
+        <tick>23520</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>48</pitch>
@@ -2120,7 +2072,6 @@
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>48</pitch>
@@ -2129,7 +2080,6 @@
           </Chord>
         <Beam id="29">
           <track>5</track>
-          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <track>5</track>
@@ -2154,11 +2104,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="22">
+      <Measure number="21">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -2167,18 +2116,16 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>25440</tick>
+        <tick>24960</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>48</pitch>
@@ -2189,7 +2136,6 @@
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>50</pitch>
@@ -2198,7 +2144,6 @@
           </Chord>
         <Beam id="30">
           <track>5</track>
-          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <track>5</track>
@@ -2223,66 +2168,122 @@
             </Note>
           </Chord>
         </Measure>
+      <Measure number="22">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <tick>26400</tick>
+        <Chord>
+          <track>5</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
       <Measure number="23">
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>half</durationType>
+          <Articulation>
+            <subtype>tenuto</subtype>
+            </Articulation>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Beam id="31">
+          </Beam>
         <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
+          <BeamMode>begin</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>31</Beam>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>31</Beam>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>31</Beam>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>31</Beam>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <tick>26880</tick>
+        <tick>27840</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>half</durationType>
           <Note>
             <track>5</track>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -2290,127 +2291,162 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <tick>28320</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
           <Articulation>
             <subtype>tenuto</subtype>
-            <track>5</track>
             </Articulation>
-          <StemDirection>down</StemDirection>
           <Note>
-            <track>5</track>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Beam id="31">
-          <track>5</track>
-          <StemDirection>down</StemDirection>
-          </Beam>
-        <Chord>
-          <track>5</track>
-          <BeamMode>begin</BeamMode>
-          <durationType>16th</durationType>
-          <Beam>31</Beam>
-          <Note>
-            <track>5</track>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>mid</BeamMode>
-          <durationType>16th</durationType>
-          <Beam>31</Beam>
-          <Note>
-            <track>5</track>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>mid</BeamMode>
-          <durationType>16th</durationType>
-          <Beam>31</Beam>
-          <Note>
-            <track>5</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>end</BeamMode>
-          <durationType>16th</durationType>
-          <Beam>31</Beam>
-          <Note>
-            <track>5</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="25">
-        <Rest>
-          <visible>0</visible>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
-        <tick>29760</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Articulation>
-            <subtype>tenuto</subtype>
-            <track>5</track>
-            </Articulation>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <Accidental>
-              <subtype>sharp</subtype>
-              <track>5</track>
-              </Accidental>
             <pitch>54</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
         <Beam id="32">
-          <track>5</track>
-          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
-          <track>5</track>
           <BeamMode>begin</BeamMode>
           <durationType>16th</durationType>
           <Beam>32</Beam>
           <Note>
-            <track>5</track>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
-          <track>5</track>
           <BeamMode>mid</BeamMode>
           <durationType>16th</durationType>
           <Beam>32</Beam>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>mid</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>32</Beam>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>16th</durationType>
+          <Beam>32</Beam>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="25">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="26">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="27" len="2/4">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Articulation>
+            <subtype>tenuto</subtype>
+            </Articulation>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="28" len="1/4">
+        <Beam id="33">
+          </Beam>
+        <Chord>
+          <BeamMode>begin</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>33</Beam>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>end</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>33</Beam>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="29">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <tick>35040</tick>
+        <Chord>
+          <track>5</track>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
           <Note>
             <track>5</track>
             <pitch>57</pitch>
@@ -2419,78 +2455,62 @@
           </Chord>
         <Chord>
           <track>5</track>
-          <BeamMode>mid</BeamMode>
-          <durationType>16th</durationType>
-          <Beam>32</Beam>
+          <BeamMode>no</BeamMode>
+          <durationType>quarter</durationType>
           <Note>
             <track>5</track>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Beam id="34">
+          <track>5</track>
+          </Beam>
+        <Chord>
+          <track>5</track>
+          <BeamMode>begin</BeamMode>
+          <durationType>eighth</durationType>
+          <Beam>34</Beam>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>natural</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
         <Chord>
           <track>5</track>
           <BeamMode>end</BeamMode>
-          <durationType>16th</durationType>
-          <Beam>32</Beam>
-          <Note>
-            <track>5</track>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="26">
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <tick>31200</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>eighth</durationType>
+          <Beam>34</Beam>
           <Note>
             <track>5</track>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="30">
         <Chord>
-          <track>5</track>
           <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>half</durationType>
           <Note>
-            <track>5</track>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="27">
-        <Rest>
-          <visible>0</visible>
+        <Chord>
+          <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <tick>32640</tick>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <tick>36480</tick>
         <Slur id="17">
           <track>5</track>
           <up>1</up>
@@ -2500,11 +2520,10 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Slur type="start" id="17"/>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2512,208 +2531,6 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Slur type="stop" id="17"/>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="28" len="2/4">
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <tick>34080</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Articulation>
-            <subtype>tenuto</subtype>
-            <track>5</track>
-            </Articulation>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="29" len="1/4">
-        <Rest>
-          <visible>0</visible>
-          <durationType>quarter</durationType>
-          </Rest>
-        <BarLine>
-          <subtype>normal</subtype>
-          <span>1</span>
-          </BarLine>
-        <tick>35040</tick>
-        <Beam id="33">
-          <track>5</track>
-          <StemDirection>down</StemDirection>
-          </Beam>
-        <Chord>
-          <track>5</track>
-          <BeamMode>begin</BeamMode>
-          <durationType>eighth</durationType>
-          <Beam>33</Beam>
-          <Note>
-            <track>5</track>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>end</BeamMode>
-          <durationType>eighth</durationType>
-          <Beam>33</Beam>
-          <Note>
-            <track>5</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="30">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <tick>35520</tick>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Beam id="34">
-          <track>5</track>
-          <StemDirection>down</StemDirection>
-          </Beam>
-        <Chord>
-          <track>5</track>
-          <BeamMode>begin</BeamMode>
-          <durationType>eighth</durationType>
-          <Beam>34</Beam>
-          <Note>
-            <track>5</track>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>end</BeamMode>
-          <durationType>eighth</durationType>
-          <Beam>34</Beam>
-          <Note>
-            <track>5</track>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="31">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <tick>36960</tick>
-        <Slur id="18">
-          <track>5</track>
-          <up>1</up>
-          </Slur>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Slur type="start" id="18"/>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>5</track>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <BeamMode>no</BeamMode>
-          <durationType>quarter</durationType>
-          <Slur type="stop" id="18"/>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>50</pitch>
@@ -2722,7 +2539,6 @@
           </Chord>
         <Beam id="35">
           <track>5</track>
-          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <track>5</track>
@@ -2742,16 +2558,19 @@
           <Beam>35</Beam>
           <Note>
             <track>5</track>
+            <Accidental>
+              <subtype>natural</subtype>
+              <track>5</track>
+              </Accidental>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="32">
+      <Measure number="31">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -2760,7 +2579,6 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -2769,18 +2587,16 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>38400</tick>
+        <tick>37920</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>55</pitch>
@@ -2791,16 +2607,18 @@
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
+            <Accidental>
+              <subtype>natural</subtype>
+              <track>5</track>
+              </Accidental>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
         <Beam id="36">
           <track>5</track>
-          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <track>5</track>
@@ -2825,11 +2643,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="33">
+      <Measure number="32">
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -2839,8 +2656,8 @@
           <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
-        <tick>39840</tick>
-        <Slur id="19">
+        <tick>39360</tick>
+        <Slur id="18">
           <track>5</track>
           <up>2</up>
           </Slur>
@@ -2848,8 +2665,7 @@
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="19"/>
-          <StemDirection>down</StemDirection>
+          <Slur type="start" id="18"/>
           <Note>
             <track>5</track>
             <pitch>50</pitch>
@@ -2860,8 +2676,7 @@
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="19"/>
-          <StemDirection>down</StemDirection>
+          <Slur type="stop" id="18"/>
           <Note>
             <track>5</track>
             <pitch>48</pitch>
@@ -2870,7 +2685,6 @@
           </Chord>
         <Beam id="37">
           <track>5</track>
-          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <track>5</track>
@@ -2879,6 +2693,10 @@
           <Beam>37</Beam>
           <Note>
             <track>5</track>
+            <Accidental>
+              <subtype>natural</subtype>
+              <track>5</track>
+              </Accidental>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
@@ -2917,13 +2735,13 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="34">
+      <Measure number="33">
         <Rest>
           <visible>0</visible>
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
           </Rest>
-        <tick>41280</tick>
+        <tick>40800</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -2932,7 +2750,6 @@
             <subtype>tenuto</subtype>
             <track>5</track>
             </Articulation>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>59</pitch>
@@ -2941,7 +2758,6 @@
           </Chord>
         <Beam id="38">
           <track>5</track>
-          <StemDirection>down</StemDirection>
           </Beam>
         <Chord>
           <track>5</track>
@@ -2988,13 +2804,13 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="35">
+      <Measure number="34">
         <Rest>
           <visible>0</visible>
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
           </Rest>
-        <tick>42720</tick>
+        <tick>42240</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
@@ -3003,7 +2819,6 @@
             <subtype>tenuto</subtype>
             <track>5</track>
             </Articulation>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>57</pitch>
@@ -3018,7 +2833,6 @@
             <subtype>staccato</subtype>
             <track>5</track>
             </Articulation>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>52</pitch>
@@ -3026,7 +2840,14 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="36">
+      <Measure number="35">
+        <Jump>
+          <style>Repeat Text Right</style>
+          <text>D.C. al Fine</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>fine</playUntil>
+          <continueAt></continueAt>
+          </Jump>
         <Jump>
           <style>Repeat Text Right</style>
           <text>D.C. al Fine</text>
@@ -3039,8 +2860,8 @@
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
           </Rest>
-        <tick>44160</tick>
-        <Slur id="20">
+        <tick>43680</tick>
+        <Slur id="19">
           <track>5</track>
           <up>1</up>
           </Slur>
@@ -3048,10 +2869,13 @@
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="start" id="20"/>
-          <StemDirection>down</StemDirection>
+          <Slur type="start" id="19"/>
           <Note>
             <track>5</track>
+            <Accidental>
+              <subtype>natural</subtype>
+              <track>5</track>
+              </Accidental>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
@@ -3060,8 +2884,7 @@
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="20"/>
-          <StemDirection>down</StemDirection>
+          <Slur type="stop" id="19"/>
           <Note>
             <track>5</track>
             <pitch>55</pitch>
@@ -3072,7 +2895,6 @@
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <track>5</track>
             <pitch>43</pitch>
@@ -3080,7 +2902,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="37" len="2/4">
+      <Measure number="36" len="2/4">
         <Rest>
           <visible>0</visible>
           <durationType>half</durationType>
@@ -3089,12 +2911,11 @@
           <subtype>double</subtype>
           <span>1</span>
           </BarLine>
-        <tick>45600</tick>
+        <tick>45120</tick>
         <Chord>
           <track>5</track>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <track>5</track>
             <pitch>48</pitch>
