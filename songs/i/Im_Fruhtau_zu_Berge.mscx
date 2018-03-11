@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.0.3</programVersion>
-  <programRevision>3c7a69d</programRevision>
+  <programVersion>2.1.0</programVersion>
+  <programRevision>871c8ce</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -47,6 +47,8 @@
     <metaTag name="workTitle">Im Frühtau zu Berge</metaTag>
     <PageList>
       <Page>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -130,6 +132,15 @@
           <Lyrics>
             <text>Im</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Ihr</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>Werft</text>
+            </Lyrics>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
@@ -143,6 +154,16 @@
             <syllabic>begin</syllabic>
             <text>Früh</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>al</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>ab</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -154,6 +175,17 @@
             <syllabic>end</syllabic>
             <text>tau</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ten</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>al</text>
+            </Lyrics>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -163,6 +195,16 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>zu</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>und</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>le</text>
             </Lyrics>
           <Note>
             <pitch>59</pitch>
@@ -177,6 +219,17 @@
             <syllabic>begin</syllabic>
             <text>Ber</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>hoch</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Sor</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -188,6 +241,17 @@
             <syllabic>end</syllabic>
             <text>ge</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>wei</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>gen</text>
+            </Lyrics>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -197,6 +261,16 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>wir</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>sen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>und</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -210,6 +284,15 @@
           <Lyrics>
             <text>ziehn,</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Leut’,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>Qual,</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -222,6 +305,17 @@
             <syllabic>begin</syllabic>
             <text>fal</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>fal</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>fal</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -230,6 +324,17 @@
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
+            <syllabic>middle</syllabic>
+            <text>le</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>le</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
             <syllabic>middle</syllabic>
             <text>le</text>
             </Lyrics>
@@ -246,6 +351,17 @@
             <syllabic>end</syllabic>
             <text>ra,</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ra.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>ra,</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -259,6 +375,15 @@
           <Lyrics>
             <text>es</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Ihr</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>und</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -267,10 +392,20 @@
         </Measure>
       <Measure number="6">
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>grü</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>denkt</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>wan</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -283,16 +418,15 @@
             <syllabic>end</syllabic>
             <text>nen</text>
             </Lyrics>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>al</text>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>wohl,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>dert</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -302,8 +436,16 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
-            <text>le</text>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>wir</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>mit</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -318,6 +460,17 @@
             <syllabic>begin</syllabic>
             <text>Wäl</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>wä</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <ticks>240</ticks>
+            <text>uns</text>
+            </Lyrics>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -326,8 +479,10 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
+            <no>1</no>
             <syllabic>end</syllabic>
-            <text>der,</text>
+            <style>Lyrics Even Lines</style>
+            <text>ren</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -337,8 +492,17 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>al</text>
+            <syllabic>end</syllabic>
+            <text>der,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>nicht</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>aus</text>
             </Lyrics>
           <Note>
             <pitch>68</pitch>
@@ -348,8 +512,17 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
-            <text>le</text>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ge</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>dem</text>
             </Lyrics>
           <Note>
             <pitch>66</pitch>
@@ -361,7 +534,17 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>Höh´n,</text>
+            <text>Höh’n,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>scheit,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>Tal,</text>
             </Lyrics>
           <Note>
             <pitch>68</pitch>
@@ -372,6 +555,17 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>fal</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>fal</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
             <syllabic>begin</syllabic>
             <text>fal</text>
             </Lyrics>
@@ -386,6 +580,17 @@
             <syllabic>middle</syllabic>
             <text>le</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>le</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>le</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -396,6 +601,17 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ra.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ra.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
             <syllabic>end</syllabic>
             <text>ra.</text>
             </Lyrics>
@@ -417,6 +633,15 @@
           <Lyrics>
             <text>Wir</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>Wer</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>Wir</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -430,6 +655,16 @@
             <syllabic>begin</syllabic>
             <text>wan</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>wol</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>sind</text>
+            </Lyrics>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -440,6 +675,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>dern</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>lte</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>hin</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -452,6 +698,17 @@
             <syllabic>begin</syllabic>
             <text>oh</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>a</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>aus</text>
+            </Lyrics>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -462,6 +719,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>ne</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>ber</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>ge</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -476,16 +744,54 @@
             <syllabic>begin</syllabic>
             <text>Sor</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>sin</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>gan</text>
+            </Lyrics>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>gen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>gen,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>gen,</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>wenn</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>den</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -500,6 +806,16 @@
             <syllabic>begin</syllabic>
             <text>sin</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>wir</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>Son</text>
+            </Lyrics>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -511,6 +827,16 @@
             <syllabic>end</syllabic>
             <text>gend</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>schon</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>middle</syllabic>
+            <text>nen</text>
+            </Lyrics>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -520,6 +846,17 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>in</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Gril</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>schein</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -531,6 +868,16 @@
           <Lyrics>
             <text>den</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>len</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>zu</text>
+            </Lyrics>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -538,19 +885,22 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <StaffText>
-          <pos x="-85.6147" y="57.05"/>
-          <text><font size="12"></font>2. Ihr alten und hochweisen Leut´, fallera,
-    ihr denkt wohl, wir sind nicht gescheit, fallera?
-    I: Wer wollte aber singen, wenn wir schon
-    Grillen finden in dieser herrlichen 
-    Frühlingszeit? :I</text>
-          </StaffText>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>Mor</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>fin</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>fan</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
@@ -563,6 +913,17 @@
             <syllabic>end</syllabic>
             <text>gen,</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>gen,</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>gen,</text>
+            </Lyrics>
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -572,6 +933,15 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>noch</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <style>Lyrics Even Lines</style>
+            <text>in</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>kommt</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -586,6 +956,16 @@
             <syllabic>begin</syllabic>
             <text>e</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>mit</text>
+            </Lyrics>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
@@ -597,6 +977,17 @@
             <syllabic>end</syllabic>
             <text>he</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <ticks>240</ticks>
+            <style>Lyrics Even Lines</style>
+            <text>ser</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>und</text>
+            </Lyrics>
           <Note>
             <pitch>63</pitch>
             <tpc>23</tpc>
@@ -607,6 +998,11 @@
           <Lyrics>
             <text>im</text>
             </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>ver</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -614,20 +1010,22 @@
           </Chord>
         </Measure>
       <Measure number="16">
-        <StaffText>
-          <pos x="-26.7353" y="17.2735"/>
-          <text><font size="12"></font>3. Werft ab alle Sorge und Qual, fallera,
-    und wandert mit uns aus dem Tal, fallera!
-    I: Wir sind hinaus gegangen, 
-    den Sonnenschein zu fangen:
-    Kommt mit und versucht es auch selbst
-    einmal! :I</text>
-          </StaffText>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>Ta</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>herr</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>sucht</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -640,6 +1038,16 @@
             <syllabic>end</syllabic>
             <text>le</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>li</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>es</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -649,6 +1057,16 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <text>die</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>chen</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>doch</text>
             </Lyrics>
           <Note>
             <pitch>63</pitch>
@@ -663,6 +1081,16 @@
             <syllabic>begin</syllabic>
             <text>Häh</text>
             </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>begin</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>Früh</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <text>auch</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -673,6 +1101,17 @@
           <Lyrics>
             <syllabic>end</syllabic>
             <text>ne</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>middle</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>lings</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>begin</syllabic>
+            <text>ein</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -686,6 +1125,17 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <text>krähn.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>1</no>
+            <syllabic>end</syllabic>
+            <style>Lyrics Even Lines</style>
+            <text>zeit.</text>
+            </Lyrics>
+          <Lyrics>
+            <no>2</no>
+            <syllabic>end</syllabic>
+            <text>mal.</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
