@@ -163,9 +163,6 @@
           </Text>
         </VBox>
       <Measure number="1" len="1/8">
-        <KeySig>
-          <accidental>0</accidental>
-          </KeySig>
         <TimeSig>
           <sigN>4</sigN>
           <sigD>4</sigD>
@@ -492,6 +489,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Slur id="2">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -509,6 +509,7 @@
             <ticks>240</ticks>
             <text>uns</text>
             </Lyrics>
+          <Slur type="start" id="2"/>
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
@@ -522,6 +523,7 @@
             <style>Lyrics Even Lines</style>
             <text>ren</text>
             </Lyrics>
+          <Slur type="stop" id="2"/>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -789,10 +791,15 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Slur id="3">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
+            <ticks>240</ticks>
             <text>gen</text>
             </Lyrics>
           <Lyrics>
@@ -806,6 +813,7 @@
             <syllabic>end</syllabic>
             <text>gen,</text>
             </Lyrics>
+          <Slur type="start" id="3"/>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -822,6 +830,7 @@
             <no>2</no>
             <text>den</text>
             </Lyrics>
+          <Slur type="stop" id="3"/>
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
@@ -998,6 +1007,10 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Slur id="4">
+          <track>0</track>
+          <lineType>1</lineType>
+          </Slur>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1015,6 +1028,7 @@
             <no>2</no>
             <text>und</text>
             </Lyrics>
+          <Slur type="start" id="4"/>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -1030,6 +1044,7 @@
             <syllabic>begin</syllabic>
             <text>ver</text>
             </Lyrics>
+          <Slur type="stop" id="4"/>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -1167,6 +1182,10 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     <Staff id="2">
@@ -1175,9 +1194,6 @@
           <concertClefType>G8vb</concertClefType>
           <transposingClefType>G8vb</transposingClefType>
           </Clef>
-        <KeySig>
-          <accidental>0</accidental>
-          </KeySig>
         <TimeSig>
           <sigN>4</sigN>
           <sigD>4</sigD>
@@ -1368,6 +1384,10 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     </Score>
