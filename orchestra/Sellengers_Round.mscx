@@ -32,9 +32,8 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Melodie: John Playford 1670
-Arrangement: Josef Friedrich</metaTag>
-    <metaTag name="copyright">Copyright © </metaTag>
+    <metaTag name="composer">John Playford 1670</metaTag>
+    <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-03-21</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
@@ -885,13 +884,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="4">
-        <Volta id="6">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -912,13 +904,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="5">
-        <endSpanner id="6"/>
-        <Volta id="7">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -939,7 +924,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="6">
-        <endSpanner id="7"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1101,13 +1085,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="13">
-        <Volta id="8">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1128,13 +1105,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="14">
-        <endSpanner id="8"/>
-        <Volta id="9">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1153,7 +1123,6 @@ Kontrabass</longName>
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <endSpanner id="9"/>
         </Measure>
       </Staff>
     <Staff id="3">
@@ -1227,13 +1196,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="4">
-        <Volta id="10">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1254,13 +1216,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="5">
-        <endSpanner id="10"/>
-        <Volta id="11">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1281,7 +1236,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="6">
-        <endSpanner id="11"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1443,13 +1397,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="13">
-        <Volta id="12">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1470,13 +1417,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="14">
-        <endSpanner id="12"/>
-        <Volta id="13">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1495,7 +1435,6 @@ Kontrabass</longName>
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <endSpanner id="13"/>
         </Measure>
       </Staff>
     <Staff id="4">
@@ -1569,13 +1508,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="4">
-        <Volta id="14">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1603,13 +1535,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="5">
-        <endSpanner id="14"/>
-        <Volta id="15">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1637,7 +1562,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="6">
-        <endSpanner id="15"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1807,13 +1731,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="13">
-        <Volta id="16">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1841,13 +1758,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="14">
-        <endSpanner id="16"/>
-        <Volta id="17">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
@@ -1873,7 +1783,6 @@ Kontrabass</longName>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <endSpanner id="17"/>
         </Measure>
       </Staff>
     <Staff id="5">
@@ -1961,7 +1870,7 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="4">
-        <Volta id="18">
+        <Volta id="6">
           <endHook>1</endHook>
           <beginText>
             <text>1</text>
@@ -1988,8 +1897,8 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="5">
-        <endSpanner id="18"/>
-        <Volta id="19">
+        <endSpanner id="6"/>
+        <Volta id="7">
           <beginText>
             <text>2</text>
             </beginText>
@@ -2015,7 +1924,7 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="6">
-        <endSpanner id="19"/>
+        <endSpanner id="7"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2205,13 +2114,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="13">
-        <Volta id="20">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2232,13 +2134,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="14">
-        <endSpanner id="20"/>
-        <Volta id="21">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2261,7 +2156,6 @@ Kontrabass</longName>
           <subtype>end</subtype>
           <span>2</span>
           </BarLine>
-        <endSpanner id="21"/>
         </Measure>
       </Staff>
     <Staff id="6">
@@ -2325,13 +2219,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="4">
-        <Volta id="22">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2352,13 +2239,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="5">
-        <endSpanner id="22"/>
-        <Volta id="23">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2379,7 +2259,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="6">
-        <endSpanner id="23"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2500,13 +2379,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="13">
-        <Volta id="24">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2527,13 +2399,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="14">
-        <endSpanner id="24"/>
-        <Volta id="25">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2556,7 +2421,6 @@ Kontrabass</longName>
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
-        <endSpanner id="25"/>
         </Measure>
       </Staff>
     <Staff id="7">
@@ -2771,13 +2635,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="4">
-        <Volta id="26">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2831,13 +2688,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="5">
-        <endSpanner id="26"/>
-        <Volta id="27">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -2898,7 +2748,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="6">
-        <endSpanner id="27"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -3427,13 +3276,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="13">
-        <Volta id="28">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -3494,13 +3336,6 @@ Kontrabass</longName>
           </Chord>
         </Measure>
       <Measure number="14">
-        <endSpanner id="28"/>
-        <Volta id="29">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -3523,7 +3358,6 @@ Kontrabass</longName>
           <subtype>end</subtype>
           <span>2</span>
           </BarLine>
-        <endSpanner id="29"/>
         <tick>37440</tick>
         <Chord>
           <track>25</track>

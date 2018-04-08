@@ -9,6 +9,7 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <hideEmptyStaves>1</hideEmptyStaves>
       <page-layout>
         <page-height>1683.78</page-height>
         <page-width>1190.55</page-width>
@@ -41,7 +42,7 @@
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://musescore.com/user/28403192/scores/5047998</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -51,20 +52,14 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
       <Page>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         </Page>
@@ -256,19 +251,58 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <trackName>Violoncello 2
-Kontrabass
-</trackName>
+      <trackName>Violoncello 2 Kontrabass</trackName>
       <Instrument>
-        <longName>Violoncello 2
-Kontrabass
-</longName>
-        <shortName>Db.</shortName>
-        <trackName>Kontrabass</trackName>
+        <longName>Contrabass</longName>
+        <shortName>Cb.</shortName>
+        <trackName>Contrabass</trackName>
+        <minPitchP>28</minPitchP>
+        <maxPitchP>67</maxPitchP>
+        <minPitchA>28</minPitchA>
+        <maxPitchA>62</maxPitchA>
+        <transposeDiatonic>-7</transposeDiatonic>
+        <transposeChromatic>-12</transposeChromatic>
+        <instrumentId>strings.contrabass</instrumentId>
+        <concertClef>F8vb</concertClef>
+        <transposingClef>F</transposingClef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
           <program value="43"/>
-          <controller ctrl="7" value="90"/>
-          <controller ctrl="10" value="95"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="32"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -1267,6 +1301,7 @@ Kontrabass
       <Measure number="25">
         <irregular/>
         <StaffText>
+          <pos x="-0.827857" y="-5.60098"/>
           <xoffset>0</xoffset>
           <yoffset>-2.6</yoffset>
           <frame>1</frame>
@@ -3312,6 +3347,9 @@ Kontrabass
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
           </Clef>
+        <KeySig>
+          <accidental>0</accidental>
+          </KeySig>
         <TimeSig>
           <sigN>6</sigN>
           <sigD>4</sigD>
@@ -3326,7 +3364,7 @@ Kontrabass
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>48</pitch>
+            <pitch>36</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -3335,7 +3373,7 @@ Kontrabass
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>50</pitch>
+            <pitch>38</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -3346,7 +3384,7 @@ Kontrabass
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>48</pitch>
+            <pitch>36</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -3361,7 +3399,7 @@ Kontrabass
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>48</pitch>
+            <pitch>36</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -3370,7 +3408,7 @@ Kontrabass
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>50</pitch>
+            <pitch>38</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -3381,7 +3419,7 @@ Kontrabass
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>48</pitch>
+            <pitch>36</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
