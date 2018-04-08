@@ -1,30 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.1.0</programVersion>
   <programRevision>871c8ce</programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
       </Synthesizer>
     <Division>480</Division>
+    <Style>
+      <page-layout>
+        <page-height>1683.78</page-height>
+        <page-width>1190.55</page-width>
+        <page-margins type="even">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        <page-margins type="odd">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        </page-layout>
+      <Spatium>1.76389</Spatium>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger"/>
-    <metaTag name="composer">Arrangement: Josef Friedrich 2 / 2009</metaTag>
-    <metaTag name="copyright"/>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer"></metaTag>
+    <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-03-21</metaTag>
-    <metaTag name="lyricist"/>
-    <metaTag name="movementNumber"/>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle">Swing her round</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
-    <metaTag name="poet"/>
-    <metaTag name="source"/>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber"/>
-    <metaTag name="workTitle"/>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source">https://musescore.com/user/28402917/scores/5047980</metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle"></metaTag>
     <PageList>
       <Page>
         <System>
@@ -33,10 +53,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         </Page>
@@ -49,12 +65,52 @@
         </Staff>
       <trackName>Violine</trackName>
       <Instrument>
-        <longName>Violine</longName>
-        <shortName>Vln. I</shortName>
-        <trackName>Violin I</trackName>
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
+        <trackName>Violin</trackName>
+        <minPitchP>55</minPitchP>
+        <maxPitchP>103</maxPitchP>
+        <minPitchA>55</minPitchA>
+        <maxPitchA>88</maxPitchA>
+        <instrumentId>strings.violin</instrumentId>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
           <program value="40"/>
-          <controller ctrl="10" value="16"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -66,15 +122,55 @@
         <bracket type="0" span="3"/>
         <barLineSpan>3</barLineSpan>
         </Staff>
-      <trackName>Violoncello I</trackName>
+      <trackName>Violoncello</trackName>
       <Instrument>
-        <longName>Violoncello I</longName>
+        <longName>Violoncello</longName>
         <shortName>Vc.</shortName>
         <trackName>Violoncello</trackName>
+        <minPitchP>36</minPitchP>
+        <maxPitchP>90</maxPitchP>
+        <minPitchA>36</minPitchA>
+        <maxPitchA>67</maxPitchA>
+        <instrumentId>strings.cello</instrumentId>
+        <clef>F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
           <program value="42"/>
-          <controller ctrl="7" value="90"/>
-          <controller ctrl="10" value="95"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -85,15 +181,55 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <trackName>Violoncello II</trackName>
+      <trackName>Violoncello</trackName>
       <Instrument>
-        <longName>Violoncello II</longName>
+        <longName>Violoncello</longName>
         <shortName>Vc.</shortName>
         <trackName>Violoncello</trackName>
+        <minPitchP>36</minPitchP>
+        <maxPitchP>90</maxPitchP>
+        <minPitchA>36</minPitchA>
+        <maxPitchA>67</maxPitchA>
+        <instrumentId>strings.cello</instrumentId>
+        <clef>F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
           <program value="42"/>
-          <controller ctrl="7" value="90"/>
-          <controller ctrl="10" value="95"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -106,13 +242,56 @@
         </Staff>
       <trackName>Kontrabass</trackName>
       <Instrument>
-        <longName>Kontrabass</longName>
+        <longName>Double Bass</longName>
         <shortName>Db.</shortName>
         <trackName>Double Bass</trackName>
+        <minPitchP>28</minPitchP>
+        <maxPitchP>67</maxPitchP>
+        <minPitchA>28</minPitchA>
+        <maxPitchA>62</maxPitchA>
+        <transposeDiatonic>-7</transposeDiatonic>
+        <transposeChromatic>-12</transposeChromatic>
+        <instrumentId>strings.contrabass</instrumentId>
+        <concertClef>F8vb</concertClef>
+        <transposingClef>F</transposingClef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
           <program value="43"/>
-          <controller ctrl="7" value="90"/>
-          <controller ctrl="10" value="95"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="32"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -123,10 +302,6 @@
         <Text>
           <style>Title</style>
           <text>Swing her round</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Arrangement: Josef Friedrich 2 / 2009</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -152,18 +327,25 @@
           <durationType>eighth</durationType>
           </Rest>
         <StaffText>
+          <pos x="0.329726" y="-3.3189"/>
           <xoffset>0</xoffset>
           <yoffset>-2</yoffset>
           <text>divisi</text>
           </StaffText>
+        <Dynamic>
+          <subtype>p</subtype>
+          <velocity>49</velocity>
+          </Dynamic>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <Fingering>
+              <pos x="-0.626479" y="-5.9021"/>
               <text>1</text>
               </Fingering>
             <Fingering>
+              <pos x="-1.18701" y="0.989178"/>
               <text>0</text>
               </Fingering>
             <pitch>62</pitch>
@@ -247,9 +429,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Fingering>
+              <pos x="-1.18701" y="-6.4956"/>
               <text>2</text>
               </Fingering>
             <Fingering>
+              <pos x="-1.12107" y="0.560534"/>
               <text>0</text>
               </Fingering>
             <pitch>62</pitch>
@@ -818,6 +1002,10 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>f</subtype>
+          <velocity>96</velocity>
+          </Dynamic>
         <Beam id="1">
           </Beam>
         <Chord>
@@ -1953,6 +2141,10 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>p</subtype>
+          <velocity>49</velocity>
+          </Dynamic>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2313,13 +2505,16 @@
           </Clef>
         <KeySig>
           <accidental>1</accidental>
-          <mode>major</mode>
           </KeySig>
         <TimeSig>
           <sigN>2</sigN>
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>p</subtype>
+          <velocity>49</velocity>
+          </Dynamic>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>

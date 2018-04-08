@@ -1,30 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.1.0</programVersion>
   <programRevision>871c8ce</programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
       </Synthesizer>
     <Division>480</Division>
+    <Style>
+      <page-layout>
+        <page-height>1683.78</page-height>
+        <page-width>1190.55</page-width>
+        <page-margins type="even">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        <page-margins type="odd">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        </page-layout>
+      <Spatium>1.76389</Spatium>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger"/>
-    <metaTag name="composer">Arrangement: Josef Friedrich 4 / 2009</metaTag>
-    <metaTag name="copyright"/>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer"></metaTag>
+    <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-03-21</metaTag>
-    <metaTag name="lyricist"/>
-    <metaTag name="movementNumber"/>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle">Rose Bow</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
-    <metaTag name="poet"/>
-    <metaTag name="source"/>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber"/>
-    <metaTag name="workTitle"/>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source">https://musescore.com/user/28402917/scores/5047971</metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle"></metaTag>
     <PageList>
       <Page>
         <System>
@@ -47,14 +67,54 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <trackName>Violine</trackName>
+      <trackName>Violin</trackName>
       <Instrument>
-        <longName>Violine</longName>
+        <longName>Violin</longName>
         <shortName>Vln.</shortName>
-        <trackName>Violin I</trackName>
+        <trackName>Violin</trackName>
+        <minPitchP>55</minPitchP>
+        <maxPitchP>103</maxPitchP>
+        <minPitchA>55</minPitchA>
+        <maxPitchA>88</maxPitchA>
+        <instrumentId>strings.violin</instrumentId>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
           <program value="40"/>
-          <controller ctrl="10" value="16"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -69,12 +129,52 @@
       <trackName>Violoncello 1</trackName>
       <Instrument>
         <longName>Violoncello 1</longName>
-        <shortName>Vc.</shortName>
+        <shortName>Vc. 1</shortName>
         <trackName>Violoncello</trackName>
+        <minPitchP>36</minPitchP>
+        <maxPitchP>90</maxPitchP>
+        <minPitchA>36</minPitchA>
+        <maxPitchA>67</maxPitchA>
+        <instrumentId>strings.cello</instrumentId>
+        <clef>F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
           <program value="42"/>
-          <controller ctrl="7" value="90"/>
-          <controller ctrl="10" value="95"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -106,13 +206,56 @@
         </Staff>
       <trackName>Solo-Kontrabass</trackName>
       <Instrument>
-        <longName>Solo-Kontrabass</longName>
-        <shortName>Kb.</shortName>
-        <trackName>Double Bass</trackName>
+        <longName>Contrabass</longName>
+        <shortName>Cb.</shortName>
+        <trackName>Contrabass</trackName>
+        <minPitchP>28</minPitchP>
+        <maxPitchP>67</maxPitchP>
+        <minPitchA>28</minPitchA>
+        <maxPitchA>62</maxPitchA>
+        <transposeDiatonic>-7</transposeDiatonic>
+        <transposeChromatic>-12</transposeChromatic>
+        <instrumentId>strings.contrabass</instrumentId>
+        <concertClef>F8vb</concertClef>
+        <transposingClef>F</transposingClef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
           <program value="43"/>
-          <controller ctrl="7" value="90"/>
-          <controller ctrl="10" value="95"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="32"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -123,10 +266,6 @@
         <Text>
           <style>Title</style>
           <text>Rose Bow</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Arrangement: Josef Friedrich 4 / 2009</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -149,6 +288,7 @@
           <text><sym>unicodeNoteQuarterUp</sym> = 100</text>
           </Tempo>
         <StaffText>
+          <pos x="-0.438865" y="-2.96769"/>
           <xoffset>0</xoffset>
           <yoffset>-1.3</yoffset>
           <text>pizz.</text>
@@ -166,9 +306,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>2</text>
               </Fingering>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>66</pitch>
@@ -226,6 +368,7 @@
         </Measure>
       <Measure number="3">
         <StaffText>
+          <pos x="-0.702184" y="-5.76048"/>
           <xoffset>0</xoffset>
           <yoffset>-4.4</yoffset>
           <text>arco</text>
@@ -237,10 +380,12 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>downbow</subtype>
+            <pos x="0.570508" y="-2.1583"/>
             </Articulation>
           <Beam>1</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -255,6 +400,7 @@
           <Beam>1</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -271,6 +417,7 @@
           <Beam>2</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -287,11 +434,13 @@
           <durationType>16th</durationType>
           <Articulation>
             <subtype>upbow</subtype>
+            <pos x="0.438849" y="-2.09716"/>
             </Articulation>
           <Beam>2</Beam>
           <Slur type="start" id="2"/>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>74</pitch>
@@ -307,6 +456,7 @@
           <Slur type="stop" id="2"/>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -325,6 +475,7 @@
           <Beam>3</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -339,6 +490,7 @@
           <Beam>3</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -355,6 +507,7 @@
           <Beam>4</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -369,6 +522,7 @@
           <Beam>4</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>81</pitch>
@@ -380,6 +534,7 @@
         </Measure>
       <Measure number="5">
         <StaffText>
+          <pos x="-0.746071" y="-2.96769"/>
           <xoffset>0</xoffset>
           <yoffset>-1.3</yoffset>
           <text>pizz.</text>
@@ -388,6 +543,7 @@
           <durationType>eighth</durationType>
           </Rest>
         <StaffText>
+          <pos x="-0.614411" y="-4.37271"/>
           <xoffset>0</xoffset>
           <yoffset>-3.1</yoffset>
           <text>divisi</text>
@@ -397,9 +553,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Fingering>
+              <pos x="-0.992142" y="1.29149"/>
               <text>2</text>
               </Fingering>
             <Fingering>
+              <pos x="-0.202184" y="-4.54542"/>
               <text>0</text>
               </Fingering>
             <pitch>66</pitch>
@@ -468,10 +626,12 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>downbow</subtype>
+            <pos x="-1.84325" y="-2.59716"/>
             </Articulation>
           <Beam>5</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -486,6 +646,7 @@
           <Beam>5</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -502,6 +663,7 @@
           <Beam>6</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -518,11 +680,13 @@
           <durationType>16th</durationType>
           <Articulation>
             <subtype>upbow</subtype>
+            <pos x="0.789941" y="-2.27271"/>
             </Articulation>
           <Beam>6</Beam>
           <Slur type="start" id="3"/>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>74</pitch>
@@ -538,6 +702,7 @@
           <Slur type="stop" id="3"/>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -557,6 +722,7 @@
           <Beam>7</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -571,6 +737,7 @@
           <Beam>7</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -584,6 +751,7 @@
           <durationType>quarter</durationType>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>74</pitch>
@@ -595,10 +763,6 @@
         </Measure>
       <Measure number="9">
         <startRepeat/>
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>1</span>
-          </BarLine>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-1.5</yoffset>
@@ -612,9 +776,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Fingering>
+              <pos x="-0.960324" y="1.91367"/>
               <text>3</text>
               </Fingering>
             <Fingering>
+              <pos x="0.324761" y="-4.92065"/>
               <text>0</text>
               </Fingering>
             <pitch>67</pitch>
@@ -650,9 +816,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Fingering>
+              <pos x="-0.551433" y="-5.56319"/>
               <text>1</text>
               </Fingering>
             <Fingering>
+              <pos x="-1.3108" y="0.219693"/>
               <text>0</text>
               </Fingering>
             <pitch>62</pitch>
@@ -688,9 +856,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Fingering>
+              <pos x="-0.843498" y="1.68002"/>
               <text>2</text>
               </Fingering>
             <Fingering>
+              <pos x="-1.07715" y="-5.03747"/>
               <text>0</text>
               </Fingering>
             <pitch>66</pitch>
@@ -726,9 +896,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Fingering>
+              <pos x="-1.21157" y="1.20372"/>
               <text>2</text>
               </Fingering>
             <Fingering>
+              <pos x="0.5" y="-5.42315"/>
               <text>0</text>
               </Fingering>
             <pitch>66</pitch>
@@ -764,9 +936,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Fingering>
+              <pos x="-0.684936" y="1.86201"/>
               <text>3</text>
               </Fingering>
             <Fingering>
+              <pos x="-0.597163" y="-4.32599"/>
               <text>0</text>
               </Fingering>
             <pitch>67</pitch>
@@ -802,9 +976,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Fingering>
+              <pos x="-0.246071" y="2.30088"/>
               <text>3</text>
               </Fingering>
             <Fingering>
+              <pos x="-0.465504" y="-4.10655"/>
               <text>0</text>
               </Fingering>
             <pitch>67</pitch>
@@ -843,6 +1019,7 @@
           <durationType>eighth</durationType>
           </Rest>
         <StaffText>
+          <pos x="-0.0877731" y="-5.97489"/>
           <text>arco</text>
           </StaffText>
         <Chord>
@@ -850,9 +1027,11 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>upbow</subtype>
+            <pos x="-1.18495" y="-1.9655"/>
             </Articulation>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>2</text>
               </Fingering>
             <pitch>73</pitch>
@@ -869,6 +1048,7 @@
           <Beam>8</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>74</pitch>
@@ -883,6 +1063,7 @@
           <Beam>8</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -902,6 +1083,7 @@
           <Beam>9</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -959,6 +1141,7 @@
         </Measure>
       <Measure number="17">
         <StaffText>
+          <pos x="2.687" y="-5.14637"/>
           <xoffset>0</xoffset>
           <yoffset>-1.7</yoffset>
           <text>arco</text>
@@ -978,9 +1161,11 @@
             </Articulation>
           <Note>
             <Fingering>
+              <pos x="0.383174" y="-5.32954"/>
               <text>0</text>
               </Fingering>
             <Fingering>
+              <pos x="-1.71969" y="0.511758"/>
               <text>3</text>
               </Fingering>
             <pitch>62</pitch>
@@ -1074,6 +1259,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
+          <pos x="-0.13166" y="-3.21878"/>
           <xoffset>0</xoffset>
           <yoffset>-1.2</yoffset>
           <text>pizz.</text>
@@ -1386,10 +1572,6 @@
           </Chord>
         </Measure>
       <Measure number="9">
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>3</span>
-          </BarLine>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -1630,13 +1812,6 @@
           </Chord>
         </Measure>
       <Measure number="15">
-        <Volta id="7">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -1718,17 +1893,11 @@
         </Measure>
       <Measure number="17">
         <StaffText>
+          <pos x="-2.39493" y="-4.91969"/>
           <xoffset>0</xoffset>
           <yoffset>-2.7</yoffset>
           <text>arco</text>
           </StaffText>
-        <endSpanner id="7"/>
-        <Volta id="8">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1786,7 +1955,6 @@
           <subtype>end</subtype>
           <span>3</span>
           </BarLine>
-        <endSpanner id="8"/>
         </Measure>
       </Staff>
     <Staff id="3">
@@ -1805,6 +1973,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
+          <pos x="-0.833844" y="-2.33603"/>
           <xoffset>0</xoffset>
           <yoffset>-0.8</yoffset>
           <text>pizz.</text>
@@ -1986,6 +2155,7 @@
         </Measure>
       <Measure number="9">
         <StaffText>
+          <pos x="-0.233652" y="-2.58509"/>
           <xoffset>0</xoffset>
           <yoffset>-1.3</yoffset>
           <text>pizz.</text>
@@ -2122,13 +2292,6 @@
           </Chord>
         </Measure>
       <Measure number="15">
-        <Volta id="9">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2174,17 +2337,11 @@
         </Measure>
       <Measure number="17">
         <StaffText>
+          <pos x="-0.876195" y="-3.06921"/>
           <xoffset>0</xoffset>
           <yoffset>-1.2</yoffset>
           <text>arco</text>
           </StaffText>
-        <endSpanner id="9"/>
-        <Volta id="10">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -2220,7 +2377,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <endSpanner id="10"/>
         </Measure>
       </Staff>
     <Staff id="4">
@@ -2231,7 +2387,6 @@
           </Clef>
         <KeySig>
           <accidental>2</accidental>
-          <mode>major</mode>
           </KeySig>
         <TimeSig>
           <sigN>2</sigN>
@@ -2239,6 +2394,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
+          <pos x="-4.12533" y="-2.51441"/>
           <xoffset>0</xoffset>
           <yoffset>-1.9</yoffset>
           <text>arco</text>
@@ -2251,6 +2407,7 @@
           <Beam>10</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>45</pitch>
@@ -2265,6 +2422,7 @@
           <Beam>10</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>43</pitch>
@@ -2279,6 +2437,7 @@
           <Beam>10</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>42</pitch>
@@ -2293,6 +2452,7 @@
           <Beam>10</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>40</pitch>
@@ -2309,6 +2469,7 @@
           <Beam>11</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>38</pitch>
@@ -2323,6 +2484,7 @@
           <Beam>11</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>40</pitch>
@@ -2337,6 +2499,7 @@
           <Beam>11</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>42</pitch>
@@ -2351,6 +2514,7 @@
           <Beam>11</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>43</pitch>
@@ -2369,6 +2533,7 @@
           <Beam>12</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>45</pitch>
@@ -2383,6 +2548,7 @@
           <Beam>12</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>50</pitch>
@@ -2399,6 +2565,7 @@
           <Beam>13</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>45</pitch>
@@ -2413,6 +2580,7 @@
           <Beam>13</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>50</pitch>
@@ -2436,6 +2604,7 @@
         </Measure>
       <Measure number="5">
         <StaffText>
+          <pos x="0.921617" y="-4.48931"/>
           <xoffset>0</xoffset>
           <yoffset>-1.9</yoffset>
           <text>arco</text>
@@ -2448,6 +2617,7 @@
           <Beam>14</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>45</pitch>
@@ -2462,6 +2632,7 @@
           <Beam>14</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>43</pitch>
@@ -2476,6 +2647,7 @@
           <Beam>14</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>42</pitch>
@@ -2490,6 +2662,7 @@
           <Beam>14</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>40</pitch>
@@ -2506,6 +2679,7 @@
           <Beam>15</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>38</pitch>
@@ -2520,6 +2694,7 @@
           <Beam>15</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>40</pitch>
@@ -2534,6 +2709,7 @@
           <Beam>15</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>42</pitch>
@@ -2548,6 +2724,7 @@
           <Beam>15</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>43</pitch>
@@ -2566,6 +2743,7 @@
           <Beam>16</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>45</pitch>
@@ -2580,6 +2758,7 @@
           <Beam>16</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>50</pitch>
@@ -2596,6 +2775,7 @@
           <Beam>17</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>45</pitch>
@@ -2610,6 +2790,7 @@
           <Beam>17</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>50</pitch>
@@ -2637,6 +2818,7 @@
           <durationType>quarter</durationType>
           <Note>
             <Fingering>
+              <pos x="-1.13556" y="-1.35746"/>
               <text>3</text>
               </Fingering>
             <pitch>55</pitch>
@@ -2676,6 +2858,7 @@
           <Beam>18</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>47</pitch>
@@ -2692,6 +2875,7 @@
           <Beam>19</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>50</pitch>
@@ -2706,6 +2890,7 @@
           <Beam>19</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>52</pitch>
@@ -2721,6 +2906,7 @@
           <durationType>quarter</durationType>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>54</pitch>
@@ -2742,16 +2928,17 @@
         </Measure>
       <Measure number="12">
         <StaffText>
+          <pos x="-0.394979" y="-4.89716"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
           <text>3 4</text>
           </StaffText>
-        <Slur id="11">
+        <Slur id="7">
           <track>12</track>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="11"/>
+          <Slur type="start" id="7"/>
           <acciaccatura/>
           <Note>
             <Accidental>
@@ -2764,7 +2951,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="11"/>
+          <Slur type="stop" id="7"/>
           <Note>
             <Accidental>
               <subtype>sharp</subtype>
@@ -2780,6 +2967,7 @@
           <durationType>quarter</durationType>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>50</pitch>
@@ -2795,6 +2983,7 @@
           <durationType>quarter</durationType>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>52</pitch>
@@ -2812,6 +3001,7 @@
           <Beam>20</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>52</pitch>
@@ -2825,10 +3015,12 @@
           <durationType>16th</durationType>
           <Articulation>
             <subtype>upbow</subtype>
+            <pos x="1.27269" y="-3.83384"/>
             </Articulation>
           <Beam>20</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>50</pitch>
@@ -2847,6 +3039,7 @@
           <Beam>21</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>49</pitch>
@@ -2861,6 +3054,7 @@
           <Beam>21</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>45</pitch>
@@ -2877,6 +3071,7 @@
           <Beam>22</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>47</pitch>
@@ -2891,6 +3086,7 @@
           <Beam>22</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>49</pitch>
@@ -2901,13 +3097,6 @@
           </Chord>
         </Measure>
       <Measure number="15">
-        <Volta id="12">
-          <endHook>1</endHook>
-          <beginText>
-            <text>1</text>
-            </beginText>
-          <endings>1</endings>
-          </Volta>
         <Beam id="23">
           </Beam>
         <Chord>
@@ -2916,6 +3105,7 @@
           <Beam>23</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>50</pitch>
@@ -2930,6 +3120,7 @@
           <Beam>23</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>49</pitch>
@@ -2946,6 +3137,7 @@
           <Beam>24</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>50</pitch>
@@ -2960,6 +3152,7 @@
           <Beam>24</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>52</pitch>
@@ -2978,6 +3171,7 @@
           <Beam>25</Beam>
           <Note>
             <Fingering>
+              <pos x="1.94826" y="-2.08777"/>
               <text>4</text>
               </Fingering>
             <pitch>54</pitch>
@@ -3038,6 +3232,7 @@
           <Beam>26</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>50</pitch>
@@ -3048,18 +3243,12 @@
           </Chord>
         </Measure>
       <Measure number="17">
-        <endSpanner id="12"/>
-        <Volta id="13">
-          <beginText>
-            <text>2</text>
-            </beginText>
-          <endings>2</endings>
-          </Volta>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
             <Fingering>
+              <pos x="2.60287" y="-4.33652"/>
               <text>4</text>
               </Fingering>
             <pitch>38</pitch>
@@ -3079,6 +3268,7 @@
           <durationType>quarter</durationType>
           <Note>
             <Fingering>
+              <pos x="3.30382" y="-4.16128"/>
               <text>4</text>
               </Fingering>
             <pitch>38</pitch>
@@ -3096,16 +3286,17 @@
         </Measure>
       <Measure number="18">
         <StaffText>
+          <pos x="0.759369" y="-4.32572"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
           <text>3 4</text>
           </StaffText>
-        <Slur id="14">
+        <Slur id="8">
           <track>12</track>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="14"/>
+          <Slur type="start" id="8"/>
           <acciaccatura/>
           <Note>
             <pitch>49</pitch>
@@ -3115,7 +3306,7 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="14"/>
+          <Slur type="stop" id="8"/>
           <Note>
             <pitch>38</pitch>
             <tpc>16</tpc>
@@ -3132,7 +3323,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <endSpanner id="13"/>
         </Measure>
       </Staff>
     </Score>

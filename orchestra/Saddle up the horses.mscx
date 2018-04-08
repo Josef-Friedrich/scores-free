@@ -1,34 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.1.0</programVersion>
   <programRevision>871c8ce</programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
       </Synthesizer>
     <Division>480</Division>
+    <Style>
+      <page-layout>
+        <page-height>1683.78</page-height>
+        <page-width>1190.55</page-width>
+        <page-margins type="even">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        <page-margins type="odd">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        </page-layout>
+      <Spatium>1.76389</Spatium>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger"/>
-    <metaTag name="composer">Arrangement: Josef Friedrich</metaTag>
-    <metaTag name="copyright"/>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer"></metaTag>
+    <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-03-21</metaTag>
-    <metaTag name="lyricist"/>
-    <metaTag name="movementNumber"/>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle">Saddle up the horses</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
-    <metaTag name="poet"/>
-    <metaTag name="source"/>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber"/>
-    <metaTag name="workTitle"/>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source">https://musescore.com/user/28402917/scores/5047978</metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle"></metaTag>
     <PageList>
       <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -47,10 +65,10 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <trackName>Violine</trackName>
+      <trackName>Violin</trackName>
       <Instrument>
-        <longName>Violine</longName>
-        <shortName>Vln. I</shortName>
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         <trackName>Violin I</trackName>
         <Channel>
           <program value="40"/>
@@ -71,9 +89,9 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <trackName>Klavier</trackName>
+      <trackName>Piano</trackName>
       <Instrument>
-        <longName>Klavier</longName>
+        <longName>Piano</longName>
         <shortName>Pno.</shortName>
         <trackName>Piano</trackName>
         <Channel>
@@ -90,9 +108,9 @@
         <bracket type="0" span="2"/>
         <barLineSpan>2</barLineSpan>
         </Staff>
-      <trackName>Violoncello I</trackName>
+      <trackName>Violoncello</trackName>
       <Instrument>
-        <longName>Violoncello I</longName>
+        <longName>Violoncello</longName>
         <shortName>Vc.</shortName>
         <trackName>Violoncello</trackName>
         <Channel>
@@ -109,9 +127,9 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <trackName>Bass / Cello II</trackName>
+      <trackName>Contrabass</trackName>
       <Instrument>
-        <longName>Bass / Cello II</longName>
+        <longName>Contrabass</longName>
         <shortName>Cb.</shortName>
         <trackName>Contrabass</trackName>
         <Channel>
@@ -128,10 +146,6 @@
         <Text>
           <style>Title</style>
           <text>Saddle up the horses</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Arrangement: Josef Friedrich</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -164,6 +178,7 @@
           <Beam>1</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>2</text>
               </Fingering>
             <pitch>66</pitch>
@@ -181,6 +196,7 @@
           <Beam>1</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -197,6 +213,7 @@
           <Beam>2</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>1</text>
               </Fingering>
             <pitch>71</pitch>
@@ -211,6 +228,7 @@
           <Beam>2</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -229,6 +247,7 @@
           <Beam>3</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>1</text>
               </Fingering>
             <pitch>71</pitch>
@@ -243,6 +262,7 @@
           <Beam>3</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -259,6 +279,7 @@
           <Beam>4</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -280,6 +301,7 @@
           <Slur type="start" id="2"/>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>2</text>
               </Fingering>
             <pitch>66</pitch>
@@ -295,6 +317,7 @@
           <Slur type="stop" id="2"/>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>1</text>
               </Fingering>
             <pitch>64</pitch>
@@ -316,6 +339,7 @@
           <Beam>5</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>2</text>
               </Fingering>
             <pitch>66</pitch>
@@ -330,6 +354,7 @@
           <Beam>5</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -346,6 +371,7 @@
           <Beam>6</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>1</text>
               </Fingering>
             <pitch>71</pitch>
@@ -360,6 +386,7 @@
           <Beam>6</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -378,6 +405,7 @@
             </Articulation>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -394,6 +422,7 @@
             </Articulation>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>1</text>
               </Fingering>
             <pitch>64</pitch>
@@ -415,6 +444,7 @@
           <Beam>7</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>2</text>
               </Fingering>
             <pitch>66</pitch>
@@ -429,6 +459,7 @@
           <Beam>7</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -445,6 +476,7 @@
           <Beam>8</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>1</text>
               </Fingering>
             <pitch>71</pitch>
@@ -459,6 +491,7 @@
           <Beam>8</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -477,6 +510,7 @@
           <Beam>9</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>1</text>
               </Fingering>
             <pitch>71</pitch>
@@ -491,6 +525,7 @@
           <Beam>9</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -507,6 +542,7 @@
           <Beam>10</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -528,6 +564,7 @@
           <Slur type="start" id="3"/>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>71</pitch>
@@ -543,6 +580,7 @@
           <Slur type="stop" id="3"/>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>2</text>
               </Fingering>
             <pitch>73</pitch>
@@ -564,6 +602,7 @@
           <Beam>11</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>74</pitch>
@@ -578,6 +617,7 @@
           <Beam>11</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>71</pitch>
@@ -594,6 +634,7 @@
           <Beam>12</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -611,6 +652,7 @@
           <Beam>12</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>2</text>
               </Fingering>
             <pitch>66</pitch>
@@ -643,6 +685,7 @@
             </Articulation>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>1</text>
               </Fingering>
             <pitch>64</pitch>
@@ -659,6 +702,7 @@
             </Articulation>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>62</pitch>
@@ -677,6 +721,7 @@
           <Beam>13</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>81</pitch>
@@ -691,6 +736,7 @@
           <Beam>13</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -707,6 +753,7 @@
           <Beam>14</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>81</pitch>
@@ -721,6 +768,7 @@
           <Beam>14</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -739,6 +787,7 @@
           <Beam>15</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -753,6 +802,7 @@
           <Beam>15</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>74</pitch>
@@ -769,6 +819,7 @@
           <Beam>16</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>74</pitch>
@@ -783,6 +834,7 @@
           <Beam>16</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -801,6 +853,7 @@
           <Beam>17</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>81</pitch>
@@ -815,6 +868,7 @@
           <Beam>17</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -831,6 +885,7 @@
           <Beam>18</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>81</pitch>
@@ -845,6 +900,7 @@
           <Beam>18</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -860,9 +916,11 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>downbow</subtype>
+            <pos x="0.658281" y="-4.08847"/>
             </Articulation>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>4</text>
               </Fingering>
             <pitch>83</pitch>
@@ -876,9 +934,11 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>upbow</subtype>
+            <pos x="0.580534" y="-4.05495"/>
             </Articulation>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>81</pitch>
@@ -897,6 +957,7 @@
           <Beam>19</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>81</pitch>
@@ -911,6 +972,7 @@
           <Beam>19</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -927,6 +989,7 @@
           <Beam>20</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>81</pitch>
@@ -941,6 +1004,7 @@
           <Beam>20</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>78</pitch>
@@ -959,6 +1023,7 @@
           <Beam>21</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>0</text>
               </Fingering>
             <pitch>76</pitch>
@@ -973,6 +1038,7 @@
           <Beam>21</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>74</pitch>
@@ -989,6 +1055,7 @@
           <Beam>22</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>74</pitch>
@@ -1010,6 +1077,7 @@
           <Slur type="start" id="4"/>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>71</pitch>
@@ -1025,6 +1093,7 @@
           <Slur type="stop" id="4"/>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>2</text>
               </Fingering>
             <pitch>73</pitch>
@@ -1046,6 +1115,7 @@
           <Beam>23</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>3</text>
               </Fingering>
             <pitch>74</pitch>
@@ -1060,6 +1130,7 @@
           <Beam>23</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="-2"/>
               <text>1</text>
               </Fingering>
             <pitch>71</pitch>
@@ -1076,6 +1147,7 @@
           <Beam>24</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>69</pitch>
@@ -1093,6 +1165,7 @@
           <Beam>24</Beam>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>2</text>
               </Fingering>
             <pitch>66</pitch>
@@ -1122,6 +1195,7 @@
           <durationType>quarter</durationType>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>1</text>
               </Fingering>
             <pitch>64</pitch>
@@ -1135,6 +1209,7 @@
           <durationType>quarter</durationType>
           <Note>
             <Fingering>
+              <pos x="0.5" y="2"/>
               <text>0</text>
               </Fingering>
             <pitch>62</pitch>
@@ -3051,7 +3126,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>68</velocity>
             <veloType>user</veloType>
@@ -3061,7 +3136,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>73</velocity>
             <veloType>user</veloType>
@@ -3073,7 +3148,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>71</velocity>
             <veloType>user</veloType>
@@ -3083,7 +3158,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>73</velocity>
             <veloType>user</veloType>
@@ -3095,7 +3170,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>71</velocity>
             <veloType>user</veloType>
@@ -3105,7 +3180,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>71</velocity>
             <veloType>user</veloType>
@@ -3117,7 +3192,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>40</pitch>
+            <pitch>52</pitch>
             <tpc>18</tpc>
             <velocity>61</velocity>
             <veloType>user</veloType>
@@ -3127,7 +3202,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>70</velocity>
             <veloType>user</veloType>
@@ -3139,7 +3214,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>66</velocity>
             <veloType>user</veloType>
@@ -3149,7 +3224,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>71</velocity>
             <veloType>user</veloType>
@@ -3161,7 +3236,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>58</velocity>
             <veloType>user</veloType>
@@ -3171,7 +3246,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>66</velocity>
             <veloType>user</veloType>
@@ -3183,7 +3258,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>31</pitch>
+            <pitch>43</pitch>
             <tpc>15</tpc>
             <velocity>59</velocity>
             <veloType>user</veloType>
@@ -3193,7 +3268,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>30</pitch>
+            <pitch>42</pitch>
             <tpc>20</tpc>
             <velocity>63</velocity>
             <veloType>user</veloType>
@@ -3205,7 +3280,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>67</velocity>
             <veloType>user</veloType>
@@ -3215,7 +3290,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>68</velocity>
             <veloType>user</veloType>
@@ -3227,7 +3302,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>67</velocity>
             <veloType>user</veloType>
@@ -3237,7 +3312,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>61</velocity>
             <veloType>user</veloType>
@@ -3249,7 +3324,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>69</velocity>
             <veloType>user</veloType>
@@ -3259,7 +3334,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>63</velocity>
             <veloType>user</veloType>
@@ -3271,7 +3346,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>65</velocity>
             <veloType>user</veloType>
@@ -3281,7 +3356,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>70</velocity>
             <veloType>user</veloType>
@@ -3293,7 +3368,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>31</pitch>
+            <pitch>43</pitch>
             <tpc>15</tpc>
             <velocity>72</velocity>
             <veloType>user</veloType>
@@ -3303,7 +3378,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>30</pitch>
+            <pitch>42</pitch>
             <tpc>20</tpc>
             <velocity>62</velocity>
             <veloType>user</veloType>
@@ -3315,7 +3390,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>65</velocity>
             <veloType>user</veloType>
@@ -3325,7 +3400,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>75</velocity>
             <veloType>user</veloType>
@@ -3337,7 +3412,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>70</velocity>
             <veloType>user</veloType>
@@ -3347,7 +3422,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>68</velocity>
             <veloType>user</veloType>
@@ -3359,7 +3434,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>31</pitch>
+            <pitch>43</pitch>
             <tpc>15</tpc>
             <velocity>70</velocity>
             <veloType>user</veloType>
@@ -3369,7 +3444,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>30</pitch>
+            <pitch>42</pitch>
             <tpc>20</tpc>
             <velocity>65</velocity>
             <veloType>user</veloType>
@@ -3381,7 +3456,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             <velocity>68</velocity>
             <veloType>user</veloType>
@@ -3391,7 +3466,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
+            <pitch>50</pitch>
             <tpc>16</tpc>
             <velocity>70</velocity>
             <veloType>user</veloType>
