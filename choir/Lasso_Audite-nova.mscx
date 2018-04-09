@@ -672,12 +672,6 @@
           <sigD>2</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Tempo>
-          <tempo>2</tempo>
-          <followText>1</followText>
-          <visible>0</visible>
-          <text><sym>unicodeNoteHalfUp</sym> = 60</text>
-          </Tempo>
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -889,9 +883,6 @@
           </Chord>
         </Measure>
       <Measure number="6">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>breve</durationType>
           <Articulation>
@@ -911,12 +902,6 @@
           <sigD>2</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Tempo>
-          <tempo>2.66667</tempo>
-          <followText>1</followText>
-          <visible>0</visible>
-          <text><sym>unicodeNoteHalfUp</sym> = 80</text>
-          </Tempo>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1076,9 +1061,6 @@
           </Chord>
         </Measure>
       <Measure number="11">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1344,9 +1326,6 @@
           </Chord>
         </Measure>
       <Measure number="16">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1554,9 +1533,6 @@
         </Measure>
       <Measure number="23">
         <stretch>0.9</stretch>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1705,9 +1681,6 @@
         </Measure>
       <Measure number="28">
         <stretch>0.8</stretch>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1903,9 +1876,6 @@
           </Chord>
         </Measure>
       <Measure number="35">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <TimeSig>
           <sigN>2</sigN>
           <sigD>2</sigD>
@@ -2131,9 +2101,6 @@
         </Measure>
       <Measure number="42">
         <stretch>0.8</stretch>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>whole</durationType>
           <Lyrics>
@@ -2290,9 +2257,6 @@
           </Chord>
         </Measure>
       <Measure number="47">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -2447,9 +2411,6 @@
           </Chord>
         </Measure>
       <Measure number="53">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -2626,9 +2587,6 @@
           </Chord>
         </Measure>
       <Measure number="58">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -2868,9 +2826,6 @@
           </Chord>
         </Measure>
       <Measure number="64">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -3022,12 +2977,6 @@
           </Chord>
         </Measure>
       <Measure number="69">
-        <Tempo>
-          <tempo>2.33333</tempo>
-          <followText>1</followText>
-          <visible>0</visible>
-          <text><sym>unicodeNoteHalfUp</sym> = 70</text>
-          </Tempo>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -3054,12 +3003,6 @@
           </Chord>
         </Measure>
       <Measure number="70">
-        <Tempo>
-          <tempo>1.86667</tempo>
-          <followText>1</followText>
-          <visible>0</visible>
-          <text><sym>unicodeNoteHalfUp</sym> = 56</text>
-          </Tempo>
         <Chord>
           <durationType>half</durationType>
           <Slur type="stop" id="19"/>

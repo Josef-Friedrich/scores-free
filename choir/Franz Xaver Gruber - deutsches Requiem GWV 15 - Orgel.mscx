@@ -1613,6 +1613,9 @@
           </Text>
         </VBox>
       <Measure number="1" len="1/4">
+        <KeySig>
+          <accidental>-2</accidental>
+          </KeySig>
         <TimeSig>
           <sigN>3</sigN>
           <sigD>4</sigD>
@@ -1803,9 +1806,6 @@
             <tpc>14</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -1904,9 +1904,6 @@
             <tpc>14</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -2029,6 +2026,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2226,6 +2226,9 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2446,9 +2449,6 @@
             <tpc>15</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -2473,9 +2473,6 @@
           <durationType>eighth</durationType>
           <Beam>26</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -2546,9 +2543,6 @@
           <durationType>eighth</durationType>
           <Beam>28</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -2599,9 +2593,6 @@
             <tpc>14</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -2730,9 +2721,6 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -2778,9 +2766,6 @@
             <tpc>15</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -2976,9 +2961,6 @@
             <tpc>14</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -3101,6 +3083,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -3123,6 +3108,7 @@
           <durationType>quarter</durationType>
           </Rest>
         <StaffText>
+          <pos x="-0.206964" y="-5.7592"/>
           <text>( f )</text>
           </StaffText>
         <Beam id="39">
@@ -3295,6 +3281,9 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -3534,9 +3523,6 @@
             <tpc>15</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -3561,9 +3547,6 @@
           <durationType>eighth</durationType>
           <Beam>49</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -3639,9 +3622,6 @@
           <durationType>eighth</durationType>
           <Beam>51</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -3706,9 +3686,6 @@
             <tpc>15</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -6092,12 +6069,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Dynamic>
-          <subtype>f</subtype>
-          <velocity>96</velocity>
-          <xoffset>0</xoffset>
-          <yoffset>7.8</yoffset>
-          </Dynamic>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -6732,15 +6703,10 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="3"/>
           <BeamMode>auto</BeamMode>
           <durationType>quarter</durationType>
           </Rest>
-        <Dynamic>
-          <subtype>f</subtype>
-          <velocity>96</velocity>
-          <xoffset>0</xoffset>
-          <yoffset>7</yoffset>
-          </Dynamic>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -6755,19 +6721,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>142080</tick>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <BeamMode>auto</BeamMode>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <BeamMode>auto</BeamMode>
-          <durationType>quarter</durationType>
-          </Rest>
+        <tick>143040</tick>
         <Chord>
           <track>1</track>
           <durationType>eighth</durationType>
@@ -6942,25 +6896,7 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <tick>145920</tick>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <BeamMode>auto</BeamMode>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <BeamMode>auto</BeamMode>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <BeamMode>auto</BeamMode>
-          <durationType>eighth</durationType>
-          </Rest>
+        <tick>147360</tick>
         <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
@@ -7089,19 +7025,7 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <tick>149760</tick>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <BeamMode>auto</BeamMode>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <BeamMode>auto</BeamMode>
-          <durationType>quarter</durationType>
-          </Rest>
+        <tick>150720</tick>
         <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
@@ -8468,14 +8392,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>186240</tick>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <BeamMode>auto</BeamMode>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
-          </Rest>
+        <tick>186960</tick>
         <Chord>
           <track>1</track>
           <dots>1</dots>
@@ -8525,13 +8442,7 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <tick>187680</tick>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
-          </Rest>
+        <tick>188400</tick>
         <Chord>
           <track>1</track>
           <BeamMode>no</BeamMode>
@@ -8640,6 +8551,9 @@
           </Text>
         </VBox>
       <Measure number="1" len="1/4">
+        <KeySig>
+          <accidental>-2</accidental>
+          </KeySig>
         <TimeSig>
           <subtype>2</subtype>
           <sigN>2</sigN>
@@ -8700,9 +8614,6 @@
           <durationType>eighth</durationType>
           <Beam>129</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -8800,9 +8711,6 @@
             <tpc>14</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -9017,6 +8925,7 @@
         <Dynamic>
           <subtype>f</subtype>
           <velocity>96</velocity>
+          <pos x="1.43576" y="7.78874"/>
           <xoffset>0</xoffset>
           <yoffset>7.4</yoffset>
           </Dynamic>
@@ -9033,6 +8942,9 @@
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -9066,6 +8978,9 @@
             <tpc>14</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -9125,6 +9040,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -9347,6 +9265,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -9496,9 +9417,6 @@
             <tpc>14</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -9560,9 +9478,6 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -9581,12 +9496,7 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>218880</tick>
-        <Rest>
-          <track>1</track>
-          <BeamMode>auto</BeamMode>
-          <durationType>half</durationType>
-          </Rest>
+        <tick>219840</tick>
         <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
@@ -9601,10 +9511,6 @@
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <Accidental>
-              <subtype>flat</subtype>
-              <track>1</track>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -9649,15 +9555,13 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0" y="2"/>
           <BeamMode>auto</BeamMode>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -9669,13 +9573,6 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <tick>222720</tick>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <BeamMode>auto</BeamMode>
-          <durationType>half</durationType>
-          </Rest>
         <tick>224160</tick>
         <Chord>
           <track>1</track>
@@ -9862,9 +9759,6 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <Tie id="4">
               </Tie>
             <pitch>75</pitch>
@@ -9882,10 +9776,6 @@
             </Note>
           <Note>
             <track>1</track>
-            <Accidental>
-              <subtype>flat</subtype>
-              <track>1</track>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -9904,12 +9794,7 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>1</track>
-          <visible>0</visible>
-          <BeamMode>auto</BeamMode>
-          <durationType>quarter</durationType>
-          </Rest>
+        <tick>228000</tick>
         <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
@@ -10003,10 +9888,6 @@
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <Accidental>
-              <subtype>flat</subtype>
-              <track>1</track>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -11121,6 +11002,9 @@
           </Chord>
         </Measure>
       <Measure number="1" len="1/4">
+        <KeySig>
+          <accidental>-2</accidental>
+          </KeySig>
         <TimeSig>
           <sigN>3</sigN>
           <sigD>4</sigD>
@@ -11373,9 +11257,6 @@
           <durationType>eighth</durationType>
           <Beam>161</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -11730,6 +11611,9 @@
           <durationType>eighth</durationType>
           <Beam>177</Beam>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -12004,9 +11888,6 @@
           <durationType>eighth</durationType>
           <Beam>190</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -12184,9 +12065,6 @@
           <durationType>16th</durationType>
           <Beam>197</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -12837,6 +12715,9 @@
           <durationType>eighth</durationType>
           <Beam>222</Beam>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -12868,9 +12749,6 @@
           <durationType>16th</durationType>
           <Beam>223</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -13123,9 +13001,6 @@
           <durationType>eighth</durationType>
           <Beam>235</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -14768,6 +14643,13 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Dynamic>
+          <subtype>f</subtype>
+          <velocity>96</velocity>
+          <pos x="0.17332" y="-1.08907"/>
+          <xoffset>0</xoffset>
+          <yoffset>7.8</yoffset>
+          </Dynamic>
         <Beam id="295">
           </Beam>
         <Chord>
@@ -15230,6 +15112,13 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Dynamic>
+          <subtype>f</subtype>
+          <velocity>96</velocity>
+          <pos x="-1.25131" y="-2.96696"/>
+          <xoffset>0</xoffset>
+          <yoffset>7</yoffset>
+          </Dynamic>
         <Beam id="303">
           </Beam>
         <Chord>
@@ -16889,6 +16778,9 @@
           </Chord>
         </Measure>
       <Measure number="1" len="1/4">
+        <KeySig>
+          <accidental>-2</accidental>
+          </KeySig>
         <TimeSig>
           <subtype>2</subtype>
           <sigN>2</sigN>
@@ -17047,6 +16939,9 @@
           <durationType>eighth</durationType>
           <Beam>360</Beam>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -17271,6 +17166,9 @@
           <durationType>eighth</durationType>
           <Beam>363</Beam>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -17313,6 +17211,9 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -17352,9 +17253,6 @@
           <durationType>eighth</durationType>
           <Beam>364</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -17460,9 +17358,6 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -17616,9 +17511,6 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -17693,9 +17585,6 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>

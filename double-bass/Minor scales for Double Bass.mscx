@@ -37,7 +37,7 @@
     <metaTag name="creationDate">2018-03-21</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">Dur-Tonleiter bis 4 Vorzeichen</metaTag>
+    <metaTag name="movementTitle">Moll-Tonleiter bis 4 Vorzeichen</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
@@ -65,10 +65,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
-        <System>
-          </System>
         </Page>
       <Page>
         <System>
@@ -89,10 +85,14 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -129,11 +129,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Major scales for Double Bass</text>
+          <text>Minor scales for Double Bass</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>C</text>
+          <text>a</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -146,6 +146,36 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -175,7 +205,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="2">
+      <Measure number="3">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -194,30 +224,73 @@
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
           <text>2</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
+          <Lyrics>
+            <ticks>960</ticks>
+            <text>II</text>
+            </Lyrics>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="3">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>0</text>
+          <text>4</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="5">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>I</text>
+            </Lyrics>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <StaffText>
@@ -230,12 +303,183 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>3</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Clef>
+          <concertClefType>F</concertClefType>
+          <transposingClefType>F</transposingClefType>
+          </Clef>
         </Measure>
-      <Measure number="4">
+      <Measure number="9">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="10">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -260,12 +504,722 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>60</pitch>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="12">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>48</pitch>
             <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <LayoutBreak>
+          <subtype>section</subtype>
+          </LayoutBreak>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>whole</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Subtitle</style>
+          <text>e</text>
+          </Text>
+        </VBox>
+      <Measure number="1">
+        <KeySig>
+          <accidental>1</accidental>
+          <mode>major</mode>
+          </KeySig>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Lyrics>
+            <ticks>960</ticks>
+            <text>III</text>
+            </Lyrics>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="5">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>II</text>
+            </Lyrics>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="9">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="10">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="12">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <LayoutBreak>
+          <subtype>section</subtype>
+          </LayoutBreak>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>whole</durationType>
+          <Note>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Subtitle</style>
+          <text>d</text>
+          </Text>
+        </VBox>
+      <Measure number="1">
+        <KeySig>
+          <accidental>-1</accidental>
+          <mode>major</mode>
+          </KeySig>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -280,6 +1234,8 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="5">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -294,8 +1250,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="6">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -314,15 +1268,34 @@
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
+        </Measure>
+      <Measure number="6">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Articulation>
-            <subtype>thumb</subtype>
-            </Articulation>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>3</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -340,8 +1313,11 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <StaffText>
@@ -354,8 +1330,11 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -370,8 +1349,8 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <StaffText>
@@ -384,8 +1363,12 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -400,16 +1383,35 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>3</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="10">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Articulation>
-            <subtype>thumb</subtype>
-            </Articulation>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -419,8 +1421,6 @@
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
           </Clef>
-        </Measure>
-      <Measure number="10">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -435,6 +1435,8 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="11">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -449,8 +1451,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="11">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -465,6 +1465,8 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="12">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -479,13 +1481,353 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
         </Measure>
-      <Measure number="12">
+      <Measure number="13">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <LayoutBreak>
+          <subtype>section</subtype>
+          </LayoutBreak>
+        <LayoutBreak>
+          <subtype>page</subtype>
+          </LayoutBreak>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>whole</durationType>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Subtitle</style>
+          <text>b</text>
+          </Text>
+        </VBox>
+      <Measure number="1">
+        <KeySig>
+          <accidental>2</accidental>
+          <mode>major</mode>
+          </KeySig>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
           <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>I</text>
+            </Lyrics>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>58</pitch>
+            <tpc>24</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="5">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        </Measure>
+      <Measure number="7">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Articulation>
+            <subtype>thumb</subtype>
+            </Articulation>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>58</pitch>
+            <tpc>24</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -505,12 +1847,125 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="13">
+      <Measure number="9">
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Articulation>
+            <subtype>thumb</subtype>
+            </Articulation>
+          <Note>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Clef>
+          <concertClefType>F</concertClefType>
+          <transposingClefType>F</transposingClefType>
+          </Clef>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="10">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="12">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -525,22 +1980,22 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="13">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>2</text>
+          <text>4</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="14">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -555,6 +2010,8 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="14">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -569,6 +2026,20 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="15">
         <LayoutBreak>
@@ -578,18 +2049,18 @@
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>2</text>
+          <text>1</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <BarLine>
-          <subtype>double</subtype>
+          <subtype>end</subtype>
           <span>1</span>
           </BarLine>
         </Measure>
@@ -597,19 +2068,19 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>G</text>
+          <text>g</text>
           </Text>
         </VBox>
       <Measure number="1">
         <KeySig>
-          <accidental>1</accidental>
+          <accidental>-2</accidental>
           <mode>major</mode>
           </KeySig>
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>2</text>
+          <text>4</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -645,15 +2116,15 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
+            <pitch>46</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>2</text>
+          <text>4</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -689,6 +2160,9 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -705,6 +2179,9 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>54</pitch>
             <tpc>20</tpc>
             </Note>
@@ -743,14 +2220,14 @@
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>4</text>
+          <text>2</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -798,6 +2275,9 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -812,6 +2292,9 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -819,9 +2302,9 @@
         </Measure>
       <Measure number="8">
         <StaffText>
-          <pos x="0" y="-5.8"/>
+          <pos x="0" y="-6.8"/>
           <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
+          <yoffset>-4.8</yoffset>
           <text>3</text>
           </StaffText>
         <Chord>
@@ -842,1423 +2325,12 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="9">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="10">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="11">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="12">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="13">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="14">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="15">
-        <LayoutBreak>
-          <subtype>section</subtype>
-          </LayoutBreak>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>whole</durationType>
-          <Note>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
-        </Measure>
-      <VBox>
-        <height>10</height>
-        <Text>
-          <style>Subtitle</style>
-          <text>F</text>
-          </Text>
-        </VBox>
-      <Measure number="1">
-        <KeySig>
-          <accidental>-1</accidental>
-          <mode>major</mode>
-          </KeySig>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="2">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>46</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="3">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="4">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="5">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="6">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="7">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="8">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="9">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="10">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="11">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="12">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="13">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>46</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="14">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="15">
-        <LayoutBreak>
-          <subtype>section</subtype>
-          </LayoutBreak>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>whole</durationType>
-          <Note>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
-        </Measure>
-      <VBox>
-        <height>10</height>
-        <Text>
-          <style>Subtitle</style>
-          <text>D</text>
-          </Text>
-        </VBox>
-      <Measure number="1">
-        <KeySig>
-          <accidental>2</accidental>
-          <mode>major</mode>
-          </KeySig>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="2">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="3">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="4">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="5">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        </Measure>
-      <Measure number="6">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>3</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="7">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="8">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>3</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="9">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>3</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="10">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="11">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="12">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="13">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="14">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="15">
-        <LayoutBreak>
-          <subtype>section</subtype>
-          </LayoutBreak>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>whole</durationType>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
-        </Measure>
-      <VBox>
-        <height>10</height>
-        <Text>
-          <style>Subtitle</style>
-          <text>B flat</text>
-          </Text>
-        </VBox>
-      <Measure number="1">
-        <KeySig>
-          <accidental>-2</accidental>
-          <mode>major</mode>
-          </KeySig>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>46</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="2">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="3">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="4">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="5">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="6">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        </Measure>
-      <Measure number="7">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Articulation>
-            <subtype>thumb</subtype>
-            </Articulation>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="8">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="9">
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Articulation>
-            <subtype>thumb</subtype>
-            </Articulation>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="10">
+      <Measure number="9">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2288,7 +2360,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="11">
+      <Measure number="10">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2318,7 +2390,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="12">
+      <Measure number="11">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2348,7 +2420,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="13">
+      <Measure number="12">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2378,7 +2450,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="14">
+      <Measure number="13">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2408,10 +2480,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
-        <LayoutBreak>
-          <subtype>section</subtype>
-          </LayoutBreak>
+      <Measure number="14">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2420,14 +2489,47 @@
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>whole</durationType>
+          <durationType>half</durationType>
           <Note>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <LayoutBreak>
+          <subtype>section</subtype>
+          </LayoutBreak>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>whole</durationType>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <BarLine>
-          <subtype>double</subtype>
+          <subtype>end</subtype>
           <span>1</span>
           </BarLine>
         </Measure>
@@ -2435,7 +2537,7 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>A</text>
+          <text>f sharp</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -2447,6 +2549,36 @@
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>44</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
           <text>0</text>
           </StaffText>
         <Chord>
@@ -2472,7 +2604,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="2">
+      <Measure number="3">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2491,30 +2623,40 @@
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="3">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
           <text>1</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
+          <Lyrics>
+            <ticks>3840</ticks>
+            <text>II</text>
+            </Lyrics>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>53</pitch>
+            <tpc>25</tpc>
             </Note>
           </Chord>
         <StaffText>
@@ -2532,7 +2674,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="4">
+      <Measure number="5">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2542,9 +2684,6 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Lyrics>
-            <text>II</text>
-            </Lyrics>
           <Note>
             <pitch>56</pitch>
             <tpc>22</tpc>
@@ -2565,7 +2704,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="5">
+      <Measure number="6">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2587,7 +2726,7 @@
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>2</text>
+          <text>1</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -2595,36 +2734,6 @@
           <Note>
             <pitch>61</pitch>
             <tpc>21</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="6">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -2642,14 +2751,13 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2660,46 +2768,15 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>65</pitch>
+            <tpc>25</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="8">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>3</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        </Measure>
-      <Measure number="9">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2729,7 +2806,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="10">
+      <Measure number="9">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2759,7 +2836,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="11">
+      <Measure number="10">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2792,7 +2869,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="12">
+      <Measure number="11">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2822,7 +2899,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="13">
+      <Measure number="12">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2852,7 +2929,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="14">
+      <Measure number="13">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2882,10 +2959,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
-        <LayoutBreak>
-          <subtype>section</subtype>
-          </LayoutBreak>
+      <Measure number="14">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2894,14 +2968,50 @@
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
-          <durationType>whole</durationType>
+          <durationType>half</durationType>
           <Note>
             <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>44</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <LayoutBreak>
+          <subtype>section</subtype>
+          </LayoutBreak>
+        <LayoutBreak>
+          <subtype>page</subtype>
+          </LayoutBreak>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>whole</durationType>
+          <Note>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
         <BarLine>
-          <subtype>double</subtype>
+          <subtype>end</subtype>
           <span>1</span>
           </BarLine>
         </Measure>
@@ -2909,7 +3019,7 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>E flat</text>
+          <text>c</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -2921,6 +3031,36 @@
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
           <text>1</text>
           </StaffText>
         <Chord>
@@ -2946,7 +3086,154 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="2">
+      <Measure number="3">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="5">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>63</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Articulation>
+            <subtype>thumb</subtype>
+            </Articulation>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2956,10 +3243,180 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
-          <Lyrics>
-            <ticks>960</ticks>
-            <text>II</text>
-            </Lyrics>
+          <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>3</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <role>1</role>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="9">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>10</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Articulation>
+            <subtype>thumb</subtype>
+            </Articulation>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Clef>
+          <concertClefType>F</concertClefType>
+          <transposingClefType>F</transposingClefType>
+          </Clef>
+        </Measure>
+      <Measure number="10">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>63</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="12">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>10</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -2975,12 +3432,158 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>10</tpc>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>0</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <LayoutBreak>
+          <subtype>section</subtype>
+          </LayoutBreak>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>whole</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Subtitle</style>
+          <text>c sharp</text>
+          </Text>
+        </VBox>
+      <Measure number="1">
+        <KeySig>
+          <accidental>4</accidental>
+          <mode>major</mode>
+          </KeySig>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Lyrics>
+            <ticks>1920</ticks>
+            <text>III</text>
+            </Lyrics>
+          <Note>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Lyrics>
+            <ticks>960</ticks>
+            <text>II</text>
+            </Lyrics>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="3">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -2994,22 +3597,11 @@
             <text>I</text>
             </Lyrics>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <tpc>24</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -3024,8 +3616,11 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>60</pitch>
+            <tpc>26</tpc>
             </Note>
           </Chord>
         <StaffText>
@@ -3038,12 +3633,42 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="5">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>2</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3054,8 +3679,8 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Clef>
@@ -3072,38 +3697,8 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="6">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
             <pitch>56</pitch>
-            <tpc>10</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>3</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <tpc>22</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -3121,8 +3716,11 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>58</pitch>
+            <tpc>24</tpc>
             </Note>
           </Chord>
         <StaffText>
@@ -3135,8 +3733,11 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>60</pitch>
+            <tpc>26</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -3146,447 +3747,6 @@
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
           <text>3</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="9">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>3</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="10">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>56</pitch>
-            <tpc>10</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>3</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        </Measure>
-      <Measure number="11">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="12">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="13">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>II</text>
-            </Lyrics>
-          <Note>
-            <pitch>56</pitch>
-            <tpc>10</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="14">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="15">
-        <LayoutBreak>
-          <subtype>section</subtype>
-          </LayoutBreak>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>whole</durationType>
-          <Note>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
-            </Note>
-          </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
-        </Measure>
-      <VBox>
-        <height>10</height>
-        <Text>
-          <style>Subtitle</style>
-          <text>E</text>
-          </Text>
-        </VBox>
-      <Measure number="1">
-        <KeySig>
-          <accidental>4</accidental>
-          <mode>major</mode>
-          </KeySig>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>42</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="2">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>44</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Lyrics>
-            <ticks>3840</ticks>
-            <text>III</text>
-            </Lyrics>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="3">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>49</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="4">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>51</pitch>
-            <tpc>23</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="5">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>II</text>
-            </Lyrics>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="6">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="7">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -3606,12 +3766,68 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>63</pitch>
-            <tpc>23</tpc>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="8">
+      <Measure number="9">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>3</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Clef>
+          <concertClefType>F</concertClefType>
+          <transposingClefType>F</transposingClefType>
+          </Clef>
+        </Measure>
+      <Measure number="10">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3626,6 +3842,8 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="11">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3640,8 +3858,6 @@
             <tpc>23</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="9">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3656,6 +3872,8 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="12">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3670,8 +3888,6 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="10">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3682,6 +3898,7 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
+            <ticks>1920</ticks>
             <text>II</text>
             </Lyrics>
           <Note>
@@ -3689,6 +3906,8 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="13">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3703,8 +3922,6 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="11">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3719,6 +3936,8 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="14">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3736,8 +3955,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="12">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3752,80 +3969,6 @@
             <tpc>23</tpc>
             </Note>
           </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>49</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="13">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>0</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="14">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>44</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>42</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="15">
         <LayoutBreak>
@@ -3835,18 +3978,18 @@
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>0</text>
+          <text>1</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <pitch>40</pitch>
-            <tpc>18</tpc>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <BarLine>
-          <subtype>double</subtype>
+          <subtype>end</subtype>
           <span>1</span>
           </BarLine>
         </Measure>
@@ -3854,7 +3997,7 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>A flat</text>
+          <text>f</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -3872,9 +4015,39 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Lyrics>
-            <ticks>960</ticks>
+            <ticks>2880</ticks>
             <text>IV</text>
             </Lyrics>
+          <Note>
+            <pitch>41</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
           <Note>
             <pitch>44</pitch>
             <tpc>10</tpc>
@@ -3895,12 +4068,12 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="2">
+      <Measure number="3">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>2</text>
+          <text>1</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -3923,24 +4096,33 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>49</pitch>
-            <tpc>9</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="3">
+      <Measure number="4">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>1</text>
+          <text>2</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
+          <Lyrics>
+            <text>II</text>
+            </Lyrics>
           <Note>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <StaffText>
@@ -3958,7 +4140,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="4">
+      <Measure number="5">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -3988,7 +4170,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="5">
+      <Measure number="6">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -4007,7 +4189,7 @@
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
           <yoffset>-3.8</yoffset>
-          <text>2</text>
+          <text>1</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -4015,36 +4197,6 @@
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="6">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>4</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>9</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>1</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -4062,14 +4214,13 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -4080,46 +4231,15 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="8">
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>3</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>56</pitch>
-            <tpc>10</tpc>
-            </Note>
-          </Chord>
-        <StaffText>
-          <pos x="0" y="-5.8"/>
-          <xoffset>0</xoffset>
-          <yoffset>-3.8</yoffset>
-          <text>2</text>
-          </StaffText>
-        <Chord>
-          <BeamMode>no</BeamMode>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        </Measure>
-      <Measure number="9">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -4149,7 +4269,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="10">
+      <Measure number="9">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -4179,7 +4299,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="11">
+      <Measure number="10">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -4209,7 +4329,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="12">
+      <Measure number="11">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -4239,7 +4359,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="13">
+      <Measure number="12">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -4250,8 +4370,11 @@
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
           <Note>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <StaffText>
@@ -4263,13 +4386,20 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
+          <Lyrics>
+            <ticks>960</ticks>
+            <text>III</text>
+            </Lyrics>
           <Note>
-            <pitch>49</pitch>
-            <tpc>9</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="14">
+      <Measure number="13">
         <StaffText>
           <pos x="0" y="-5.8"/>
           <xoffset>0</xoffset>
@@ -4293,9 +4423,42 @@
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>half</durationType>
+          <Lyrics>
+            <text>IV</text>
+            </Lyrics>
           <Note>
             <pitch>46</pitch>
             <tpc>12</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>1</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>44</pitch>
+            <tpc>10</tpc>
+            </Note>
+          </Chord>
+        <StaffText>
+          <pos x="0" y="-5.8"/>
+          <xoffset>0</xoffset>
+          <yoffset>-3.8</yoffset>
+          <text>4</text>
+          </StaffText>
+        <Chord>
+          <BeamMode>no</BeamMode>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -4310,8 +4473,8 @@
           <BeamMode>no</BeamMode>
           <durationType>whole</durationType>
           <Note>
-            <pitch>44</pitch>
-            <tpc>10</tpc>
+            <pitch>41</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <BarLine>
