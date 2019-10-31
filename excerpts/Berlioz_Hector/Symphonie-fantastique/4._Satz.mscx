@@ -145,9 +145,10 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <minDistance>-0.15459</minDistance>
-            <offset x="-5.49855" y="5.59208"/>
-            <text>dolce assai ed appassionato</text>
+            <offset x="-2.74928" y="3.36647"/>
+            <text>dolce assai 
+ed appassionato
+</text>
             </StaffText>
           <Chord>
             <durationType>whole</durationType>
@@ -415,6 +416,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <minDistance>0.5</minDistance>
+            <offset x="-1.70193" y="-5.72611"/>
             <text>Tutti</text>
             </StaffText>
           <Dynamic>
@@ -503,6 +506,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>dotted</subtype>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>

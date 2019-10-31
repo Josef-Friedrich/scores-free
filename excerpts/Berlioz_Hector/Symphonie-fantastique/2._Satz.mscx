@@ -141,7 +141,8 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <text>expressivo</text>
+            <offset x="-0.522755" y="4.54551"/>
+            <text>espressivo</text>
             </StaffText>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -441,6 +442,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>dotted</subtype>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>

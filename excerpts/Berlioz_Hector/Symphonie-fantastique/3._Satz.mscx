@@ -445,6 +445,9 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <BarLine>
+            <subtype>dotted</subtype>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>

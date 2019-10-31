@@ -393,7 +393,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="5/8">
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -424,17 +424,14 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
-            <dots>1</dots>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
           <BarLine>
-            <subtype>end</subtype>
+            <subtype>dotted</subtype>
             </BarLine>
           </voice>
         </Measure>

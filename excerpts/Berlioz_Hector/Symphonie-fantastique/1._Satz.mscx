@@ -119,7 +119,7 @@
           <Tempo>
             <tempo>4.4</tempo>
             <followText>1</followText>
-            <text><b>Allegro agitato e appasionata assai (</b><font face="ScoreText"/><b><font face="FreeSerif"/> = 132)</b></text>
+            <text><b>Allegro agitato e appasionato assai (</b><font face="ScoreText"/><b><font face="FreeSerif"/> = 132)</b></text>
             </Tempo>
           <StaffText>
             <text>Vn. I., Fl.</text>
@@ -259,8 +259,8 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -446,6 +446,7 @@
               <next>
                 <location>
                   <measures>1</measures>
+                  <fractions>1/2</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -486,13 +487,6 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -509,6 +503,14 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -933,6 +935,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>dotted</subtype>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>
