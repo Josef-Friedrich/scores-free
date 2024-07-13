@@ -1,8 +1,9 @@
-*.mscx,
-*.mscz
-*.mscz,
-*.DS_Store
-*.mscx.bak
-*.pdf
+.mscbackup/
 *_bak.mscx
 *_tmp.mscx
+*.DS_Store
+*.mscx,
+*.mscx.bak
+*.mscz,
+*.mscz~
+*.pdf
